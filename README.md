@@ -1,6 +1,10 @@
 # MixTrackersListCollection
 TrackersListCollection 整合的BT追踪器。
 
+<button type="button" onclick="navigator.clipboard.writeText('https://raw.githubusercontent.com/vampireisoves/MixTrackersListCollection/refs/heads/main/out.txt')">
+    复制到剪贴板
+</button>
+
 列表中如果有漏掉的，请提交议题哦。
 列表中如果有漏掉的，请提交议题哦。
 列表中如果有漏掉的，请提交议题哦。
