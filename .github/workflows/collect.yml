@@ -25,8 +25,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "vampireisoves"
+          git config --global user.email "893751627@qq.com"
           git add out.txt
           git commit -m "Update out.txt by GitHub Actions" || echo "No changes to commit"
           git push
