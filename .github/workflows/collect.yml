@@ -2,7 +2,7 @@ name: Collect and Deduplicate Trackers
 
 on:
   schedule:
-    - cron: "0 * * * *" # 每小时执行一次
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false # 禁用默认 token，使用你的 secrets
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -23,10 +25,13 @@ jobs:
       - name: Run fetch_and_dedup.py
         run: python fetch_and_dedup.py
 
-      - name: Commit and push changes
+      - name: Commit and push changes using secret token
+        env:
+          GIT_TOKEN: ${{ secrets.MTLC }}
         run: |
-          git config --global user.name "vampireisoves"
-          git config --global user.email "893751627@qq.com"
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add out.txt
           git commit -m "Update out.txt by GitHub Actions" || echo "No changes to commit"
-          git push
+          git remote set-url origin https://x-access-token:${GIT_TOKEN}@github.com/vampireisoves/MixTrackersListCollection.git
+          git push origin HEAD:main
