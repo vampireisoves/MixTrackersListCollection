@@ -1,6 +1,7 @@
 # MixTrackersListCollection
 TrackersListCollection 整合的BT追踪器。
-
+小时更新一次
+直接使用这个链接订阅TrackersList
 ```
 https://raw.githubusercontent.com/vampireisoves/MixTrackersListCollection/refs/heads/main/out.txt
 ```
