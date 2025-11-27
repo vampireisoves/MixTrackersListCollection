@@ -11,13 +11,9 @@ https://raw.githubusercontent.com/vampireisoves/MixTrackersListCollection/refs/h
 整合列表：
 
 https://cf.trackerslist.com/best.txt
-
 https://cf.trackerslist.com/all.txt
-
 https://cf.trackerslist.com/http.txt
-
 https://cf.trackerslist.com/nohttp.txt
-
 https://bitbucket.org/xiu2/trackerslistcollection/raw/master/best.txt
 https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt
 https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt
@@ -55,3 +51,10 @@ https://raw.githubusercontent.com/scriptzteam/BitTorrent-Tracker-List/refs/heads
 https://raw.githubusercontent.com/scriptzteam/BitTorrent-Tracker-List/refs/heads/main/trackers_best.txt
 https://raw.githubusercontent.com/scriptzteam/BitTorrent-Tracker-List/refs/heads/main/trackers_best_ip.txt
 https://raw.githubusercontent.com/scriptzteam/BitTorrent-Tracker-List/refs/heads/main/blacklist.txt
+https://trackers.run/s/rw_ws_up_hp_hs_v4_v6.txt
+https://raw.githubusercontent.com/alma4rebi/Best-working-torrent-tracker-list/refs/heads/master/tracker
+https://raw.githubusercontent.com/cdryzun/Fucking-torrent/refs/heads/main/trackers.txt
+https://raw.githubusercontent.com/khantzawhein/torrent-tracker-ips/refs/heads/main/extracted_ips.txt
+https://raw.githubusercontent.com/xXSalamanderXx/salamander-trackers/refs/heads/main/combined.txt
+https://raw.githubusercontent.com/pradt2/always-online-torrent-trackers/refs/heads/master/udp_hosts.txt
+https://raw.githubusercontent.com/pradt2/always-online-torrent-trackers/refs/heads/master/udp_ipv4s.txt
