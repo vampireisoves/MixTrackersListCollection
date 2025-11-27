@@ -103,6 +103,7 @@
 15.204.57.168
 151.243.109.110
 151.243.109.110:1337
+151.243.109.110:6969
 151.243.109.163
 152.231.114.120
 152.231.114.55
@@ -268,6 +269,7 @@
 207.211.184.229
 207.244.226.120
 208.83.20.20
+208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.50.255.93
@@ -276,10 +278,13 @@
 211.23.142.127
 211.75.205.187
 211.75.205.187:6969
+211.75.205.187:80
 211.75.205.188
 211.75.205.188:6969
+211.75.205.188:80
 211.75.205.189
 211.75.205.189:6969
+211.75.205.189:80
 211.75.205.190
 211.75.205.191
 211.75.205.192
@@ -289,6 +294,7 @@
 211.75.210.220
 211.75.210.221
 211.75.210.221:6969
+211.75.210.221:80
 211.97.119.106
 211.97.119.123
 211.97.119.34
@@ -389,6 +395,7 @@
 60.172.236.18
 60.249.37.20
 60.249.37.20:6969
+60.249.37.20:80
 60.249.37.21
 61.216.165.60
 61.221.26.18
@@ -494,6 +501,7 @@
 9.rarbg.me
 9.rarbg.to
 91.208.197.19
+91.216.110.52
 91.216.110.53
 93.158.213.92
 93.158.213.92:1337
@@ -2587,6 +2595,7 @@ udp://public.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
+udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
@@ -2718,7 +2727,6 @@ udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.kali.org:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.monitorit4.me:6969/announce
-udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nartlof.com.br:6969/announce
 udp://tracker.nighthawk.pw:4201/announce # duplicate of udp://tracker.nighthawk.pw:2052/announce
@@ -2768,14 +2776,13 @@ udp://tracker.trackerfix.com:82/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
+udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
-udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.vraphim.com:6969/announce
 udp://tracker.vrpnet.org:6969/announce
 udp://tracker.vulnix.sh:6969/announce # registered torrents
 udp://tracker.waaa.moe:6969/announce
-udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.xor.st:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ygsub.com:6969/announce
