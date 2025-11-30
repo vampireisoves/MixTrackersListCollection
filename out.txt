@@ -103,7 +103,6 @@
 15.204.57.168
 151.243.109.110
 151.243.109.110:1337
-151.243.109.110:6969
 151.243.109.163
 152.231.114.120
 152.231.114.55
@@ -179,6 +178,7 @@
 185.230.4.150:1337
 185.243.218.213
 185.249.198.175
+185.53.179.200
 185.87.45.163
 186.10.170.119
 186.10.170.23
@@ -333,6 +333,7 @@
 23.134.89.9
 23.134.90.9
 23.140.248.9
+23.153.248.128
 23.153.248.2
 23.153.248.83
 23.157.120.14
@@ -395,7 +396,6 @@
 59.32.95.136
 59.32.95.248
 60-fps.org
-60.172.236.18
 60.249.37.20
 60.249.37.20:6969
 60.249.37.20:80
@@ -504,7 +504,6 @@
 9.rarbg.me
 9.rarbg.to
 91.208.197.19
-91.216.110.52
 91.216.110.53
 93.158.213.92
 93.158.213.92:1337
@@ -2604,7 +2603,6 @@ udp://public.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
-udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
