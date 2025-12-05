@@ -670,6 +670,7 @@ http://171.104.226.31:6969/announce
 http://171.104.226.87:6969/announce
 http://177.172.61.33:6969/announce
 http://179.100.24.134:6969/announce
+http://179.98.254.138:6969/announce
 http://180.97.219.76:8070/announce
 http://185.130.47.2:6969/announce
 http://185.148.3.231/announce
@@ -717,6 +718,7 @@ http://34.94.213.23/announce
 http://34.94.213.23:11451/announce
 http://34.94.213.23:2710/announce
 http://34.94.76.146:11450/announce
+http://34.94.76.146:1337/announce
 http://34.94.76.146:2701/announce
 http://34.94.76.146:2710/announce
 http://34.94.76.146:443/announce
@@ -736,6 +738,8 @@ http://35.227.59.57:80/announce.php
 http://37.235.174.46:2710/announce
 http://38.145.197.79:6961/announce
 http://43.139.20.56:6969/announce
+http://44.30.4.4:6969/announce
+http://44.30.4.70:6969/announce
 http://45.13.119.213:6969/announce
 http://45.146.254.59:80/announce
 http://45.154.253.10/announce
@@ -1508,6 +1512,7 @@ http://tracker.vraphim.com:6969/announce
 http://tracker.vraphim.com:6969/announce # registered torrents
 http://tracker.vrpnet.org:6969/announce
 http://tracker.waaa.moe:6969/announce
+http://tracker.wepzone.net:6969/announce
 http://tracker.xdvdz.com:2710/announce
 http://tracker.xdvdz.com:2710/announce # registered torrents
 http://tracker.xfapi.top:6868/announce
@@ -2310,6 +2315,7 @@ udp://176.31.250.174:6969/announce
 udp://176.99.7.59:6969/announce
 udp://177.172.61.33:6969/announce
 udp://178.170.48.154:1337/announce
+udp://179.98.254.138:6969/announce
 udp://185.102.219.163:6969/announce
 udp://185.121.168.96:1337/announce
 udp://185.121.168.96:6969/announce
@@ -2344,6 +2350,7 @@ udp://23.137.251.45:6969/announce
 udp://23.153.248.128:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
+udp://34.94.76.146:6969/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.235.176.37:2710/announce
@@ -2368,6 +2375,7 @@ udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
+udp://60.249.37.20:80/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
@@ -2517,6 +2525,7 @@ udp://freedom.1776.ga:6969/announce
 udp://freedomalternative.com:6969/announce
 udp://ftp.pet:2710/announce
 udp://git.vulnix.sh:6969/announce # registered torrents
+udp://glotorrents.pw:6969/announce
 udp://hificode.in:6969/announce
 udp://home.kray.pw:6969/announce
 udp://home.yxgz.club:6969/announce
