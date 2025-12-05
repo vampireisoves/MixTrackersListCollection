@@ -104,6 +104,7 @@
 15.204.57.168
 151.243.109.110
 151.243.109.110:1337
+151.243.109.110:6969
 151.243.109.163
 152.231.114.120
 152.231.114.55
@@ -2332,7 +2333,6 @@ udp://207.241.231.226:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.50.255.93:3218/announce
-udp://210.61.187.209:6969/announce
 udp://211.75.205.187:6969/announce
 udp://211.75.205.188:80/announce
 udp://211.75.210.221:6969/announce
@@ -2351,6 +2351,7 @@ udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.235.176.37:2710/announce
 udp://37.59.48.81:6969/announce
+udp://43.154.112.29:17272/announce
 udp://44.30.4.4:6969/announce
 udp://45.13.119.213:6969/announce
 udp://45.9.60.30:6969/announce
@@ -2604,6 +2605,7 @@ udp://public.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
+udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
