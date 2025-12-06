@@ -273,7 +273,6 @@
 207.211.184.229
 207.244.226.120
 208.83.20.20
-208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -617,7 +616,6 @@ http://104.244.77.14:1337/announce
 http://106.14.254.164:6969/announce
 http://107.152.127.9:6969/announce
 http://107.189.10.20.sslip.io:7777/announce
-http://107.189.2.131:1337/announce
 http://107.189.31.134:6969/announce
 http://107.189.7.143:6969/announce
 http://11.rarbg.com:80/announce
@@ -672,7 +670,6 @@ http://171.104.226.221:6969/announce
 http://171.104.226.25:6969/announce
 http://171.104.226.31:6969/announce
 http://171.104.226.87:6969/announce
-http://177.172.61.33:6969/announce
 http://179.100.24.134:6969/announce
 http://179.98.254.138:6969/announce
 http://180.97.219.76:8070/announce
@@ -728,11 +725,8 @@ http://34.94.76.146:2710/announce
 http://34.94.76.146:443/announce
 http://34.94.76.146:6969/announce
 http://34.94.76.146:80/announce
-http://34.94.76.146:80/announce.php
 http://35.227.12.84/announce
 http://35.227.12.84:2710/announce
-http://35.227.59.57:11450/announce
-http://35.227.59.57:1337/announce
 http://35.227.59.57:2701/announce
 http://35.227.59.57:2710/announce
 http://35.227.59.57:443/announce
@@ -2301,7 +2295,6 @@ udp://111.90.151.241:6969/announce
 udp://119.28.71.45:8080/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.236.64:6969/announce
-udp://144.126.245.19:6969/announce
 udp://144.91.88.22:6969/announce
 udp://147job.com:6969/announce
 udp://148.251.53.72:6969/announce
@@ -2317,7 +2310,6 @@ udp://172.105.235.127:6969/announce
 udp://173.249.201.201:6969/announce
 udp://176.31.250.174:6969/announce
 udp://176.99.7.59:6969/announce
-udp://177.172.61.33:6969/announce
 udp://178.170.48.154:1337/announce
 udp://179.98.254.138:6969/announce
 udp://185.102.219.163:6969/announce
@@ -2340,12 +2332,10 @@ udp://1c.premierzal.ru:6969/announce
 udp://200.161.254.131:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
-udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.50.255.93:3218/announce
 udp://211.75.205.187:6969/announce
-udp://211.75.205.188:80/announce
 udp://211.75.210.221:6969/announce
 udp://211.75.210.221:80/announce
 udp://211.75.29.254:6969/announce
@@ -2360,6 +2350,7 @@ udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.235.176.37:2710/announce
 udp://37.59.48.81:6969/announce
+udp://43.154.112.29:17272/announce
 udp://44.30.4.4:6969/announce
 udp://45.13.119.213:6969/announce
 udp://45.9.60.30:6969/announce
@@ -2384,7 +2375,6 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
-udp://77.91.85.95:6969/announce
 udp://7p41a8967.wicp.vip:22222/announce
 udp://8.rarbg.com:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://8.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
@@ -2509,7 +2499,6 @@ udp://debuz.com:6969/announce
 udp://denis.stalker.upeer.me:1337/announce # duplicate of udp://denis.stalker.upeer.me:6969/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
-udp://discord.heihachi.pw:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://elementsbrowser.com:6969/announce
@@ -2532,10 +2521,8 @@ udp://git.vulnix.sh:6969/announce # registered torrents
 udp://glotorrents.pw:6969/announce
 udp://hificode.in:6969/announce
 udp://home.kray.pw:6969/announce
-udp://home.yxgz.club:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
-udp://hzzwly.gq:6969/announce
 udp://ibksturm.synology.me:6969/announce
 udp://incine.ru:6969/announce
 udp://inferno.demonoid.is:3391/announce
@@ -2802,7 +2789,6 @@ udp://tracker.vrpnet.org:6969/announce
 udp://tracker.vulnix.sh:6969/announce # registered torrents
 udp://tracker.waaa.moe:6969/announce
 udp://tracker.wepzone.net:6969/announce
-udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.xor.st:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ygsub.com:6969/announce
