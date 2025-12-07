@@ -69,6 +69,7 @@
 123.245.62.7
 123.245.62.72
 123.245.62.75
+123.245.62.79
 123.245.62.84
 123.245.62.88
 123.245.62.95
@@ -372,6 +373,7 @@
 45.154.214.21
 45.154.96.35
 45.155.53.144
+45.38.42.87
 45.9.60.30
 46.232.55.100
 46.3.96.144
@@ -511,6 +513,7 @@
 9.rarbg.me
 9.rarbg.to
 91.208.197.19
+91.216.110.52
 91.216.110.53
 93.158.213.92
 93.158.213.92:1337
@@ -1157,6 +1160,7 @@ http://p4p.arenabg.com:1337/announce
 http://parag.rs:6969/announce
 http://peersteers.org/announce
 http://peersteers.org:80/announce
+http://play.aimisayo.com:6969/announce
 http://potuk.com:2710/announce # registered torrents
 http://pow7.com/announce
 http://pow7.com:80/announce
