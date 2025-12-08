@@ -514,7 +514,6 @@
 9.rarbg.me
 9.rarbg.to
 91.208.197.19
-91.216.110.52
 91.216.110.53
 93.158.213.92
 93.158.213.92:1337
@@ -2603,6 +2602,7 @@ udp://opentracker.skank.i2p:6969/a
 udp://opentrackr.org:1337/announce
 udp://opentrackr.org:1337/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
+udp://p4p.arenabg.com:1337
 udp://p4p.arenabg.com:1337/announce
 udp://parag.rs:6969/announce
 udp://play.aimisayo.com:6969/announce
