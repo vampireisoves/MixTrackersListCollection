@@ -104,6 +104,7 @@
 15.204.57.168
 151.243.109.110
 151.243.109.110:1337
+151.243.109.110:6969
 151.243.109.163
 152.231.114.120
 152.231.114.55
@@ -660,6 +661,7 @@ http://163.172.209.40:80/announce
 http://163.172.29.130/announce
 http://163.172.29.130:80/announce
 http://167.235.245.209/announce
+http://167.253.78.20:8080/announce
 http://171.104.110.193:6969/announce
 http://171.104.110.21:6969/announce
 http://171.104.110.88:6969/announce
@@ -712,6 +714,7 @@ http://211.22.29.93/announce
 http://211.75.205.187:6969/announce
 http://211.75.205.187:80/announce
 http://211.75.205.188:6969/announce
+http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
 http://211.97.119.76:2710/announce
@@ -730,6 +733,7 @@ http://34.94.76.146:11450/announce
 http://34.94.76.146:1337/announce
 http://34.94.76.146:2701/announce
 http://34.94.76.146:2710/announce
+http://34.94.76.146:443/announce
 http://34.94.76.146:6969/announce
 http://34.94.76.146:80/announce
 http://34.94.76.146:80/announce.php
@@ -2290,6 +2294,7 @@ udp://103.122.21.50:6969/announce
 udp://103.251.166.126:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
+udp://104.248.85.59:6969/announce
 udp://107.175.221.194:6969/announce
 udp://107.189.2.131:1337/announce
 udp://107.189.4.235:1337/announce
@@ -2304,6 +2309,7 @@ udp://144.126.245.19:6969/announce
 udp://144.91.88.22:6969/announce
 udp://147job.com:6969/announce
 udp://148.251.53.72:6969/announce
+udp://151.243.109.110:6969/announce
 udp://152.53.152.105:1984/announce
 udp://152.53.152.105:54123/announce
 udp://156.234.201.18:80/announce
@@ -2342,6 +2348,7 @@ udp://209.50.255.93:3218/announce
 udp://211.75.205.187:6969/announce
 udp://211.75.205.187:80/announce
 udp://211.75.205.188:6969/announce
+udp://211.75.205.189:80/announce
 udp://211.75.210.221:80/announce
 udp://211.75.29.254:6969/announce
 udp://211.97.119.76:6969/announce
@@ -2434,6 +2441,8 @@ udp://94-227-232-84.access.telenet.be:6969/announce
 udp://94.103.87.87:6969/announce
 udp://94.136.190.183:1333/announce
 udp://94.136.190.183:1337/announce
+udp://94.136.190.183:2710/announce
+udp://94.136.190.183:6969/announce
 udp://94.23.207.177:6969/announce
 udp://94.243.222.100:6969/announce
 udp://95.216.74.39:6969/announce
@@ -2520,6 +2529,8 @@ udp://freedom.1776.ga:6969/announce
 udp://freedomalternative.com:6969/announce
 udp://ftp.pet:2710/announce
 udp://git.vulnix.sh:6969/announce # registered torrents
+udp://glotorrents.pw:6969/announce
+udp://hificode.in:6969/announce
 udp://home.kray.pw:6969/announce
 udp://home.yxgz.club:6969/announce
 udp://http://www.peckservers.com:9000/announce
@@ -2603,6 +2614,7 @@ udp://public.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
+udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
