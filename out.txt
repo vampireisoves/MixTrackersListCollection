@@ -349,7 +349,6 @@
 23.153.248.83
 23.157.120.14
 23.163.56.66
-23.165.136.98
 23.168.232.9
 23.175.184.30
 31.38.161.123
@@ -377,7 +376,6 @@
 45.154.214.21
 45.154.96.35
 45.155.53.144
-45.38.42.87
 45.9.60.30
 46.232.55.100
 46.3.96.144
@@ -408,7 +406,6 @@
 59.32.95.136
 59.32.95.248
 60-fps.org
-60.172.236.18
 60.249.37.20
 60.249.37.20:6969
 60.249.37.20:80
@@ -2614,7 +2611,6 @@ udp://public.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
-udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
@@ -2795,6 +2791,7 @@ udp://tracker.trackerfix.com:82/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
+udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
