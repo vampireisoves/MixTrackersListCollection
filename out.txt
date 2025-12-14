@@ -241,7 +241,6 @@
 191.255.193.16
 191.255.193.44
 193.124.24.22
-193.124.24.22:2710
 193.148.251.93
 193.177.162.187
 193.218.118.81
@@ -449,7 +448,6 @@
 79.117.63.250
 8.rarbg.com
 8.rarbg.to
-80.71.224.126:1337
 80.71.224.126:6969
 81.230.84.201
 82.221.103.244
@@ -2473,8 +2471,6 @@ udp://bt.bontal.net:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
-udp://bt.okmp3.ru:2710/announce
-udp://bt.okmp3.ru:2710/announce&nbsp;
 udp://bt.rer.lol:2710/announce # duplicate of udp://bt.rer.lol:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
@@ -2864,7 +2860,6 @@ udp://yuki.bt.bontal.net:6969/announce
 udp://z.mercax.com:53/announce
 udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
 udp://zecircle.xyz:6969/announce
-udp://zer0day.ch:1337/announce
 udp://zupix.online:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
 utracker.ghostchu-services.top
 wepzone.net
