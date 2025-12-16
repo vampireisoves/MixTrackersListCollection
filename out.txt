@@ -453,7 +453,6 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
-80.71.224.126:1337
 80.71.224.126:6969
 81.230.84.201
 82.221.103.244
@@ -2488,6 +2487,7 @@ udp://bt.okmp3.ru:2710/announce&nbsp;
 udp://bt.rer.lol:2710/announce # duplicate of udp://bt.rer.lol:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
+udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
@@ -2535,8 +2535,10 @@ udp://freedomalternative.com:6969/announce
 udp://ftp.pet:2710/announce
 udp://git.vulnix.sh:6969/announce # registered torrents
 udp://home.kray.pw:6969/announce
+udp://home.yxgz.club:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
+udp://hzzwly.gq:6969/announce
 udp://ibksturm.synology.me:6969/announce
 udp://incine.ru:6969/announce
 udp://inferno.demonoid.is:3391/announce
@@ -2558,6 +2560,7 @@ udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
 udp://leet-tracker.moe:1337/announce
 udp://ln.mtahost.co:6969/announce
+udp://lotus-eater.mywire.org:9001/announce
 udp://lucke.fenesisu.moe:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.lakameraobscura.com:6969/announce
@@ -2574,6 +2577,7 @@ udp://mserver.link:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
 udp://new-line.net:6969/announce
+udp://node01.trackerstatus.live:42069/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://ns3109441.mypdns.org:6969/announce
@@ -2873,7 +2877,6 @@ udp://yuki.bt.bontal.net:6969/announce
 udp://z.mercax.com:53/announce
 udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
 udp://zecircle.xyz:6969/announce
-udp://zer0day.ch:1337/announce
 udp://zupix.online:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
 utracker.ghostchu-services.top
 wepzone.net
