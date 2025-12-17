@@ -102,6 +102,7 @@
 148.252.75.241
 15.204.56.171
 15.204.57.168
+151.242.30.86
 151.243.109.110
 151.243.109.163
 152.231.114.120
@@ -173,7 +174,6 @@
 185.121.168.96
 185.130.47.2
 185.189.13.108
-185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -277,7 +277,6 @@
 207.211.184.229
 207.244.226.120
 208.83.20.20
-208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -367,7 +366,7 @@
 37.59.48.81
 4.tracker.devnak.win
 43.154.112.29
-43.169.15.120
+43.169.12.120
 43.250.54.137
 44.30.4.3
 44.30.4.4
@@ -378,7 +377,6 @@
 45.154.214.21
 45.154.96.35
 45.155.53.144
-45.38.42.87
 45.9.60.30
 46.232.55.100
 46.3.96.144
@@ -2350,7 +2348,6 @@ udp://1c.premierzal.ru:6969/announce
 udp://200.170.109.125:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
-udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.50.255.93:3218/announce
@@ -2392,7 +2389,6 @@ udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://77.91.85.95:6969/announce
@@ -2616,7 +2612,6 @@ udp://opentracker.skank.i2p:6969/a
 udp://opentrackr.org:1337/announce
 udp://opentrackr.org:1337/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
-udp://p4p.arenabg.com:1337
 udp://p4p.arenabg.com:1337/announce
 udp://parag.rs:6969/announce
 udp://pow7.com:80/announce
