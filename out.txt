@@ -359,8 +359,6 @@
 34.66.57.33
 34.66.57.33:1337
 34.66.57.33:7070
-34.66.57.33:8000
-34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -720,14 +718,25 @@ http://209.209.112.121:2710/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.205.187:80/announce
+http://211.75.205.189:6969/announce
+http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
 http://211.97.119.76:2710/announce
 http://212.6.3.67/announce
 http://216.144.239.90:6969/announce
+http://217.156.123.49:1337/announce
 http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
+http://34.66.57.33:11450/announce
+http://34.66.57.33:1337/announce
+http://34.66.57.33:2701/announce
+http://34.66.57.33:2710/announce
+http://34.66.57.33:443/announce
+http://34.66.57.33:6969/announce
+http://34.66.57.33:80/announce
+http://34.66.57.33:80/announce.php
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -750,6 +759,8 @@ http://37.235.174.46:2710/announce
 http://38.145.197.79:6961/announce
 http://43.139.20.56:6969/announce
 http://43.250.54.137:6969/announce
+http://44.30.4.4:6969/announce
+http://44.30.4.70:6969/announce
 http://45.146.254.59:80/announce
 http://45.154.253.10/announce
 http://45.154.253.10:80/announce
@@ -1523,6 +1534,7 @@ http://tracker.vraphim.com:6969/announce
 http://tracker.vraphim.com:6969/announce # registered torrents
 http://tracker.vrpnet.org:6969/announce
 http://tracker.waaa.moe:6969/announce
+http://tracker.wepzone.net:6969/announce
 http://tracker.xdvdz.com:2710/announce
 http://tracker.xdvdz.com:2710/announce # registered torrents
 http://tracker.xfapi.top:6868/announce
@@ -2296,6 +2308,7 @@ udp://103.122.21.50:6969/announce
 udp://103.251.166.126:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
+udp://104.248.85.59:6969/announce
 udp://107.175.221.194:6969/announce
 udp://107.189.2.131:1337/announce
 udp://107.189.4.235:1337/announce
@@ -2331,6 +2344,7 @@ udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
 udp://189.0.78.245:6969/announce
 udp://192.95.46.115:6969/announce
+udp://193.233.161.213:6969/announce
 udp://193.34.92.5:80/announce
 udp://193.37.214.12:6969/announce
 udp://193.42.111.57:9337/announce
@@ -2341,22 +2355,29 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
+udp://209.250.249.67:6969/announce
 udp://209.50.255.93:3218/announce
 udp://211.75.205.187:80/announce
+udp://211.75.205.189:6969/announce
+udp://211.75.210.221:80/announce
 udp://211.75.29.254:6969/announce
 udp://211.97.119.76:6969/announce
+udp://217.156.123.49:1337/announce
 udp://217.30.10.77:6969/announce
 udp://23.134.88.9:1337/announce
 udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.153.248.128:6969/announce
+udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
+udp://34.66.57.33:1337/announce
 udp://34.94.76.146:1337/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.235.176.37:2710/announce
 udp://37.59.48.81:6969/announce
 udp://43.250.54.137:6969/announce
+udp://44.30.4.4:6969/announce
 udp://45.134.88.121:6969/announce
 udp://45.9.60.30:6969/announce
 udp://46.138.242.240:6969/announce
@@ -2546,6 +2567,7 @@ udp://kokodayo.site:6969/announce
 udp://laestrygonian.ooguy.com:9001/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
+udp://leet-tracker.moe:1337/announce
 udp://ln.mtahost.co:6969/announce
 udp://lotus-eater.mywire.org:9001/announce
 udp://lucke.fenesisu.moe:6969/announce
@@ -2555,7 +2577,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://mixfiend.com:6969/announce
@@ -2596,6 +2617,7 @@ udp://opentracker.skank.i2p:6969/a
 udp://opentrackr.org:1337/announce
 udp://opentrackr.org:1337/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
+udp://p4p.arenabg.com:1337
 udp://p4p.arenabg.com:1337/announce
 udp://parag.rs:6969/announce
 udp://pow7.com:80/announce
@@ -2813,7 +2835,6 @@ udp://tracker.zupix.online:1333/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:6969/announce
-udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
