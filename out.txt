@@ -173,6 +173,7 @@
 185.121.168.96
 185.130.47.2
 185.189.13.108
+185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -453,6 +454,7 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
+80.71.224.126:1337
 80.71.224.126:6969
 81.230.84.201
 82.221.103.244
@@ -2388,6 +2390,7 @@ udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://77.91.85.95:6969/announce
@@ -2611,6 +2614,7 @@ udp://opentracker.skank.i2p:6969/a
 udp://opentrackr.org:1337/announce
 udp://opentrackr.org:1337/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
+udp://p4p.arenabg.com:1337
 udp://p4p.arenabg.com:1337/announce
 udp://parag.rs:6969/announce
 udp://pow7.com:80/announce
@@ -2622,7 +2626,6 @@ udp://public.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
-udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
@@ -2875,6 +2878,7 @@ udp://yuki.bt.bontal.net:6969/announce
 udp://z.mercax.com:53/announce
 udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
 udp://zecircle.xyz:6969/announce
+udp://zer0day.ch:1337/announce
 udp://zupix.online:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
 utracker.ghostchu-services.top
 wepzone.net
