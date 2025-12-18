@@ -356,8 +356,6 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
-34.66.57.33:1337
-34.66.57.33:7070
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -2388,7 +2386,6 @@ udp://5.255.124.190:6969/announce
 udp://504e163a.host.njalla.net:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
-udp://51.15.41.46:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
 udp://51.68.174.87:6969/announce
@@ -2621,6 +2618,7 @@ udp://opentracker.skank.i2p:6969/a
 udp://opentrackr.org:1337/announce
 udp://opentrackr.org:1337/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
+udp://p4p.arenabg.com:1337
 udp://p4p.arenabg.com:1337/announce
 udp://parag.rs:6969/announce
 udp://pow7.com:80/announce
@@ -2632,6 +2630,7 @@ udp://public.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
+udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
@@ -2811,7 +2810,6 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
-udp://tracker.trackton.ga:7070/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
