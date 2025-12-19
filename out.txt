@@ -187,6 +187,7 @@
 186.10.170.23
 186.10.170.30
 186.10.170.56
+186.10.170.56:1337
 186.10.170.71
 186.10.170.97
 186.10.181.182
@@ -358,7 +359,7 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
-34.66.57.33:7070
+34.66.57.33:1337
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -2821,7 +2822,6 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
-udp://tracker.trackton.ga:7070/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
