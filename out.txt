@@ -403,7 +403,6 @@
 51.159.89.93
 51.222.82.36
 52.58.128.163
-52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -1809,7 +1808,6 @@ https://torrents.linuxmint.com/announce.php
 https://torrents.linuxmint.com:443/announce
 https://torrents.linuxmint.com:443/announce.php
 https://torrents.linuxmint.com:443/announce.php # registered torrents
-https://torrust.canofsocks.com:443/announce
 https://tp.m-team.cc/announce.php
 https://tp.m-team.cc:443/announce
 https://tp.m-team.cc:443/announce.php
@@ -2350,7 +2348,6 @@ udp://185.44.82.25:1337/announce
 udp://189.0.78.245:6969/announce
 udp://189.69.172.166:6969/announce
 udp://192.95.46.115:6969/announce
-udp://193.233.161.213:6969/announce
 udp://193.34.92.5:80/announce
 udp://193.37.214.12:6969/announce
 udp://193.42.111.57:9337/announce
@@ -2361,7 +2358,6 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
-udp://209.250.249.67:6969/announce
 udp://209.50.255.93:3218/announce
 udp://211.75.205.187:80/announce
 udp://211.75.205.189:6969/announce
@@ -2544,7 +2540,6 @@ udp://f1sh.de:6969/announce
 udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://files.project-cataclysm.ru:6969/announce
-udp://fosstorrents.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
 udp://freedomalternative.com:6969/announce
