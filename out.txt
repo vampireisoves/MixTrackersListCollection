@@ -705,6 +705,7 @@ http://187.57.14.62:6969/announce
 http://189.0.196.51:6969/announce
 http://189.0.78.245:6969/announce
 http://189.110.233.96:6969/announce
+http://189.18.163.167:6969/announce
 http://192.3.165.191:6969/announce
 http://192.9.228.30:6699/announce
 http://193.31.26.113:6969/announce
@@ -723,6 +724,7 @@ http://209.209.112.121:2710/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.205.187:80/announce
+http://211.75.205.188:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.29.254:6969/announce
 http://211.97.119.76:2710/announce
@@ -805,6 +807,7 @@ http://60-fps.org:80/bt/announce.php
 http://60-fps.org:80/bt/announce.php # registered torrents
 http://60-fps.org:80/bt:80/announce.php
 http://60.249.37.20:6969/announce
+http://60.249.37.20:80/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
 http://61.216.166.123:6969/announce
@@ -2346,8 +2349,11 @@ udp://185.216.179.62:25/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
+udp://186.10.170.56:1337/announce
 udp://189.0.78.245:6969/announce
+udp://189.18.163.167:6969/announce
 udp://192.95.46.115:6969/announce
+udp://193.233.161.213:6969/announce
 udp://193.34.92.5:80/announce
 udp://193.37.214.12:6969/announce
 udp://193.42.111.57:9337/announce
@@ -2360,6 +2366,7 @@ udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.50.255.93:3218/announce
 udp://211.75.205.187:80/announce
+udp://211.75.205.188:6969/announce
 udp://211.75.205.188:80/announce
 udp://211.75.29.254:6969/announce
 udp://211.97.119.76:6969/announce
@@ -2397,6 +2404,7 @@ udp://52.58.128.163:6969/announce
 udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
+udp://60.249.37.20:80/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
@@ -2451,6 +2459,7 @@ udp://9.rarbg.to:2830/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.to:2920/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.to:2990/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://91.211.5.21:6969/announce
+udp://91.216.110.53:451/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
 udp://93.158.213.92:1337/announce
@@ -2871,6 +2880,7 @@ udp://v2.iperson.xyz:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
+udp://wegkxfcivgx.ydns.eu:80/announce
 udp://wepzone.net:6969/announce
 udp://wg.mortis.me:6969/announce
 udp://widemus.de:6969/announce
