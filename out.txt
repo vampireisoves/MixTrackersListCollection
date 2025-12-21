@@ -361,7 +361,6 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
-34.66.57.33:1337
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -2396,6 +2395,7 @@ udp://5.255.124.190:6969/announce
 udp://504e163a.host.njalla.net:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
+udp://51.15.41.46:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
 udp://51.68.174.87:6969/announce
@@ -2758,7 +2758,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.files.fm:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
