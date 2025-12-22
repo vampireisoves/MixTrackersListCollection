@@ -157,7 +157,6 @@
 177.215.67.115
 177.215.67.165
 177.215.67.185
-177.215.67.77
 177.27.223.184
 177.27.223.186
 177.68.44.127
@@ -200,6 +199,7 @@
 187.11.73.20
 187.11.73.213
 187.11.74.138
+187.11.74.186
 187.11.75.17
 187.11.75.196
 187.34.25.113
@@ -465,7 +465,6 @@
 8.rarbg.to
 80.71.224.126
 80.71.224.126:1337
-80.71.224.126:6969
 81.230.84.201
 82.221.103.244
 82.65.37.128
@@ -2633,7 +2632,6 @@ udp://public.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
-udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
@@ -2747,6 +2745,7 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
+udp://tracker.fileparadise.in:1337/announce
 udp://tracker.files.fm:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
