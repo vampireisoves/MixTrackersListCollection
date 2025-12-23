@@ -134,6 +134,7 @@
 177.112.215.4
 177.112.215.99
 177.139.44.145
+177.139.44.78
 177.139.47.236
 177.139.47.40
 177.144.178.170
@@ -143,7 +144,6 @@
 177.172.62.168
 177.172.62.179
 177.172.62.185
-177.172.64.115
 177.172.65.102
 177.172.65.168
 177.172.66.120
@@ -291,10 +291,13 @@
 211.23.142.127
 211.75.205.187
 211.75.205.187:6969
+211.75.205.187:80
 211.75.205.188
 211.75.205.188:6969
+211.75.205.188:80
 211.75.205.189
 211.75.205.189:6969
+211.75.205.189:80
 211.75.205.190
 211.75.205.191
 211.75.205.192
@@ -304,6 +307,7 @@
 211.75.210.220
 211.75.210.221
 211.75.210.221:6969
+211.75.210.221:80
 211.97.119.106
 211.97.119.123
 211.97.119.34
@@ -413,6 +417,7 @@
 60.172.236.18
 60.249.37.20
 60.249.37.20:6969
+60.249.37.20:80
 60.249.37.21
 61.216.165.60
 61.221.26.18
@@ -684,6 +689,7 @@ http://171.104.226.221:6969/announce
 http://171.104.226.25:6969/announce
 http://171.104.226.31:6969/announce
 http://171.104.226.87:6969/announce
+http://177.139.44.78:6969/announce
 http://179.100.24.134:6969/announce
 http://180.97.219.76:8070/announce
 http://185.130.47.2:6969/announce
@@ -697,6 +703,7 @@ http://185.230.4.150:1337/announce
 http://185.232.169.109/announce
 http://185.70.187.79:6969/announce
 http://186.10.170.56:1337/announce
+http://186.10.172.248:1337/announce
 http://187.57.14.62:6969/announce
 http://189.0.196.51:6969/announce
 http://189.0.78.245:6969/announce
@@ -710,6 +717,7 @@ http://198.251.84.144/announce
 http://200.232.254.1:6969/announce
 http://201.42.214.55:6969/announce
 http://201.43.209.254:6969/announce
+http://207.211.184.229:6969/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://207.246.118.100:6961/announce
@@ -721,6 +729,8 @@ http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.205.187:80/announce
 http://211.75.205.188:6969/announce
+http://211.75.210.221:6969/announce
+http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
 http://211.97.119.76:2710/announce
 http://212.6.3.67/announce
@@ -2336,8 +2346,10 @@ udp://185.189.13.108:6969/announce
 udp://185.216.179.62:25/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
+udp://185.249.198.175:1337/announce
 udp://185.44.82.25:1337/announce
 udp://186.10.170.56:1337/announce
+udp://186.10.172.248:1337/announce
 udp://189.0.78.245:6969/announce
 udp://189.18.163.167:6969/announce
 udp://192.95.46.115:6969/announce
@@ -2355,14 +2367,18 @@ udp://209.141.59.25:6969/announce
 udp://209.50.255.93:3218/announce
 udp://211.75.205.187:80/announce
 udp://211.75.205.188:6969/announce
+udp://211.75.210.221:6969/announce
+udp://211.75.210.221:80/announce
 udp://211.75.29.254:6969/announce
 udp://211.97.119.76:6969/announce
+udp://212.42.38.197:6969/announce
 udp://217.156.123.49:1337/announce
 udp://217.30.10.77:6969/announce
 udp://23.134.88.9:1337/announce
 udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.153.248.128:6969/announce
+udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
 udp://34.66.57.33:1337/announce
 udp://34.94.76.146:1337/announce
@@ -2384,6 +2400,7 @@ udp://51.15.3.74:6969/announce
 udp://51.15.41.46:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
+udp://51.222.82.36:6969/announce
 udp://51.68.174.87:6969/announce
 udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
@@ -2400,6 +2417,7 @@ udp://7p41a8967.wicp.vip:22222/announce
 udp://8.rarbg.com:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://8.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://80.71.224.126:6969/announce
+udp://81.230.84.201:6969/announce
 udp://82.65.115.10:6969/announce
 udp://83.102.180.21:80/announce
 udp://88.80.28.7:6969/announce
@@ -2812,7 +2830,6 @@ udp://tracker.trackerfix.com:82/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
-udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
