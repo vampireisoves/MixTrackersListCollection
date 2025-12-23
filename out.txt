@@ -462,7 +462,7 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
-80.71.224.126:1337
+80.71.224.126:6969
 81.230.84.201
 82.221.103.244
 82.65.37.128
@@ -726,6 +726,7 @@ http://209.209.112.121:2710/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.205.187:80/announce
+http://211.75.205.189:6969/announce
 http://211.75.210.221:6969/announce
 http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
@@ -2332,6 +2333,7 @@ udp://173.249.201.201:6969/announce
 udp://176.31.250.174:6969/announce
 udp://176.99.7.59:6969/announce
 udp://178.170.48.154:1337/announce
+udp://184.105.226.26:6969/announce
 udp://185.102.219.163:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
@@ -2344,6 +2346,7 @@ udp://185.44.82.25:1337/announce
 udp://186.10.172.248:1337/announce
 udp://189.0.78.245:6969/announce
 udp://192.95.46.115:6969/announce
+udp://193.233.161.213:6969/announce
 udp://193.34.92.5:80/announce
 udp://193.37.214.12:6969/announce
 udp://193.42.111.57:9337/announce
@@ -2353,9 +2356,12 @@ udp://1c.premierzal.ru:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://209.126.11.233:6969/announce
+udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
+udp://209.250.249.67:6969/announce
 udp://209.50.255.93:3218/announce
 udp://211.75.205.187:80/announce
+udp://211.75.205.189:6969/announce
 udp://211.75.210.221:6969/announce
 udp://211.75.210.221:80/announce
 udp://211.75.29.254:6969/announce
@@ -2746,7 +2752,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.files.fm:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
@@ -2815,6 +2820,7 @@ udp://tracker.trackerfix.com:82/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
+udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
@@ -2888,7 +2894,6 @@ udp://yuki.bt.bontal.net:6969/announce
 udp://z.mercax.com:53/announce
 udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
 udp://zecircle.xyz:6969/announce
-udp://zer0day.ch:1337/announce
 udp://zupix.online:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
 utracker.ghostchu-services.top
 wepzone.net
