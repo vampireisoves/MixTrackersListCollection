@@ -462,7 +462,6 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
-80.71.224.126:1337
 80.71.224.126:6969
 81.230.84.201
 82.221.103.244
@@ -2018,6 +2017,7 @@ jutone.com
 kaztorka.org
 kinorun.com
 leet-tracker.moe
+lucke.fenesisu.moe
 martin-gebhardt.eu
 masters-tb.com
 mediaclub.tv
@@ -2029,6 +2029,7 @@ mvgforumtracker.mvgroup.org
 mvgroup.org
 new-line.net
 ns-1.x-fins.com
+ns575949.ip-51-222-82.net
 nyaa.tracker.wf
 odd-hd.fr
 open-tracker.demonoid.ch
@@ -2137,6 +2138,7 @@ tr1.aag.moe
 tr4ck3r.duckdns.org
 track3r.site
 trackarr.org
+tracker-de-2.cutie.dating
 tracker-de.ololosh.space
 tracker-udp.gbitt.info
 tracker-zhuqiy.dgj055.icu
@@ -2217,6 +2219,7 @@ tracker.linvk.com
 tracker.minglong.org
 tracker.mininova.org
 tracker.moeblog.cn
+tracker.moeking.me
 tracker.monikadesign.uk
 tracker.moxing.party
 tracker.mywaifu.best
@@ -2224,13 +2227,16 @@ tracker.nighthawk.pw
 tracker.ololosh.space
 tracker.open-internet.nl
 tracker.openbittorrent.com
+tracker.opentorrent.top
 tracker.opentrackr.org
 tracker.pirateparty.gr
+tracker.playground.ru
 tracker.plx.im
 tracker.pmman.tech
 tracker.pow7.com
 tracker.privateseedbox.xyz
 tracker.pussytorrents.org
+tracker.qingwa.pro
 tracker.qu.ax
 tracker.renfei.net
 tracker.rescuecrew7.com
@@ -2285,6 +2291,7 @@ tracker1.bt.moack.co.kr
 tracker1.ctix.cn
 tracker1.itzmx.com
 tracker1.myporn.club
+tracker1.t-1.org
 tracker2.ctix.cn
 tracker2.dler.com
 tracker2.dler.org
@@ -2292,6 +2299,7 @@ tracker2.itzmx.com
 tracker2.postman.i2p
 tracker3.dler.org
 tracker3.itzmx.com
+tracker3.t-1.org
 tracker4.dler.org
 tracker4.itzmx.com
 tracker7.dler.org
@@ -2627,6 +2635,7 @@ udp://opentracker.skank.i2p:6969/a
 udp://opentrackr.org:1337/announce
 udp://opentrackr.org:1337/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
+udp://p4p.arenabg.com:1337
 udp://p4p.arenabg.com:1337/announce
 udp://parag.rs:6969/announce
 udp://pow7.com:80/announce
@@ -2753,7 +2762,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.files.fm:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
@@ -2896,7 +2904,6 @@ udp://yuki.bt.bontal.net:6969/announce
 udp://z.mercax.com:53/announce
 udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
 udp://zecircle.xyz:6969/announce
-udp://zer0day.ch:1337/announce
 udp://zupix.online:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
 utracker.ghostchu-services.top
 wepzone.net
