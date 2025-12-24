@@ -102,6 +102,7 @@
 148.252.75.241
 15.204.56.171
 15.204.57.168
+151.242.30.86
 151.243.109.110
 151.243.109.163
 152.231.114.120
@@ -133,7 +134,6 @@
 177.112.215.4
 177.112.215.99
 177.139.44.145
-177.139.44.78
 177.139.47.236
 177.139.47.40
 177.144.178.170
@@ -193,6 +193,7 @@
 186.10.172.248:1337
 187.10.24.160
 187.11.72.188
+187.11.72.204
 187.11.72.236
 187.11.73.178
 187.11.73.20
@@ -226,7 +227,6 @@
 189.69.171.75
 189.69.171.84
 189.69.172.166
-189.69.172.96
 189.79.12.122
 189.79.12.24
 189.79.12.59
@@ -462,6 +462,7 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
+80.71.224.126:1337
 80.71.224.126:6969
 81.230.84.201
 82.221.103.244
@@ -2638,6 +2639,7 @@ udp://public.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
+udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
@@ -2752,6 +2754,7 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
+udp://tracker.fileparadise.in:1337/announce
 udp://tracker.files.fm:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
@@ -2894,6 +2897,7 @@ udp://yuki.bt.bontal.net:6969/announce
 udp://z.mercax.com:53/announce
 udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
 udp://zecircle.xyz:6969/announce
+udp://zer0day.ch:1337/announce
 udp://zupix.online:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
 utracker.ghostchu-services.top
 wepzone.net
