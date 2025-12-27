@@ -209,6 +209,7 @@
 187.57.130.109
 187.57.130.147
 187.57.131.202
+187.57.132.246
 187.57.229.141
 189.0.78.245
 189.18.127.125
@@ -236,7 +237,6 @@
 189.79.12.91
 189.79.13.107
 189.79.13.111
-189.79.13.237
 190.146.242.81
 191.23.121.129
 191.23.62.147
@@ -295,13 +295,10 @@
 210.61.187.209
 211.23.142.127
 211.75.205.187
-211.75.205.187:6969
 211.75.205.187:80
 211.75.205.188
-211.75.205.188:6969
 211.75.205.188:80
 211.75.205.189
-211.75.205.189:6969
 211.75.205.189:80
 211.75.205.190
 211.75.205.191
@@ -311,7 +308,6 @@
 211.75.210.123
 211.75.210.220
 211.75.210.221
-211.75.210.221:6969
 211.75.210.221:80
 211.97.119.106
 211.97.119.123
@@ -412,7 +408,6 @@
 51.159.89.93
 51.222.82.36
 52.58.128.163
-52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -422,7 +417,6 @@
 60-fps.org
 60.172.236.18
 60.249.37.20
-60.249.37.20:6969
 60.249.37.20:80
 60.249.37.21
 61.216.165.60
@@ -466,7 +460,6 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
-80.71.224.126:1337
 80.71.224.126:6969
 81.230.84.201
 82.221.103.244
@@ -2393,7 +2386,6 @@ udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7p41a8967.wicp.vip:22222/announce
@@ -2627,6 +2619,7 @@ udp://public.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
+udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
@@ -2882,7 +2875,6 @@ udp://yuki.bt.bontal.net:6969/announce
 udp://z.mercax.com:53/announce
 udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
 udp://zecircle.xyz:6969/announce
-udp://zer0day.ch:1337/announce
 udp://zupix.online:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
 utracker.ghostchu-services.top
 wepzone.net
