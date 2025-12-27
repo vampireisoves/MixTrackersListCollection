@@ -464,6 +464,7 @@
 8.rarbg.to
 80.71.224.126
 80.71.224.126:1337
+80.71.224.126:6969
 81.230.84.201
 82.221.103.244
 82.65.37.128
@@ -2812,6 +2813,7 @@ udp://tracker.trackerfix.com:82/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
+udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
