@@ -176,6 +176,7 @@
 185.121.168.96
 185.130.47.2
 185.189.13.108
+185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -235,6 +236,7 @@
 189.79.12.91
 189.79.13.107
 189.79.13.111
+189.79.13.237
 190.146.242.81
 191.23.121.129
 191.23.62.147
@@ -463,7 +465,6 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
-80.71.224.126:1337
 80.71.224.126:6969
 81.230.84.201
 82.221.103.244
@@ -2390,6 +2391,7 @@ udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7p41a8967.wicp.vip:22222/announce
@@ -2611,7 +2613,6 @@ udp://opentracker.skank.i2p:6969/a
 udp://opentrackr.org:1337/announce
 udp://opentrackr.org:1337/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
-udp://p4p.arenabg.com:1337
 udp://p4p.arenabg.com:1337/announce
 udp://parag.rs:6969/announce
 udp://pow7.com:80/announce
@@ -2805,6 +2806,7 @@ udp://tracker.trackerfix.com:82/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
+udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
@@ -2878,7 +2880,6 @@ udp://yuki.bt.bontal.net:6969/announce
 udp://z.mercax.com:53/announce
 udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
 udp://zecircle.xyz:6969/announce
-udp://zer0day.ch:1337/announce
 udp://zupix.online:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
 utracker.ghostchu-services.top
 wepzone.net
