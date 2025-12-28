@@ -364,6 +364,7 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
+34.66.57.33:1337
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -410,6 +411,7 @@
 51.159.89.93
 51.222.82.36
 52.58.128.163
+52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -464,7 +466,7 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
-80.71.224.126:6969
+80.71.224.126:1337
 81.230.84.201
 82.221.103.244
 82.65.37.128
@@ -690,7 +692,6 @@ http://171.104.226.221:6969/announce
 http://171.104.226.25:6969/announce
 http://171.104.226.31:6969/announce
 http://171.104.226.87:6969/announce
-http://177.139.47.105:6969/announce
 http://179.100.24.134:6969/announce
 http://180.97.219.76:8070/announce
 http://185.130.47.2:6969/announce
@@ -792,7 +793,6 @@ http://60-fps.org/bt:80/announce.php
 http://60-fps.org:80/bt/announce.php
 http://60-fps.org:80/bt/announce.php # registered torrents
 http://60-fps.org:80/bt:80/announce.php
-http://60.249.37.20:6969/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
 http://61.216.166.123:6969/announce
@@ -2330,7 +2330,6 @@ udp://172.105.235.127:6969/announce
 udp://173.249.201.201:6969/announce
 udp://176.31.250.174:6969/announce
 udp://176.99.7.59:6969/announce
-udp://177.139.47.105:6969/announce
 udp://178.170.48.154:1337/announce
 udp://184.105.226.26:6969/announce
 udp://185.102.219.163:6969/announce
@@ -2382,7 +2381,6 @@ udp://37.235.176.37:2710/announce
 udp://37.59.48.81:6969/announce
 udp://43.250.54.137:6969/announce
 udp://44.30.4.4:6969/announce
-udp://45.134.88.121:6969/announce
 udp://45.9.60.30:6969/announce
 udp://46.138.242.240:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
@@ -2400,7 +2398,6 @@ udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
-udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
@@ -2510,7 +2507,6 @@ udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
-udp://buny.uk:6969/announce
 udp://burmese.app:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://canardscitrons.nohost.me:6969/announce
@@ -2820,12 +2816,8 @@ udp://tracker.trackerfix.com:82/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
-udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
-udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
-udp://tracker.vraphim.com:6969/announce
-udp://tracker.vrpnet.org:6969/announce
 udp://tracker.vulnix.sh:6969/announce # registered torrents
 udp://tracker.waaa.moe:6969/announce
 udp://tracker.wepzone.net:6969/announce
@@ -2894,6 +2886,7 @@ udp://yuki.bt.bontal.net:6969/announce
 udp://z.mercax.com:53/announce
 udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
 udp://zecircle.xyz:6969/announce
+udp://zer0day.ch:1337/announce
 udp://zupix.online:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
 utracker.ghostchu-services.top
 wepzone.net
