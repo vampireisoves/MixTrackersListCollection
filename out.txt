@@ -1,6 +1,26 @@
 0123456789nonexistent.com
 0d.kebhana.mx
 103.251.166.126
+104.19.20.116
+104.19.21.116
+104.21.18.88
+104.21.26.114
+104.21.28.104
+104.21.31.24
+104.21.38.225
+104.21.41.188
+104.21.48.236
+104.21.53.179
+104.21.54.3
+104.21.56.25
+104.21.57.133
+104.21.57.182
+104.21.70.169
+104.21.71.114
+104.21.72.244
+104.21.76.35
+104.21.80.65
+104.21.89.147
 104.248.85.59
 106.55.172.54
 107.152.127.9
@@ -125,6 +145,26 @@
 172.237.146.25
 172.237.146.38
 172.237.146.8
+172.64.32.116
+172.64.80.1
+172.67.135.244
+172.67.136.175
+172.67.137.235
+172.67.140.59
+172.67.144.128
+172.67.145.215
+172.67.160.224
+172.67.164.16
+172.67.165.72
+172.67.166.156
+172.67.174.171
+172.67.175.4
+172.67.176.22
+172.67.181.132
+172.67.186.150
+172.67.188.91
+172.67.216.25
+172.67.221.234
 176.123.1.180
 176.32.38.223
 176.56.6.77
@@ -366,7 +406,6 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
-34.66.57.33:1337
 34.66.57.33:80
 34.66.57.33:9696
 34.8.196.142
@@ -414,7 +453,6 @@
 51.159.89.93
 51.222.82.36
 52.58.128.163
-52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -468,6 +506,7 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
+80.71.224.126:1337
 80.71.224.126:6969
 81.230.84.201
 82.221.103.244
@@ -2339,7 +2378,6 @@ udp://178.170.48.154:1337/announce
 udp://179.98.254.109:6969/announce
 udp://184.105.226.26:6969/announce
 udp://185.102.219.163:6969/announce
-udp://185.121.168.96:1337/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
 udp://185.189.13.108:6969/announce
@@ -2648,7 +2686,6 @@ udp://public.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
-udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
@@ -2765,7 +2802,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.files.fm:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
@@ -2907,6 +2943,7 @@ udp://yuki.bt.bontal.net:6969/announce
 udp://z.mercax.com:53/announce
 udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
 udp://zecircle.xyz:6969/announce
+udp://zer0day.ch:1337/announce
 udp://zupix.online:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
 utracker.ghostchu-services.top
 wepzone.net
