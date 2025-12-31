@@ -155,7 +155,6 @@
 177.188.141.175
 177.188.141.32
 177.215.65.176
-177.215.65.253
 177.215.65.40
 177.215.67.115
 177.215.67.165
@@ -252,6 +251,7 @@
 191.255.155.74
 191.255.193.16
 191.255.193.44
+191.255.193.62
 193.124.24.22
 193.124.24.22:2710
 193.148.251.93
@@ -369,7 +369,6 @@
 34.52.190.155
 34.66.57.33
 34.66.57.33:1337
-34.66.57.33:80
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -2741,7 +2740,6 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
-udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloaka.xyz:1337/announce
