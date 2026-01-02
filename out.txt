@@ -136,6 +136,7 @@
 177.112.215.99
 177.139.44.145
 177.139.47.105
+177.139.47.18
 177.139.47.236
 177.139.47.40
 177.144.178.170
@@ -213,7 +214,6 @@
 187.57.131.202
 187.57.132.246
 187.57.229.141
-189.0.78.182
 189.0.78.245
 189.18.127.125
 189.18.127.57
@@ -372,6 +372,7 @@
 34.52.190.155
 34.66.57.33
 34.66.57.33:1337
+34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -2829,7 +2830,6 @@ udp://tracker.trackerfix.com:82/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
-udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.vulnix.sh:6969/announce # registered torrents
@@ -2847,6 +2847,7 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
