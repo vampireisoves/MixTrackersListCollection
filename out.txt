@@ -152,6 +152,7 @@
 177.172.66.210
 177.172.67.247
 177.172.67.94
+177.173.31.33
 177.188.141.137
 177.188.141.175
 177.188.141.32
@@ -247,7 +248,6 @@
 191.23.71.103
 191.23.71.22
 191.23.94.237
-191.254.171.82
 191.254.171.95
 191.255.155.138
 191.255.155.153
@@ -372,6 +372,8 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
+34.66.57.33:7070
+34.66.57.33:80
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -698,7 +700,6 @@ http://171.104.226.221:6969/announce
 http://171.104.226.25:6969/announce
 http://171.104.226.31:6969/announce
 http://171.104.226.87:6969/announce
-http://177.139.47.18:6969/announce
 http://179.100.24.134:6969/announce
 http://179.98.254.109:6969/announce
 http://180.97.219.76:8070/announce
@@ -800,7 +801,6 @@ http://60-fps.org/bt:80/announce.php
 http://60-fps.org:80/bt/announce.php
 http://60-fps.org:80/bt/announce.php # registered torrents
 http://60-fps.org:80/bt:80/announce.php
-http://60.249.37.20:6969/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
 http://61.216.166.123:6969/announce
@@ -2341,7 +2341,6 @@ udp://172.105.235.127:6969/announce
 udp://173.249.201.201:6969/announce
 udp://176.31.250.174:6969/announce
 udp://176.99.7.59:6969/announce
-udp://177.139.47.18:6969/announce
 udp://178.170.48.154:1337/announce
 udp://179.98.254.109:6969/announce
 udp://185.102.219.163:6969/announce
@@ -2371,7 +2370,6 @@ udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.50.255.93:3218/announce
 udp://211.75.205.187:80/announce
-udp://211.75.205.188:80/announce
 udp://211.75.210.221:6969/announce
 udp://211.75.29.254:6969/announce
 udp://211.97.119.76:6969/announce
@@ -2388,10 +2386,8 @@ udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.235.176.37:2710/announce
 udp://37.59.48.81:6969/announce
-udp://38.175.99.50:6969/announce
 udp://43.154.112.29:17272/announce
 udp://43.250.54.137:6969/announce
-udp://45.134.88.121:6969/announce
 udp://45.9.60.30:6969/announce
 udp://46.138.242.240:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
@@ -2466,7 +2462,6 @@ udp://9.rarbg.to:2830/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.to:2920/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.to:2990/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://91.211.5.21:6969/announce
-udp://91.216.110.53:451/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
 udp://93.158.213.92:1337/announce
@@ -2651,7 +2646,6 @@ udp://public.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
-udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
@@ -2742,6 +2736,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloaka.xyz:1337/announce
@@ -2785,7 +2780,6 @@ udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.kali.org:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.monitorit4.me:6969/announce
-udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nartlof.com.br:6969/announce
 udp://tracker.nighthawk.pw:4201/announce # duplicate of udp://tracker.nighthawk.pw:2052/announce
@@ -2832,12 +2826,12 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
+udp://tracker.trackton.ga:7070/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
-udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.vraphim.com:6969/announce
 udp://tracker.vrpnet.org:6969/announce
