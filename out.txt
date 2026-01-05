@@ -372,8 +372,6 @@
 34.52.190.155
 34.66.57.33
 34.66.57.33:1337
-34.66.57.33:80
-34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -475,6 +473,7 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
+80.71.224.126:1337
 80.71.224.126:6969
 81.230.84.201
 82.221.103.244
@@ -701,6 +700,7 @@ http://171.104.226.221:6969/announce
 http://171.104.226.25:6969/announce
 http://171.104.226.31:6969/announce
 http://171.104.226.87:6969/announce
+http://177.173.31.33:6969/announce
 http://179.100.24.134:6969/announce
 http://179.98.254.109:6969/announce
 http://180.97.219.76:8070/announce
@@ -737,6 +737,7 @@ http://207.246.79.17:8080/announce
 http://209.209.112.121:2710/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
+http://211.75.205.187:6969/announce
 http://211.75.205.187:80/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
@@ -2342,6 +2343,7 @@ udp://172.105.235.127:6969/announce
 udp://173.249.201.201:6969/announce
 udp://176.31.250.174:6969/announce
 udp://176.99.7.59:6969/announce
+udp://177.173.31.33:6969/announce
 udp://178.170.48.154:1337/announce
 udp://179.98.254.109:6969/announce
 udp://185.102.219.163:6969/announce
@@ -2370,7 +2372,9 @@ udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.50.255.93:3218/announce
+udp://211.75.205.187:6969/announce
 udp://211.75.205.187:80/announce
+udp://211.75.205.189:80/announce
 udp://211.75.210.221:6969/announce
 udp://211.75.29.254:6969/announce
 udp://211.97.119.76:6969/announce
@@ -2381,6 +2385,7 @@ udp://23.134.88.9:1337/announce
 udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.153.248.128:6969/announce
+udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
 udp://34.66.57.33:1337/announce
 udp://37.187.111.136:6969/announce
@@ -2389,6 +2394,7 @@ udp://37.235.176.37:2710/announce
 udp://37.59.48.81:6969/announce
 udp://43.154.112.29:17272/announce
 udp://43.250.54.137:6969/announce
+udp://45.134.88.121:6969/announce
 udp://45.9.60.30:6969/announce
 udp://46.138.242.240:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
@@ -2463,6 +2469,7 @@ udp://9.rarbg.to:2830/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.to:2920/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.to:2990/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://91.211.5.21:6969/announce
+udp://91.216.110.53:451/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
 udp://93.158.213.92:1337/announce
@@ -2593,7 +2600,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://mixfiend.com:6969/announce
@@ -2636,6 +2642,7 @@ udp://opentracker.skank.i2p:6969/a
 udp://opentrackr.org:1337/announce
 udp://opentrackr.org:1337/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
+udp://p4p.arenabg.com:1337
 udp://p4p.arenabg.com:1337/announce
 udp://parag.rs:6969/announce
 udp://pow7.com:80/announce
@@ -2738,7 +2745,6 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
-udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloaka.xyz:1337/announce
@@ -2764,7 +2770,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.files.fm:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
@@ -2903,6 +2908,7 @@ udp://yuki.bt.bontal.net:6969/announce
 udp://z.mercax.com:53/announce
 udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
 udp://zecircle.xyz:6969/announce
+udp://zer0day.ch:1337/announce
 udp://zupix.online:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
 utracker.ghostchu-services.top
 wepzone.net
