@@ -372,8 +372,6 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
-34.66.57.33:1337
-34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -1781,6 +1779,7 @@ https://opentracker.xyz:443/announce
 https://prestige.minimafia.nl:443/announce
 https://private.minimafia.nl:443/announce
 https://pybittrack.retiolus.net:443/announce
+https://retracker2.x2k.ru:443/announce
 https://seeders-paradise.org/announce
 https://seeders-paradise.org:443/announce
 https://shahidrazi.online:443/announce
@@ -2424,6 +2423,7 @@ udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7p41a8967.wicp.vip:22222/announce
@@ -2500,7 +2500,6 @@ udp://aegir.sexy:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://anidex.moe:6969/announce
 udp://anidex.moe:6969/announce # malfunction
-udp://anna.bt.bontal.net:6969/announce
 udp://app.icon256.com:8000/announce
 udp://astrr.ru:6969/announce
 udp://bananas.space:6969/announce
@@ -2606,7 +2605,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://mixfiend.com:6969/announce
