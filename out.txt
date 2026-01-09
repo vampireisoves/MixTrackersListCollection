@@ -23,6 +23,7 @@
 110.187.215.166
 110.187.215.3
 111.90.151.241
+114.67.83.167
 116.16.41.96
 116.16.42.86
 116.16.45.177
@@ -44,7 +45,6 @@
 117.84.129.196
 118.163.198.106
 118.25.157.230
-120.78.150.131
 121.199.16.229
 123.245.62.100
 123.245.62.104
@@ -103,7 +103,6 @@
 148.252.75.241
 15.204.56.171
 15.204.57.168
-151.242.30.86
 151.243.109.110
 151.243.109.163
 152.231.114.120
@@ -115,6 +114,7 @@
 152.249.214.74
 152.53.152.105
 152.67.8.255
+154.201.75.73
 156.234.201.18
 157.131.124.190
 160.251.231.187
@@ -126,6 +126,7 @@
 172.237.146.38
 172.237.146.8
 176.123.1.180
+176.172.42.174
 176.32.38.223
 176.56.6.77
 176.56.7.89
@@ -260,6 +261,7 @@
 193.124.24.22:2710
 193.148.251.93
 193.177.162.187
+193.218.118.81
 193.233.161.213
 193.31.26.113
 193.34.92.5:80
@@ -272,6 +274,7 @@
 195.16.73.95
 195.234.62.166
 1c.premierzal.ru
+2.7.48.9
 200.111.152.53
 200.111.152.54
 200.148.11.147
@@ -332,6 +335,7 @@
 212.129.33.59
 212.42.38.197
 212.60.5.203
+212.8.249.30
 216.144.239.90
 217.156.123.49
 220.200.35.117
@@ -373,6 +377,9 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
+34.66.57.33:1337
+34.66.57.33:80
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -445,9 +452,11 @@
 68.193.189.231
 69.197.155.114
 69.30.224.166
+69.42.220.133
 6ahddutb1ucc3cp.ru
 7.rarbg.me
 7.rarbg.to
+74.119.150.221
 74.48.17.122
 76.223.54.146
 77.91.85.95
@@ -2611,6 +2620,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://mixfiend.com:6969/announce
@@ -2664,6 +2674,7 @@ udp://public.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
+udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
@@ -2753,6 +2764,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloaka.xyz:1337/announce
