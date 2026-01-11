@@ -194,6 +194,7 @@
 185.87.45.163
 186.10.170.119
 186.10.170.186
+186.10.170.186:1337
 186.10.170.23
 186.10.170.30
 186.10.170.56
@@ -472,7 +473,6 @@
 8.rarbg.to
 80.71.224.126
 80.71.224.126:1337
-80.71.224.126:6969
 81.170.132.66
 81.230.84.201
 82.221.103.244
@@ -2660,7 +2660,6 @@ udp://public.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
-udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
