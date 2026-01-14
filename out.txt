@@ -129,6 +129,7 @@
 172.237.146.25
 172.237.146.38
 172.237.146.8
+173.201.36.219
 176.123.1.180
 176.32.38.223
 176.56.6.77
@@ -379,6 +380,8 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
+34.66.57.33:7070
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -552,7 +555,6 @@
 9.rarbg.to
 91.208.197.19
 91.216.110.53
-92.204.188.19
 93.158.213.92
 93.158.213.92:1337
 94.136.190.183
@@ -2621,6 +2623,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://mixfiend.com:6969/announce
@@ -2859,10 +2862,10 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
+udp://tracker.trackton.ga:7070/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
-udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.vulnix.sh:6969/announce # registered torrents
