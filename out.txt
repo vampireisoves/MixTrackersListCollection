@@ -108,6 +108,7 @@
 151.243.109.163
 152.231.114.120
 152.231.114.51
+152.231.114.51:1337
 152.231.114.55
 152.243.213.163
 152.249.214.198
@@ -186,7 +187,6 @@
 185.121.168.96
 185.130.47.2
 185.189.13.108
-185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -378,7 +378,7 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
-34.66.57.33:8826
+34.66.57.33:80
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -484,7 +484,7 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
-80.71.224.126:1337
+80.71.224.126:6969
 81.230.84.201
 82.221.103.244
 82.65.166.4
@@ -683,6 +683,7 @@ http://144.202.33.210:6961/announce
 http://144.76.118.107:6969/announce
 http://147job.com:6969/announce
 http://151.115.49.115:1337/announce
+http://152.231.114.51:1337/announce
 http://155.248.200.105/announce
 http://156.234.201.18/announce
 http://156.234.201.18:80/announce
@@ -751,6 +752,7 @@ http://211.75.205.187:6969/announce
 http://211.75.205.188:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
+http://211.75.210.221:6969/announce
 http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
 http://211.97.119.88:2710/announce
@@ -1733,6 +1735,7 @@ https://bt.080609.xyz:443/announce
 https://bt.beatrice-raws.org/announce
 https://bt.beatrice-raws.org:443/announce
 https://bt.beatrice-raws.org:443/announce # registered torrents
+https://bt.bontal.net:443/announce
 https://bt.endpot.com/announce
 https://bt.endpot.com:443/announce
 https://bt.nfshost.com/announce
@@ -2336,6 +2339,7 @@ udp://103.122.21.50:6969/announce
 udp://103.251.166.126:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
+udp://104.248.85.59:6969/announce
 udp://107.175.221.194:6969/announce
 udp://107.189.4.235:1337/announce
 udp://107.189.7.165:6969/announce
@@ -2387,10 +2391,13 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
+udp://209.250.249.67:6969/announce
 udp://209.50.255.93:3218/announce
 udp://211.75.205.187:6969/announce
 udp://211.75.205.188:6969/announce
 udp://211.75.205.188:80/announce
+udp://211.75.205.189:80/announce
+udp://211.75.210.221:6969/announce
 udp://211.75.210.221:80/announce
 udp://211.75.29.254:6969/announce
 udp://211.97.119.88:6969/announce
@@ -2431,7 +2438,6 @@ udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://69.30.233.234:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://74.119.150.221:6969/announce
@@ -2439,6 +2445,7 @@ udp://77.91.85.95:6969/announce
 udp://7p41a8967.wicp.vip:22222/announce
 udp://8.rarbg.com:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://8.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://80.71.224.126:6969/announce
 udp://81.230.84.201:6969/announce
 udp://82.65.115.10:6969/announce
 udp://83.102.180.21:80/announce
@@ -2610,7 +2617,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://mixfiend.com:6969/announce
@@ -2665,6 +2671,7 @@ udp://public.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
+udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
@@ -2755,6 +2762,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloaka.xyz:1337/announce
@@ -2851,6 +2859,7 @@ udp://tracker.trackerfix.com:82/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
+udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.vulnix.sh:6969/announce # registered torrents
@@ -2921,7 +2930,6 @@ udp://yuki.bt.bontal.net:6969/announce
 udp://z.mercax.com:53/announce
 udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
 udp://zecircle.xyz:6969/announce
-udp://zer0day.ch:1337/announce
 udp://zupix.online:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
 utracker.ghostchu-services.top
 wepzone.net
@@ -2937,7 +2945,6 @@ wss://tracker.files.fm:7073/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
-wss://tracker.webtorrent.dev:443
 wss://ws.peer.ooo:443/announce # deprecated by owner
 www.2600.com
 www.all4nothin.net
