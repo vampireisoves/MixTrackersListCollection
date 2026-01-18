@@ -298,7 +298,6 @@
 207.211.184.229
 207.244.226.120
 208.83.20.20
-208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -307,11 +306,8 @@
 210.61.187.209
 211.23.142.127
 211.75.205.187
-211.75.205.187:80
 211.75.205.188
-211.75.205.188:80
 211.75.205.189
-211.75.205.189:80
 211.75.205.190
 211.75.205.191
 211.75.205.192
@@ -320,7 +316,6 @@
 211.75.210.123
 211.75.210.220
 211.75.210.221
-211.75.210.221:80
 211.97.119.106
 211.97.119.123
 211.97.119.34
@@ -375,6 +370,8 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
+34.66.57.33:6969
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -422,7 +419,6 @@
 51.159.89.93
 51.222.82.36
 52.58.128.163
-52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -432,7 +428,6 @@
 60-fps.org
 60.172.236.18
 60.249.37.20
-60.249.37.20:80
 60.249.37.21
 61.216.165.60
 61.221.26.18
@@ -479,7 +474,6 @@
 8.rarbg.to
 80.71.224.126
 80.71.224.126:1337
-80.71.224.126:6969
 81.230.84.201
 82.221.103.244
 82.65.166.4
@@ -2384,7 +2378,6 @@ udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
-udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.50.255.93:3218/announce
@@ -2560,6 +2553,7 @@ udp://debuz.com:6969/announce
 udp://denis.stalker.upeer.me:1337/announce # duplicate of udp://denis.stalker.upeer.me:6969/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
+udp://discord.heihachi.pw:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://elementsbrowser.com:6969/announce
@@ -2614,6 +2608,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://mixfiend.com:6969/announce
@@ -2668,7 +2663,6 @@ udp://public.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
-udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
