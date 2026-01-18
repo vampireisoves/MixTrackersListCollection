@@ -108,6 +108,7 @@
 151.243.109.163
 152.231.114.120
 152.231.114.51
+152.231.114.51:1337
 152.231.114.55
 152.243.213.163
 152.249.214.198
@@ -307,13 +308,10 @@
 211.23.142.127
 211.75.205.187
 211.75.205.187:6969
-211.75.205.187:80
 211.75.205.188
 211.75.205.188:6969
-211.75.205.188:80
 211.75.205.189
 211.75.205.189:6969
-211.75.205.189:80
 211.75.205.190
 211.75.205.191
 211.75.205.192
@@ -323,7 +321,6 @@
 211.75.210.220
 211.75.210.221
 211.75.210.221:6969
-211.75.210.221:80
 211.97.119.106
 211.97.119.123
 211.97.119.34
@@ -378,6 +375,8 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
+34.66.57.33:7070
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -436,7 +435,6 @@
 60.172.236.18
 60.249.37.20
 60.249.37.20:6969
-60.249.37.20:80
 60.249.37.21
 61.216.165.60
 61.221.26.18
@@ -482,7 +480,7 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
-80.71.224.126:6969
+80.71.224.126:1337
 81.230.84.201
 82.221.103.244
 82.65.166.4
@@ -2400,7 +2398,6 @@ udp://211.97.119.88:6969/announce
 udp://212.42.38.197:6969/announce
 udp://212.8.249.30:6969/announce
 udp://217.30.10.77:6969/announce
-udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
@@ -2618,6 +2615,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://mixfiend.com:6969/announce
@@ -2672,7 +2670,6 @@ udp://public.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
-udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
@@ -2857,10 +2854,10 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
+udp://tracker.trackton.ga:7070/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
-udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
@@ -2932,6 +2929,7 @@ udp://yuki.bt.bontal.net:6969/announce
 udp://z.mercax.com:53/announce
 udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
 udp://zecircle.xyz:6969/announce
+udp://zer0day.ch:1337/announce
 udp://zupix.online:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
 utracker.ghostchu-services.top
 wepzone.net
