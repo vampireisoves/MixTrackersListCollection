@@ -383,6 +383,8 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
+34.66.57.33:1337
+34.66.57.33:80
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -2756,6 +2758,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloaka.xyz:1337/announce
