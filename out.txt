@@ -389,8 +389,8 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
+34.66.57.33:1337
 34.66.57.33:80
-34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -440,6 +440,7 @@
 51.159.89.93
 51.222.82.36
 52.58.128.163
+52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -1099,7 +1100,6 @@ http://laxclax.ddns.net00/announce
 http://li1406-230.members.linode.com:6969/announce
 http://li2021-95.members.linode.com:6969/announce
 http://lima-peru.subventas.com:443/announce
-http://litter.fluffykitten.moe:1337/announce
 http://lucke.fenesisu.moe:6969/announce
 http://mail.lakameraobscura.com:6969/announce
 http://masters-tb.com/announce.php
@@ -2615,7 +2615,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://mixfiend.com:6969/announce
@@ -2670,7 +2669,6 @@ udp://public.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
-udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
@@ -2857,6 +2855,7 @@ udp://tracker.trackerfix.com:82/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
+udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
