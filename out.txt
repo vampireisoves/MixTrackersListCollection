@@ -392,7 +392,8 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
-34.66.57.33:1337
+34.66.57.33:80
+34.66.57.33:8000
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -442,7 +443,6 @@
 51.159.89.93
 51.222.82.36
 52.58.128.163
-52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -499,12 +499,12 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
-80.71.224.126:1337
 81.230.84.201
 82.221.103.244
 82.67.183.86
 82.67.44.197
 83.102.180.21
+83.102.180.21:80
 83.146.104.30
 83.146.105.110
 83.146.81.79
@@ -2776,6 +2776,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloaka.xyz:1337/announce
@@ -2893,6 +2894,7 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
@@ -2944,7 +2946,6 @@ udp://yuki.bt.bontal.net:6969/announce
 udp://z.mercax.com:53/announce
 udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
 udp://zecircle.xyz:6969/announce
-udp://zer0day.ch:1337/announce
 udp://zupix.online:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
 utracker.ghostchu-services.top
 wepzone.net
