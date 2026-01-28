@@ -158,7 +158,6 @@
 177.172.62.240
 177.172.65.102
 177.172.65.168
-177.172.65.240
 177.172.66.120
 177.172.66.210
 177.172.67.13
@@ -247,6 +246,7 @@
 189.69.168.180
 189.69.169.237
 189.69.169.89
+189.69.170.131
 189.69.170.69
 189.69.171.209
 189.69.171.248
@@ -392,7 +392,6 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
-34.66.57.33:1337
 34.66.57.33:7070
 34.66.57.33:8826
 34.66.57.33:9696
@@ -2611,7 +2610,6 @@ udp://opentracker.skank.i2p:6969/a
 udp://opentrackr.org:1337/announce
 udp://opentrackr.org:1337/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
-udp://p4p.arenabg.com:1337
 udp://p4p.arenabg.com:1337/announce
 udp://parag.rs:6969/announce
 udp://pow7.com:80/announce
