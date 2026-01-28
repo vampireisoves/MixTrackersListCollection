@@ -117,7 +117,6 @@
 152.249.214.53
 152.249.214.68
 152.249.214.74
-152.249.71.38
 152.53.152.105
 152.67.8.255
 154.201.75.73
@@ -159,6 +158,7 @@
 177.172.62.240
 177.172.65.102
 177.172.65.168
+177.172.65.240
 177.172.66.120
 177.172.66.210
 177.172.67.13
@@ -194,6 +194,7 @@
 185.121.168.96
 185.130.47.2
 185.189.13.108
+185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -321,13 +322,10 @@
 211.23.142.127
 211.75.205.187
 211.75.205.187:6969
-211.75.205.187:80
 211.75.205.188
 211.75.205.188:6969
-211.75.205.188:80
 211.75.205.189
 211.75.205.189:6969
-211.75.205.189:80
 211.75.205.190
 211.75.205.191
 211.75.205.192
@@ -337,7 +335,6 @@
 211.75.210.220
 211.75.210.221
 211.75.210.221:6969
-211.75.210.221:80
 211.97.119.106
 211.97.119.123
 211.97.119.34
@@ -395,6 +392,8 @@
 34.66.57.33
 34.66.57.33:1337
 34.66.57.33:7070
+34.66.57.33:80
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -455,7 +454,6 @@
 60.172.236.18
 60.249.37.20
 60.249.37.20:6969
-60.249.37.20:80
 60.249.37.21
 61.216.165.60
 61.221.26.18
@@ -764,18 +762,12 @@ http://211.75.205.189:6969/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
-http://211.97.119.88:2710/announce
 http://212.6.3.67/announce
 http://216.144.239.90:6969/announce
 http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
-http://34.66.57.33:11450/announce
-http://34.66.57.33:2701/announce
-http://34.66.57.33:443/announce
-http://34.66.57.33:6969/announce
-http://34.66.57.33:80/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -970,7 +962,6 @@ http://bt.nnm-club.info:2710/announce # registered torrents
 http://bt.okmp3.ru:2710/announce
 http://bt.okmp3.ru:2710/announce # fake seeds
 http://bt.poletracker.org:2710/announce
-http://bt.rer.lol:2710/announce
 http://bt.rghost.net/announce
 http://bt.rghost.net:80/announce
 http://bt.unionpeer.org:777/announce # registered torrents
@@ -1092,7 +1083,6 @@ http://irrenhaus.dyndns.dk:80/announce.php # malfunction
 http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
 http://jsb.by00/announce
-http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kaztorka.org:80/announce.php # registered torrents
 http://kinorun.com/announce.php
@@ -1239,7 +1229,6 @@ http://share.camoe.cn:8080/announce
 http://share.camoe.cn:8080/announce # duplicate of http://t.acg.rip:6699/announce
 http://share.hkg-fansub.info/announce.php
 http://share.hkg-fansub.info:80/announce
-http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce.php
@@ -1297,7 +1286,6 @@ http://torrent.arjlover.net:2710/announce
 http://torrent.arjlover.net:2710/announce # registered torrents
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.fedoraproject.org:6969/announce # registered torrents
-http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce
 http://torrent.mp3quran.net:80/announce.php
@@ -2366,7 +2354,6 @@ udp://185.44.82.25:1337/announce
 udp://192.95.46.115:6969/announce
 udp://193.34.92.5:80/announce
 udp://193.37.214.12:6969/announce
-udp://193.42.111.57:9337/announce
 udp://194.38.21.77:6969/announce
 udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
@@ -2375,26 +2362,19 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
-udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
-udp://209.250.249.67:6969/announce
 udp://209.50.255.93:3218/announce
 udp://211.75.205.189:6969/announce
-udp://211.75.205.189:80/announce
 udp://211.75.210.221:80/announce
 udp://211.75.29.254:6969/announce
-udp://211.97.119.88:6969/announce
 udp://212.42.38.197:6969/announce
-udp://212.8.249.30:6969/announce
 udp://217.30.10.77:6969/announce
 udp://23.137.251.45:6969/announce
-udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
 udp://31.38.161.123:6969/announce
 udp://34.66.57.33:1337/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
-udp://37.235.176.37:2710/announce
 udp://37.59.48.81:6969/announce
 udp://43.154.112.29:17272/announce
 udp://43.250.54.137:6969/announce
@@ -2419,15 +2399,14 @@ udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://74.119.150.221:6969/announce
-udp://77.91.85.95:6969/announce
 udp://8.rarbg.com:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://8.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://81.230.84.201:6969/announce
 udp://82.65.115.10:6969/announce
-udp://83.102.180.21:80/announce
 udp://84.54.51.78:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
@@ -2471,7 +2450,6 @@ udp://9.rarbg.to:2830/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.to:2920/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.to:2990/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://91.211.5.21:6969/announce
-udp://91.216.110.53:451/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
 udp://93.158.213.92:1337/announce
@@ -2514,7 +2492,6 @@ udp://bt.okmp3.ru:2710/announce&nbsp;
 udp://bt.rer.lol:2710/announce # duplicate of udp://bt.rer.lol:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
-udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
@@ -2561,10 +2538,8 @@ udp://freedomalternative.com:6969/announce
 udp://ftp.pet:2710/announce
 udp://git.vulnix.sh:6969/announce # registered torrents
 udp://home.kray.pw:6969/announce
-udp://home.yxgz.club:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
-udp://hzzwly.gq:6969/announce
 udp://ibksturm.synology.me:6969/announce
 udp://incine.ru:6969/announce
 udp://ipv4.rer.lol:2710/announce
@@ -2593,6 +2568,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://mixfiend.com:6969/announce
@@ -2693,7 +2669,6 @@ udp://thouvenin.cloud:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://tk4.leechshield.link:6969/announce
 udp://torrent.fedoraproject.org:6969/announce
-udp://torrent.hificode.in:6969/announce
 udp://torrent.i.ng:6969/announce
 udp://torrent.ubuntu.com:6969/announce
 udp://torrentclub.online:54123/announce
@@ -2731,6 +2706,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloaka.xyz:1337/announce
@@ -2756,7 +2732,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.files.fm:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
@@ -2831,7 +2806,6 @@ udp://tracker.vulnix.sh:6969/announce # registered torrents
 udp://tracker.waaa.moe:6969/announce
 udp://tracker.wepzone.net:6969/announce
 udp://tracker.x6c.co:6969/announce
-udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.xor.st:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ygsub.com:6969/announce
