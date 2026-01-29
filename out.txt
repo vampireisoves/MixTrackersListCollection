@@ -207,7 +207,6 @@
 186.10.170.30
 186.10.170.56
 186.10.170.58
-186.10.170.58:1337
 186.10.170.71
 186.10.170.97
 186.10.172.248
@@ -320,8 +319,11 @@
 210.61.187.209
 211.23.142.127
 211.75.205.187
+211.75.205.187:6969
 211.75.205.188
+211.75.205.188:6969
 211.75.205.189
+211.75.205.189:6969
 211.75.205.190
 211.75.205.191
 211.75.205.192
@@ -330,6 +332,7 @@
 211.75.210.123
 211.75.210.220
 211.75.210.221
+211.75.210.221:6969
 211.97.119.106
 211.97.119.123
 211.97.119.34
@@ -388,6 +391,7 @@
 34.66.57.33:1337
 34.66.57.33:7070
 34.66.57.33:80
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -447,6 +451,7 @@
 60-fps.org
 60.172.236.18
 60.249.37.20
+60.249.37.20:6969
 60.249.37.21
 61.216.165.60
 61.221.26.18
@@ -492,7 +497,6 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
-80.71.224.126:6969
 81.230.84.201
 82.221.103.244
 82.67.183.86
@@ -1843,7 +1847,6 @@ https://tracker.4.babico.name.tr:443/announce
 https://tracker.aburaya.live:443/announce
 https://tracker.acgnx.se:443/announce # registered torrents
 https://tracker.alaskantf.com:443/announce
-https://tracker.amelia.fun:443/announce
 https://tracker.baka.ink/announce
 https://tracker.baka.ink:443/announce
 https://tracker.bangumi.zip/announce
@@ -2570,6 +2573,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://mixfiend.com:6969/announce
@@ -2670,7 +2674,6 @@ udp://tk1.trackerservers.com:8080/announce
 udp://tk4.leechshield.link:6969/announce
 udp://torrent.fedoraproject.org:6969/announce
 udp://torrent.i.ng:6969/announce
-udp://torrent.ubuntu.com:6969/announce
 udp://torrentclub.online:54123/announce
 udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
@@ -2798,9 +2801,7 @@ udp://tracker.trackton.ga:7070/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
-udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
-udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.vraphim.com:6969/announce
 udp://tracker.vrpnet.org:6969/announce
