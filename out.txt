@@ -193,6 +193,7 @@
 185.121.168.96
 185.130.47.2
 185.189.13.108
+185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -206,6 +207,7 @@
 186.10.170.30
 186.10.170.56
 186.10.170.58
+186.10.170.58:1337
 186.10.170.71
 186.10.170.97
 186.10.172.248
@@ -392,7 +394,7 @@
 34.66.57.33
 34.66.57.33:1337
 34.66.57.33:7070
-34.66.57.33:80
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -428,6 +430,7 @@
 47.54.240.69
 47.55.183.231
 49.13.133.10
+4olv65sj4ifeak26wqiifr3q2vjv5d44x733ncqhtd7cmjwoinpa.b32.i2p
 5.102.159.190
 5.161.187.83
 5.181.156.41
@@ -470,6 +473,7 @@
 69.30.224.166
 69.30.233.234
 6ahddutb1ucc3cp.ru
+6wbrmd4wodeewdykfw362gmlbeo26njc5zmtuxdvtomehpozzjja.b32.i2p
 7.rarbg.me
 7.rarbg.to
 74.119.150.221
@@ -499,6 +503,7 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
+80.71.224.126:6969
 81.230.84.201
 82.221.103.244
 82.67.183.86
@@ -630,6 +635,7 @@ bz.tracker.bz
 carbon-bonsai-621.appspot.com
 ch3oh.ru
 chihaya.de
+cny.fan
 concen.org
 d40969.acod.regrucolo.ru
 data-bg.net
@@ -2174,6 +2180,7 @@ tracker.baltracker.net
 tracker.belmult.online
 tracker.bitcoinindia.space
 tracker.bittor.pw
+tracker.bluefrog.pw
 tracker.breizh.pm
 tracker.bt-hash.com
 tracker.bt4g.com
@@ -2222,9 +2229,12 @@ tracker.healthcareindia.store
 tracker.hifimarket.in
 tracker.hifitechindia.com
 tracker.internetwarriors.net
+tracker.iochimari.moe
+tracker.iperson.xyz
 tracker.ipfsscan.io
 tracker.ipv6tracker.org
 tracker.itscraftsoftware.my.id
+tracker.ixuexi.click
 tracker.jdx3.org
 tracker.jiesen.life
 tracker.kali.org
@@ -2260,6 +2270,7 @@ tracker.qu.ax
 tracker.renfei.net
 tracker.rescuecrew7.com
 tracker.sbsub.com
+tracker.sharebro.in
 tracker.shittyurl.org
 tracker.skillindia.site
 tracker.skynetcloud.site
@@ -2288,6 +2299,7 @@ tracker.tricitytorrents.com
 tracker.tritan.gg
 tracker.tryhackx.org
 tracker.tvunderground.org.ru
+tracker.umunu.ru
 tracker.uraniumhexafluori.de
 tracker.valete.tf
 tracker.vanitycore.co
@@ -2419,6 +2431,7 @@ udp://5.196.67.51:6969/announce
 udp://5.196.89.204:6969/announce
 udp://5.255.124.190:6969/announce
 udp://5.75.253.124:6969/announce
+udp://504e163a.host.njalla.net:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
 udp://51.15.41.46:6969/announce
@@ -2609,6 +2622,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://mixfiend.com:6969/announce
@@ -2747,7 +2761,6 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
-udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloaka.xyz:1337/announce
@@ -2842,6 +2855,7 @@ udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.umunu.ru:6969/announce
+udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
@@ -2849,6 +2863,7 @@ udp://tracker.vraphim.com:6969/announce
 udp://tracker.vrpnet.org:6969/announce
 udp://tracker.vulnix.sh:6969/announce # registered torrents
 udp://tracker.waaa.moe:6969/announce
+udp://tracker.wepzone.net:6969/announce
 udp://tracker.x6c.co:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.xor.st:6969/announce
@@ -2967,4 +2982,5 @@ yggtracker.i2p.rocks
 yuki.bt.bontal.net
 z.mercax.com
 z.paranoid.agency
+zer0day.ch
 zupix.online
