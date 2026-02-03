@@ -209,7 +209,6 @@
 186.10.170.30
 186.10.170.56
 186.10.170.58
-186.10.170.58:1337
 186.10.170.71
 186.10.170.97
 186.10.172.248
@@ -295,7 +294,6 @@
 1c.premierzal.ru
 200.111.152.53
 200.111.152.54
-200.148.11.118
 200.148.11.147
 200.148.11.156
 200.148.11.61
@@ -309,6 +307,7 @@
 200.170.109.125
 200.170.109.148
 200.170.110.108
+200.170.110.36
 200.170.113.35
 200.170.113.5
 201.13.49.112
@@ -393,7 +392,7 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
-34.66.57.33:1337
+34.66.57.33:8000
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -2786,7 +2785,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.files.fm:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
@@ -2873,6 +2871,7 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
