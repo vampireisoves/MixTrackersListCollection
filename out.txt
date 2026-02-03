@@ -154,6 +154,7 @@
 177.144.178.39
 177.172.61.249
 177.172.61.33
+177.172.62.154
 177.172.62.168
 177.172.62.179
 177.172.62.185
@@ -308,7 +309,6 @@
 200.170.109.125
 200.170.109.148
 200.170.110.108
-200.170.110.36
 200.170.113.35
 200.170.113.5
 201.13.49.112
@@ -397,10 +397,8 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
-34.66.57.33:1337
 34.66.57.33:80
 34.66.57.33:8000
-34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -2622,7 +2620,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://mixfiend.com:6969/announce
@@ -2787,7 +2784,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.files.fm:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
