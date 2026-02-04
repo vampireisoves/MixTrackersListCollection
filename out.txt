@@ -152,7 +152,6 @@
 177.139.47.92
 177.144.178.170
 177.144.178.39
-177.16.198.128
 177.172.61.249
 177.172.61.33
 177.172.62.154
@@ -193,7 +192,6 @@
 179.98.51.66
 18.191.163.220
 180.112.57.159
-180.114.103.80
 184.105.226.26
 185.121.168.244
 185.121.168.96
@@ -224,6 +222,7 @@
 187.11.73.20
 187.11.73.213
 187.11.74.138
+187.11.75.160
 187.11.75.17
 187.11.75.196
 187.11.75.60
@@ -297,6 +296,7 @@
 195.234.62.166
 1c.premierzal.ru
 200.111.152.53
+200.111.152.53:1337
 200.111.152.54
 200.148.11.147
 200.148.11.156
@@ -400,7 +400,6 @@
 34.52.190.155
 34.66.57.33
 34.66.57.33:1337
-34.66.57.33:80
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -458,6 +457,7 @@
 54.37.38.200
 54.39.48.3
 57.128.230.226
+58.214.200.28
 59.32.95.136
 59.32.95.248
 60-fps.org
@@ -2742,7 +2742,6 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
-udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloaka.xyz:1337/announce
@@ -2768,6 +2767,7 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
+udp://tracker.fileparadise.in:1337/announce
 udp://tracker.files.fm:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
