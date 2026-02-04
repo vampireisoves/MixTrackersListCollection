@@ -296,7 +296,6 @@
 195.234.62.166
 1c.premierzal.ru
 200.111.152.53
-200.111.152.53:1337
 200.111.152.54
 200.148.11.147
 200.148.11.156
@@ -1792,7 +1791,6 @@ https://opentracker.xyz/announce
 https://opentracker.xyz:443/announce
 https://prestige.minimafia.nl:443/announce
 https://private.minimafia.nl:443/announce
-https://retracker2.x2k.ru:443/announce
 https://seeders-paradise.org/announce
 https://seeders-paradise.org:443/announce
 https://shahidrazi.online:443/announce
