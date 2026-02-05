@@ -297,7 +297,6 @@
 195.234.62.166
 1c.premierzal.ru
 200.111.152.53
-200.111.152.53:1337
 200.111.152.54
 200.148.11.147
 200.148.11.156
@@ -401,6 +400,7 @@
 34.52.190.155
 34.66.57.33
 34.66.57.33:1337
+34.66.57.33:8000
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -1566,6 +1566,7 @@ http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tricitytorrents.com:2710/announce # registered torrents
 http://tracker.tritan.gg:8080/announce
 http://tracker.tvunderground.org.ru:3218/announce
+http://tracker.umunu.ru:6969/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker.vraphim.com:6969/announce # registered torrents
@@ -2864,6 +2865,7 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
