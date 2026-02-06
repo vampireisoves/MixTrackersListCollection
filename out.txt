@@ -124,6 +124,7 @@
 156.234.201.18
 157.131.124.190
 159.195.43.181
+159.195.43.181:6969
 160.251.231.187
 167.253.78.20
 172.233.219.123
@@ -331,8 +332,11 @@
 210.61.187.209
 211.23.142.127
 211.75.205.187
+211.75.205.187:6969
 211.75.205.188
+211.75.205.188:6969
 211.75.205.189
+211.75.205.189:6969
 211.75.205.190
 211.75.205.191
 211.75.205.192
@@ -341,6 +345,7 @@
 211.75.210.123
 211.75.210.220
 211.75.210.221
+211.75.210.221:6969
 211.97.119.106
 211.97.119.123
 211.97.119.34
@@ -398,7 +403,8 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
-34.66.57.33:8826
+34.66.57.33:1337
+34.66.57.33:80
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -460,6 +466,7 @@
 60-fps.org
 60.172.236.18
 60.249.37.20
+60.249.37.20:6969
 60.249.37.21
 61.216.165.60
 61.221.26.18
@@ -506,7 +513,6 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
-80.71.224.126:1337
 80.71.224.126:6969
 81.230.84.201
 82.221.103.244
@@ -748,7 +754,6 @@ http://185.216.178.49:6969/announce
 http://185.230.4.150:1337/announce
 http://185.232.169.109/announce
 http://185.70.187.79:6969/announce
-http://187.11.75.160:6969/announce
 http://187.57.14.62:6969/announce
 http://189.0.196.51:6969/announce
 http://189.110.233.96:6969/announce
@@ -758,7 +763,6 @@ http://192.9.228.30:6699/announce
 http://193.31.26.113:6969/announce
 http://193.37.214.12:6969/announce
 http://198.251.84.144/announce
-http://200.111.152.53:1337/announce
 http://200.232.254.1:6969/announce
 http://201.42.214.55:6969/announce
 http://201.43.209.254:6969/announce
@@ -775,7 +779,6 @@ http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.205.188:6969/announce
 http://211.75.205.188:80/announce
-http://211.75.205.189:6969/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:6969/announce
 http://211.75.210.221:80/announce
@@ -1807,7 +1810,6 @@ https://t.213891.xyz:443/announce
 https://t.btcland.xyz/announce
 https://t.btcland.xyz:443/announce
 https://t.btcland.xyz:443/announce # detected as suspicious
-https://t.peer-exchange.download:443/announce
 https://t.quic.ws/announce
 https://t.quic.ws:443/announce
 https://t.zerg.pw/announce
@@ -2373,6 +2375,7 @@ udp://167.99.185.219:6969/announce
 udp://172.105.235.127:6969/announce
 udp://173.201.36.219:6969/announce
 udp://173.249.201.201:6969/announce
+udp://176.123.1.180:6969/announce
 udp://176.31.250.174:6969/announce
 udp://176.99.7.59:6969/announce
 udp://177.172.62.154:6969/announce
@@ -2404,7 +2407,6 @@ udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.50.255.93:3218/announce
 udp://211.75.205.188:6969/announce
-udp://211.75.205.189:6969/announce
 udp://211.75.210.221:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
@@ -2621,7 +2623,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2672,6 +2673,7 @@ udp://public-tracker.cf:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
+udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
@@ -2757,6 +2759,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloaka.xyz:1337/announce
@@ -2897,6 +2900,7 @@ udp://v2.iperson.xyz:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
+udp://wegkxfcivgx.ydns.eu:80/announce
 udp://wepzone.net:6969/announce
 udp://wg.mortis.me:6969/announce
 udp://widemus.de:6969/announce
