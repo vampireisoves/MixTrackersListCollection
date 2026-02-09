@@ -124,6 +124,7 @@
 156.234.201.18
 157.131.124.190
 159.195.43.181
+159.195.43.181:6969
 160.251.231.187
 167.253.78.20
 172.233.219.123
@@ -328,6 +329,7 @@
 207.211.184.229
 207.244.226.120
 208.83.20.20
+208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -336,8 +338,11 @@
 210.61.187.209
 211.23.142.127
 211.75.205.187
+211.75.205.187:6969
 211.75.205.188
+211.75.205.188:6969
 211.75.205.189
+211.75.205.189:6969
 211.75.205.190
 211.75.205.191
 211.75.205.192
@@ -346,6 +351,7 @@
 211.75.210.123
 211.75.210.220
 211.75.210.221
+211.75.210.221:6969
 211.97.119.106
 211.97.119.123
 211.97.119.34
@@ -397,10 +403,10 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.170.185.16
-3.170.185.4
-3.170.185.50
-3.170.185.58
+3.161.242.100
+3.161.242.106
+3.161.242.67
+3.161.242.79
 31.38.161.123
 34.170.169.34
 34.229.89.117
@@ -409,6 +415,8 @@
 34.66.57.33:1337
 34.66.57.33:7070
 34.66.57.33:80
+34.66.57.33:8000
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -468,6 +476,7 @@
 60-fps.org
 60.172.236.18
 60.249.37.20
+60.249.37.20:6969
 60.249.37.21
 61.216.165.60
 61.221.26.18
@@ -808,6 +817,7 @@ http://37.235.174.46:2710/announce
 http://38.145.197.79:6961/announce
 http://43.139.20.56:6969/announce
 http://43.250.54.137:6969/announce
+http://44.30.4.3:6969/announce
 http://44.30.4.4:6969/announce
 http://44.30.4.70:6969/announce
 http://45.154.253.10/announce
@@ -2405,6 +2415,7 @@ udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
+udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
@@ -2414,6 +2425,7 @@ udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://212.8.249.30:6969/announce
 udp://217.30.10.77:6969/announce
+udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.175.184.30:23333/announce
 udp://31.38.161.123:6969/announce
@@ -2609,6 +2621,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2835,6 +2848,7 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
