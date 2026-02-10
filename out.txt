@@ -10,10 +10,6 @@
 107.189.3.200
 107.189.4.235
 107.189.7.165
-108.138.246.116
-108.138.246.118
-108.138.246.44
-108.138.246.72
 108.53.194.223
 108.61.166.249
 109.201.134.183
@@ -255,7 +251,6 @@
 189.18.162.54
 189.18.163.167
 189.18.164.36
-189.18.96.124
 189.18.96.199
 189.18.96.56
 189.18.96.9
@@ -267,6 +262,7 @@
 189.69.168.180
 189.69.169.237
 189.69.169.89
+189.69.170.142
 189.69.170.69
 189.69.171.209
 189.69.171.248
@@ -412,6 +408,10 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
+3.170.185.16
+3.170.185.4
+3.170.185.50
+3.170.185.58
 31.38.161.123
 34.170.169.34
 34.229.89.117
@@ -419,7 +419,6 @@
 34.66.57.33
 34.66.57.33:1337
 34.66.57.33:7070
-34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -822,7 +821,6 @@ http://37.235.174.46:2710/announce
 http://38.145.197.79:6961/announce
 http://43.139.20.56:6969/announce
 http://43.250.54.137:6969/announce
-http://44.30.4.3:6969/announce
 http://44.30.4.4:6969/announce
 http://44.30.4.70:6969/announce
 http://45.154.253.10/announce
@@ -2432,6 +2430,7 @@ udp://217.30.10.77:6969/announce
 udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.175.184.30:23333/announce
+udp://31.38.161.123:6969/announce
 udp://34.66.57.33:1337/announce
 udp://34.66.57.33:80/announce
 udp://37.120.182.83:15480/announce
@@ -2854,7 +2853,6 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:6969/announce
-udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
