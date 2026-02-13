@@ -10,10 +10,6 @@
 107.189.3.200
 107.189.4.235
 107.189.7.165
-108.138.246.116
-108.138.246.118
-108.138.246.44
-108.138.246.72
 108.53.194.223
 108.61.166.249
 109.201.134.183
@@ -106,7 +102,6 @@
 145.223.96.109
 147.45.77.75
 148.113.168.115
-148.135.112.164
 148.252.75.241
 15.204.239.175
 15.204.56.171
@@ -118,7 +113,6 @@
 152.231.114.51
 152.231.114.55
 152.243.213.163
-152.243.213.252
 152.249.214.198
 152.249.214.53
 152.249.214.68
@@ -236,6 +230,7 @@
 187.11.74.138
 187.11.75.160
 187.11.75.17
+187.11.75.185
 187.11.75.196
 187.11.75.60
 187.34.25.113
@@ -411,13 +406,16 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
+3.171.85.110
+3.171.85.32
+3.171.85.4
+3.171.85.48
 31.38.161.123
 34.170.169.34
 34.229.89.117
 34.52.190.155
 34.66.57.33
-34.66.57.33:1337
-34.66.57.33:8826
+34.66.57.33:7070
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -444,7 +442,6 @@
 45.155.53.144
 45.9.60.30
 46.232.55.100
-46.250.235.92
 46.3.96.144
 46.59.69.118
 47.243.23.189
@@ -525,6 +522,8 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
+80.71.224.126:1337
+80.71.224.126:6969
 81.230.84.201
 82.221.103.244
 82.67.183.86
@@ -595,6 +594,7 @@
 93.158.213.92
 93.158.213.92:1337
 94.136.190.183
+94.143.142.174
 94.23.207.177
 94.243.222.100
 95.216.3.11
@@ -1970,6 +1970,7 @@ https://tracker.loligirl.cn:443/announce
 https://tracker.m-team.cc/announce.php
 https://tracker.m-team.cc:443/announce
 https://tracker.m-team.cc:443/announce.php
+https://tracker.manager.v6.navy:443/announce
 https://tracker.maya.no.eu.org:443/announce
 https://tracker.mlsub.net/announce
 https://tracker.mlsub.net:443/announce
@@ -2628,7 +2629,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2776,7 +2776,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
@@ -2834,9 +2833,11 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
+udp://tracker.trackton.ga:7070/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
+udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.vulnix.sh:6969/announce # registered torrents
