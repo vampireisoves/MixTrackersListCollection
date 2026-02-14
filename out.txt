@@ -125,7 +125,6 @@
 156.234.201.18
 157.131.124.190
 159.195.43.181
-159.195.43.181:6969
 160.251.231.187
 167.253.78.20
 172.233.219.123
@@ -227,6 +226,7 @@
 187.11.72.188
 187.11.72.236
 187.11.73.178
+187.11.73.189
 187.11.73.20
 187.11.73.213
 187.11.74.138
@@ -341,11 +341,8 @@
 210.61.187.209
 211.23.142.127
 211.75.205.187
-211.75.205.187:6969
 211.75.205.188
-211.75.205.188:6969
 211.75.205.189
-211.75.205.189:6969
 211.75.205.190
 211.75.205.191
 211.75.205.192
@@ -354,7 +351,6 @@
 211.75.210.123
 211.75.210.220
 211.75.210.221
-211.75.210.221:6969
 211.97.119.106
 211.97.119.123
 211.97.119.34
@@ -406,16 +402,18 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.170.185.16
-3.170.185.4
-3.170.185.50
-3.170.185.58
+3.171.85.110
+3.171.85.32
+3.171.85.4
+3.171.85.48
 31.38.161.123
 34.170.169.34
 34.229.89.117
 34.52.190.155
 34.66.57.33
-34.66.57.33:80
+34.66.57.33:1337
+34.66.57.33:6969
+34.66.57.33:7070
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -475,7 +473,6 @@
 60-fps.org
 60.172.236.18
 60.249.37.20
-60.249.37.20:6969
 60.249.37.21
 61.216.165.60
 61.221.26.18
@@ -524,8 +521,6 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
-80.71.224.126:1337
-80.71.224.126:6969
 81.230.84.201
 82.221.103.244
 82.67.183.86
@@ -2576,6 +2571,7 @@ udp://chouchou.top:8080/announce
 udp://concen.org:6969/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
+udp://cyteam.ru:6969/announce
 udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://dataforai.com:31332/announce
@@ -2583,6 +2579,7 @@ udp://db.koikia.eu:6969/announce
 udp://denis.stalker.upeer.me:1337/announce # duplicate of udp://denis.stalker.upeer.me:6969/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
+udp://discord.heihachi.pw:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://elementsbrowser.com:6969/announce
@@ -2675,7 +2672,6 @@ udp://public-tracker.cf:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
-udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
@@ -2750,7 +2746,6 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
-udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloudbase.store:1333/announce
@@ -2762,6 +2757,7 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
+udp://tracker.dix.tf:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.com:6969/announce # duplicate of udp://tracker.dler.org:6969/announce
 udp://tracker.dler.org:6969/announce
@@ -2775,6 +2771,7 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
+udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
@@ -2832,10 +2829,10 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
+udp://tracker.trackton.ga:7070/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
-udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.vulnix.sh:6969/announce # registered torrents
