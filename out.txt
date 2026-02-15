@@ -111,7 +111,6 @@
 15.204.239.175
 15.204.56.171
 15.204.57.168
-151.242.30.86
 151.243.109.110
 151.243.109.163
 152.231.114.120
@@ -209,7 +208,6 @@
 185.121.168.96
 185.130.47.2
 185.189.13.108
-185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -265,6 +263,7 @@
 189.69.167.130
 189.69.168.180
 189.69.169.237
+189.69.169.46
 189.69.169.89
 189.69.170.69
 189.69.171.209
@@ -374,6 +373,7 @@
 212.42.38.197
 212.60.5.203
 212.8.249.30
+213.196.191.96
 216.144.239.90
 217.156.123.49
 220.200.35.117
@@ -416,8 +416,8 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
-34.66.57.33:1337
 34.66.57.33:7070
+34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -468,6 +468,7 @@
 51.159.89.93
 51.222.82.36
 52.58.128.163
+52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -526,7 +527,7 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
-80.71.224.126:1337
+80.71.224.126:6969
 81.230.84.201
 82.221.103.244
 82.67.183.86
@@ -1767,6 +1768,7 @@ https://abir0dev.github.io:443/announce
 https://academic-p2p.appspot.com/announce # malfunction
 https://alpha.torrenttracker.nl:443/announce
 https://api.ipv4online.uk:443/announce
+https://bdremux.club:443/announce
 https://bittorrent.gongt.net/announce
 https://bittorrent.gongt.net:443/announce
 https://bittracker.nekosunevr.co.uk:443/announce
@@ -2470,7 +2472,6 @@ udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://74.119.150.221:6969/announce
@@ -2680,6 +2681,7 @@ udp://public-tracker.cf:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
+udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
@@ -2778,7 +2780,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
@@ -2854,6 +2855,7 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
