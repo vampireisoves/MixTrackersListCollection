@@ -190,6 +190,7 @@
 179.175.247.98
 179.98.254.109
 179.98.254.138
+179.98.254.142
 179.98.254.201
 179.98.254.95
 179.98.51.208
@@ -204,6 +205,7 @@
 185.121.168.96
 185.130.47.2
 185.189.13.108
+185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -243,7 +245,6 @@
 187.57.132.65
 187.57.229.141
 189.0.78.245
-189.18.126.87
 189.18.127.125
 189.18.127.57
 189.18.162.106
@@ -470,7 +471,6 @@
 51.159.89.93
 51.222.82.36
 52.58.128.163
-52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -529,6 +529,7 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
+80.71.224.126:1337
 81.230.84.201
 82.221.103.244
 82.67.183.86
@@ -713,7 +714,6 @@ http://116.9.207.198:6969/announce
 http://116.9.207.226:6969/announce
 http://117.72.34.150:6969/announce
 http://119.28.71.45:8080/announce
-http://123.245.62.83:6969/announce
 http://129.146.193.240:6699/announce
 http://13.115.115.32:6969/announce
 http://1337.abcvg.info/announce
@@ -757,7 +757,6 @@ http://171.104.226.221:6969/announce
 http://171.104.226.25:6969/announce
 http://171.104.226.31:6969/announce
 http://171.104.226.87:6969/announce
-http://177.172.66.2:6969/announce
 http://179.100.24.134:6969/announce
 http://180.113.232.20:6969/announce
 http://180.97.219.76:8070/announce
@@ -800,7 +799,6 @@ http://211.75.205.187:80/announce
 http://211.75.205.188:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
-http://211.75.210.221:6969/announce
 http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
@@ -809,7 +807,6 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
-http://34.66.57.33:11450/announce
 http://34.66.57.33:2701/announce
 http://34.66.57.33:2710/announce
 http://34.66.57.33:443/announce
@@ -2403,7 +2400,6 @@ udp://173.201.36.219:6969/announce
 udp://173.249.201.201:6969/announce
 udp://176.31.250.174:6969/announce
 udp://176.99.7.59:6969/announce
-udp://177.172.66.2:6969/announce
 udp://178.170.48.154:1337/announce
 udp://185.102.219.163:6969/announce
 udp://185.121.168.96:1337/announce
@@ -2417,7 +2413,6 @@ udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
 udp://191.23.62.111:6969/announce
 udp://192.95.46.115:6969/announce
-udp://193.148.251.93:6969/announce
 udp://193.34.92.5:80/announce
 udp://193.37.214.12:6969/announce
 udp://193.42.111.57:9337/announce
@@ -2433,7 +2428,6 @@ udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.50.255.93:3218/announce
 udp://211.75.205.187:6969/announce
-udp://211.75.210.221:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://212.8.249.30:6969/announce
@@ -2474,6 +2468,7 @@ udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://74.119.150.221:6969/announce
@@ -2776,6 +2771,7 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.draatman.uk:6969/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.edkj.club:6969/announce
+udp://tracker.emule.best:6969/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.fatkhoala.org:13720/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
@@ -2783,7 +2779,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
