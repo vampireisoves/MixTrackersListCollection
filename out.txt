@@ -10,10 +10,6 @@
 107.189.3.200
 107.189.4.235
 107.189.7.165
-108.138.246.116
-108.138.246.118
-108.138.246.44
-108.138.246.72
 108.53.194.223
 108.61.166.249
 109.201.134.183
@@ -210,7 +206,6 @@
 185.121.168.96
 185.130.47.2
 185.189.13.108
-185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -414,6 +409,10 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
+3.171.85.110
+3.171.85.32
+3.171.85.4
+3.171.85.48
 31.38.161.123
 34.170.169.34
 34.229.89.117
@@ -421,6 +420,7 @@
 34.66.57.33
 34.66.57.33:1337
 34.66.57.33:7070
+34.66.57.33:80
 34.66.57.33:8000
 34.66.57.33:9696
 34.8.196.142
@@ -780,7 +780,6 @@ http://192.9.228.30:6699/announce
 http://193.31.26.113:6969/announce
 http://193.37.214.12:6969/announce
 http://198.251.84.144/announce
-http://200.170.110.170:6969/announce
 http://200.232.254.1:6969/announce
 http://201.42.214.55:6969/announce
 http://201.43.209.254:6969/announce
@@ -795,7 +794,6 @@ http://209.209.112.121:2710/announce
 http://209.50.255.93:3218/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
-http://211.75.205.187:6969/announce
 http://211.75.205.187:80/announce
 http://211.75.205.188:6969/announce
 http://211.75.205.188:80/announce
@@ -811,7 +809,6 @@ http://220.130.15.30:6969/announce
 http://34.66.57.33:11450/announce
 http://34.66.57.33:2701/announce
 http://34.66.57.33:2710/announce
-http://34.66.57.33:443/announce
 http://34.66.57.33:6969/announce
 http://34.66.57.33:80/announce
 http://34.66.57.33:80/announce.php
@@ -1338,7 +1335,6 @@ http://torrent.arjlover.net:2710/announce
 http://torrent.arjlover.net:2710/announce # registered torrents
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.fedoraproject.org:6969/announce # registered torrents
-http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce
 http://torrent.mp3quran.net:80/announce.php
@@ -2394,7 +2390,6 @@ udp://135.125.236.64:6969/announce
 udp://144.126.245.19:6969/announce
 udp://144.91.88.22:6969/announce
 udp://147.45.77.75:6969/announce
-udp://148.135.112.164:6969/announce
 udp://148.251.53.72:6969/announce
 udp://154.40.43.165:6969/announce
 udp://156.234.201.18:80/announce
@@ -2428,7 +2423,6 @@ udp://193.42.111.57:9337/announce
 udp://194.38.21.77:6969/announce
 udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
-udp://200.170.110.170:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://208.83.20.20:6969/announce
@@ -2436,7 +2430,6 @@ udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.50.255.93:3218/announce
-udp://211.75.205.187:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://212.8.249.30:6969/announce
@@ -2478,7 +2471,6 @@ udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://74.119.150.221:6969/announce
@@ -2763,6 +2755,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloudbase.store:1333/announce
