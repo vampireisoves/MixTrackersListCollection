@@ -334,6 +334,7 @@
 207.211.184.229
 207.244.226.120
 208.83.20.20
+208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -419,7 +420,8 @@
 34.66.57.33
 34.66.57.33:1337
 34.66.57.33:7070
-34.66.57.33:8000
+34.66.57.33:80
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -528,7 +530,6 @@
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
-80.71.224.126:6969
 81.230.84.201
 82.221.103.244
 82.67.183.86
@@ -2629,6 +2630,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2678,7 +2680,6 @@ udp://public-tracker.cf:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
-udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
@@ -2754,6 +2755,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloudbase.store:1333/announce
@@ -2779,7 +2781,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
@@ -2856,7 +2857,6 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:6969/announce
-udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
