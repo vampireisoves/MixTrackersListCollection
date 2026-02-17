@@ -294,6 +294,7 @@
 191.255.193.16
 191.255.193.44
 193.124.24.22
+193.124.24.22:2710
 193.148.251.93
 193.177.162.187
 193.233.161.213
@@ -423,7 +424,6 @@
 34.52.190.155
 34.66.57.33
 34.66.57.33:1337
-34.66.57.33:7070
 34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
@@ -2399,7 +2399,6 @@ udp://135.125.106.92:6969/announce
 udp://135.125.236.64:6969/announce
 udp://144.126.245.19:6969/announce
 udp://144.91.88.22:6969/announce
-udp://147.45.77.75:6969/announce
 udp://148.251.53.72:6969/announce
 udp://152.249.214.23:6969/announce
 udp://154.40.43.165:6969/announce
@@ -2424,7 +2423,6 @@ udp://185.189.13.108:6969/announce
 udp://185.216.179.62:25/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
-udp://185.249.198.175:1337/announce
 udp://185.44.82.25:1337/announce
 udp://191.23.62.111:6969/announce
 udp://192.95.46.115:6969/announce
@@ -2459,6 +2457,7 @@ udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.235.176.37:2710/announce
 udp://37.59.48.81:6969/announce
+udp://43.154.112.29:17272/announce
 udp://43.250.54.137:6969/announce
 udp://44.30.4.4:6969/announce
 udp://44.30.4.70:6969/announce
@@ -2575,6 +2574,8 @@ udp://bt.bontal.net:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
+udp://bt.okmp3.ru:2710/announce
+udp://bt.okmp3.ru:2710/announce&nbsp;
 udp://bt.rer.lol:2710/announce # duplicate of udp://bt.rer.lol:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
@@ -2783,7 +2784,6 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.draatman.uk:6969/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.edkj.club:6969/announce
-udp://tracker.emule.best:6969/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.fatkhoala.org:13720/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
@@ -2791,6 +2791,7 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
+udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
@@ -2850,7 +2851,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
-udp://tracker.trackton.ga:7070/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
