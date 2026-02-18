@@ -423,7 +423,7 @@
 34.52.190.155
 34.66.57.33
 34.66.57.33:1337
-34.66.57.33:80
+34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -2776,7 +2776,6 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
-udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloudbase.store:1333/announce
@@ -2879,6 +2878,7 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
