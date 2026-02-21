@@ -127,6 +127,7 @@
 156.234.201.18
 157.131.124.190
 159.195.43.181
+159.195.43.181:6969
 160.251.231.187
 163.5.63.253
 167.253.78.20
@@ -347,8 +348,11 @@
 210.61.187.209
 211.23.142.127
 211.75.205.187
+211.75.205.187:6969
 211.75.205.188
+211.75.205.188:6969
 211.75.205.189
+211.75.205.189:6969
 211.75.205.190
 211.75.205.191
 211.75.205.192
@@ -357,6 +361,7 @@
 211.75.210.123
 211.75.210.220
 211.75.210.221
+211.75.210.221:6969
 211.97.119.106
 211.97.119.123
 211.97.119.34
@@ -484,6 +489,7 @@
 60-fps.org
 60.172.236.18
 60.249.37.20
+60.249.37.20:6969
 60.249.37.21
 61.216.165.60
 61.221.26.18
@@ -1831,6 +1837,7 @@ https://opentracker.xyz/announce
 https://opentracker.xyz:443/announce
 https://prestige.minimafia.nl:443/announce
 https://private.minimafia.nl:443/announce
+https://retracker2.x2k.ru:443/announce
 https://seeders-paradise.org/announce
 https://seeders-paradise.org:443/announce
 https://shahidrazi.online:443/announce
@@ -2438,6 +2445,7 @@ udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
+udp://31.38.161.123:6969/announce
 udp://34.66.57.33:1337/announce
 udp://34.66.57.33:80/announce
 udp://37.120.182.83:15480/announce
@@ -2771,6 +2779,7 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.draatman.uk:6969/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.edkj.club:6969/announce
+udp://tracker.emule.best:6969/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.fatkhoala.org:13720/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
