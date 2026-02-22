@@ -340,6 +340,7 @@
 207.211.184.229
 207.244.226.120
 208.83.20.20
+208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -376,7 +377,6 @@
 212.42.38.197
 212.60.5.203
 212.8.249.30
-213.196.191.96
 216.144.239.90
 217.156.123.49
 220.200.35.117
@@ -414,6 +414,7 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
+27.147.186.5
 3.170.185.16
 3.170.185.4
 3.170.185.50
@@ -425,6 +426,7 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
+34.66.57.33:1337
 34.66.57.33:7070
 34.66.57.33:80
 34.66.57.33:8000
@@ -478,7 +480,6 @@
 51.159.89.93
 51.222.82.36
 52.58.128.163
-52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -532,6 +533,8 @@
 79.117.28.48
 79.117.5.107
 79.117.63.250
+79.72.43.7
+79.72.45.236
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
@@ -2436,6 +2439,7 @@ udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
+udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
@@ -2618,6 +2622,7 @@ udp://git.vulnix.sh:6969/announce # registered torrents
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://ibksturm.synology.me:6969/announce
+udp://ipv4.rer.lol:2710/announce
 udp://ipv4.rer.lol:2710/announce # duplicate of udp://bt.rer.lol:6969/announce
 udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:6969/announce
@@ -2649,8 +2654,10 @@ udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
 udp://navegador.click:6969/announce
 udp://new-line.net:6969/announce
+udp://node01.madtia.cc:42069/announce
 udp://node01.torrentonline.cc:42069/announce
 udp://node01.trackerstatus.live:42069/announce
+udp://node02.madtia.cc:42069/announce
 udp://node02.torrentonline.cc:42069/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
