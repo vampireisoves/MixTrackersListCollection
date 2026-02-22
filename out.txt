@@ -210,6 +210,7 @@
 185.121.168.96
 185.130.47.2
 185.189.13.108
+185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -296,7 +297,6 @@
 191.255.193.16
 191.255.193.44
 193.124.24.22
-193.124.24.22:2710
 193.148.251.93
 193.177.162.187
 193.187.90.12
@@ -415,10 +415,10 @@
 23.168.232.9
 23.175.184.30
 27.147.186.5
-3.170.185.16
-3.170.185.4
-3.170.185.50
-3.170.185.58
+3.171.85.110
+3.171.85.32
+3.171.85.4
+3.171.85.48
 31.38.161.123
 31.46.188.57
 31.57.241.202
@@ -426,7 +426,11 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
+34.66.57.33:1337
 34.66.57.33:7070
+34.66.57.33:80
+34.66.57.33:8000
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -596,7 +600,6 @@
 88.80.22.67
 89.110.76.229
 89.234.156.205
-89.234.156.205:451
 9.rarbg.com
 9.rarbg.me
 9.rarbg.to
@@ -1781,7 +1784,6 @@ https://abir0dev.github.io:443/announce
 https://academic-p2p.appspot.com/announce # malfunction
 https://alpha.torrenttracker.nl:443/announce
 https://api.ipv4online.uk:443/announce
-https://bdremux.club:443/announce
 https://bittorrent.gongt.net/announce
 https://bittorrent.gongt.net:443/announce
 https://bittracker.nekosunevr.co.uk:443/announce
@@ -2486,6 +2488,7 @@ udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://74.119.150.221:6969/announce
@@ -2576,8 +2579,6 @@ udp://bt.bontal.net:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
-udp://bt.okmp3.ru:2710/announce
-udp://bt.okmp3.ru:2710/announce&nbsp;
 udp://bt.rer.lol:2710/announce # duplicate of udp://bt.rer.lol:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
@@ -2644,6 +2645,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2770,6 +2772,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloudbase.store:1333/announce
@@ -2871,6 +2874,7 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
