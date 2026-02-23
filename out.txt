@@ -340,6 +340,7 @@
 207.211.184.229
 207.244.226.120
 208.83.20.20
+208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -376,6 +377,7 @@
 212.42.38.197
 212.60.5.203
 212.8.249.30
+213.196.191.96
 216.144.239.90
 217.156.123.49
 220.200.35.117
@@ -413,11 +415,10 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-27.147.186.5
-3.170.185.16
-3.170.185.4
-3.170.185.50
-3.170.185.58
+3.171.85.110
+3.171.85.32
+3.171.85.4
+3.171.85.48
 31.38.161.123
 31.46.188.57
 31.57.241.202
@@ -429,7 +430,6 @@
 34.66.57.33:7070
 34.66.57.33:80
 34.66.57.33:8000
-34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -457,7 +457,6 @@
 45.155.53.144
 45.9.60.30
 46.232.55.100
-46.250.235.92
 46.3.96.144
 46.59.69.118
 47.243.23.189
@@ -533,8 +532,7 @@
 79.117.28.48
 79.117.5.107
 79.117.63.250
-79.72.43.7
-79.72.45.236
+8.210.14.3
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
@@ -2439,6 +2437,7 @@ udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
+udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
@@ -2620,6 +2619,7 @@ udp://git.vulnix.sh:6969/announce # registered torrents
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://ibksturm.synology.me:6969/announce
+udp://ipv4.rer.lol:2710/announce
 udp://ipv4.rer.lol:2710/announce # duplicate of udp://bt.rer.lol:6969/announce
 udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:6969/announce
@@ -2642,7 +2642,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
