@@ -10,6 +10,10 @@
 107.189.3.200
 107.189.4.235
 107.189.7.165
+108.138.246.116
+108.138.246.118
+108.138.246.44
+108.138.246.72
 108.53.194.223
 108.61.166.249
 109.201.134.183
@@ -338,7 +342,6 @@
 207.211.184.229
 207.244.226.120
 208.83.20.20
-208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -396,10 +399,10 @@
 222.216.139.248
 222.216.139.72
 222.84.20.142
+222.84.21.173
 222.84.21.49
 222.84.22.86
 222.84.23.141
-222.84.23.161
 23.134.88.11
 23.134.88.9
 23.134.89.9
@@ -412,16 +415,13 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.170.185.16
-3.170.185.4
-3.170.185.50
-3.170.185.58
 31.38.161.123
 31.57.241.202
 34.170.169.34
 34.229.89.117
 34.52.190.155
 34.66.57.33
+34.66.57.33:1337
 34.66.57.33:80
 34.66.57.33:8000
 34.66.57.33:8826
@@ -796,7 +796,6 @@ http://211.22.29.93/announce
 http://211.75.205.187:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
-http://211.75.210.221:6969/announce
 http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
@@ -863,7 +862,6 @@ http://60-fps.org/bt:80/announce.php
 http://60-fps.org:80/bt/announce.php
 http://60-fps.org:80/bt/announce.php # registered torrents
 http://60-fps.org:80/bt:80/announce.php
-http://60.249.37.20:6969/announce
 http://60.249.37.20:80/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
@@ -1374,7 +1372,6 @@ http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
 http://tr.nyacat.pw:80/announce
 http://tr1.aag.moe:2095/announce
-http://tracker-rh.zhuqiy.eu.org:80/announce
 http://tracker-udp.anirena.com:80/announce
 http://tracker-udp.gbitt.info:80/announce
 http://tracker.23794.top:6969/announce
@@ -2370,7 +2367,6 @@ udp://10.rarbg.com/announce
 udp://10.rarbg.com:6969/announce
 udp://101.99.94.187:6969/announce
 udp://103.122.21.50:6969/announce
-udp://103.251.166.126:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
 udp://107.175.221.194:6969/announce
@@ -2422,13 +2418,11 @@ udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.50.255.93:3218/announce
-udp://211.75.210.221:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://217.30.10.77:6969/announce
 udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
-udp://23.175.184.30:23333/announce
 udp://31.38.161.123:6969/announce
 udp://34.66.57.33:1337/announce
 udp://34.66.57.33:80/announce
@@ -2515,7 +2509,6 @@ udp://9.rarbg.to:2920/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.to:2990/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://91.186.213.204:6969/announce
 udp://91.211.5.21:6969/announce
-udp://91.216.110.53:451/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
 udp://93.158.213.92:1337/announce
