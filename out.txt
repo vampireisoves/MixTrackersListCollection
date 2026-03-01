@@ -414,18 +414,17 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.170.185.16
-3.170.185.4
-3.170.185.50
-3.170.185.58
+3.171.85.110
+3.171.85.32
+3.171.85.4
+3.171.85.48
 31.38.161.123
 31.57.241.202
 34.170.169.34
 34.229.89.117
 34.52.190.155
 34.66.57.33
-34.66.57.33:80
-34.66.57.33:8000
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -476,6 +475,7 @@
 51.159.89.93
 51.222.82.36
 52.58.128.163
+52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -611,11 +611,6 @@
 95.216.3.28
 95.217.167.10
 96.126.98.54
-[200
-[202
-[21e
-[302
-[505
 a.leopard-raws.org
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 academic-p2p.appspot.com
@@ -716,6 +711,7 @@ http://116.9.207.121:6969/announce
 http://116.9.207.164:6969/announce
 http://116.9.207.198:6969/announce
 http://116.9.207.226:6969/announce
+http://117.72.34.150:6969/announce
 http://117.84.154.98:6969/announce
 http://119.28.71.45:8080/announce
 http://129.146.193.240:6699/announce
@@ -2468,7 +2464,6 @@ udp://5.255.124.190:6969/announce
 udp://5.75.253.124:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
-udp://51.15.41.46:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
 udp://51.222.82.36:6969/announce
@@ -2638,6 +2633,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2765,7 +2761,6 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
-udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloudbase.store:1333/announce
@@ -2866,7 +2861,6 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:6969/announce
-udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
@@ -2895,11 +2889,11 @@ udp://v2.iperson.xyz:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
+udp://wegkxfcivgx.ydns.eu:80/announce
 udp://wepzone.net:6969/announce
 udp://www.2600.com:6969/announce
 udp://www.mvgroup.org:2710/announce # registered torrents
 udp://www.peckservers.com:9000/announce
-udp://www.torrent.eu.org:451/announce
 udp://www.torrent.eu.org:451/announce # duplicate of udp://tracker.torrent.eu.org:451/announce
 udp://y.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
 udp://y.t-1.org:6969/announce # duplicate of udp://x.t-1.org:6969/announce
