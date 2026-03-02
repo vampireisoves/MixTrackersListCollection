@@ -60,6 +60,8 @@
 123.245.62.21
 123.245.62.3
 123.245.62.37
+123.245.62.39
+123.245.62.40
 123.245.62.41
 123.245.62.47
 123.245.62.50
@@ -340,6 +342,7 @@
 207.211.184.229
 207.244.226.120
 208.83.20.20
+208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -424,9 +427,9 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
-34.66.57.33:1337
 34.66.57.33:7070
 34.66.57.33:8000
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -2435,6 +2438,7 @@ udp://211.75.205.188:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://217.30.10.77:6969/announce
+udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
@@ -2632,6 +2636,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2783,7 +2788,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
