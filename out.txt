@@ -425,6 +425,8 @@
 34.229.89.117
 34.52.190.155
 34.66.57.33
+34.66.57.33:1337
+34.66.57.33:80
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -2445,6 +2447,7 @@ udp://217.30.10.77:6969/announce
 udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.175.184.30:23333/announce
+udp://31.38.161.123:6969/announce
 udp://34.66.57.33:1337/announce
 udp://34.66.57.33:80/announce
 udp://37.120.182.83:15480/announce
@@ -2766,6 +2769,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloudbase.store:1333/announce
@@ -2894,6 +2898,7 @@ udp://v2.iperson.xyz:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
+udp://wegkxfcivgx.ydns.eu:80/announce
 udp://wepzone.net:6969/announce
 udp://www.2600.com:6969/announce
 udp://www.mvgroup.org:2710/announce # registered torrents
