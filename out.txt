@@ -410,17 +410,16 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.171.85.110
-3.171.85.32
-3.171.85.4
-3.171.85.48
+3.170.185.16
+3.170.185.4
+3.170.185.50
+3.170.185.58
 31.38.161.123
 31.57.241.202
 34.170.169.34
 34.229.89.117
 34.52.190.155
 34.66.57.33
-34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -1795,6 +1794,7 @@ https://gwp2-v19.rinet.ru/announce
 https://gwp2-v19.rinet.ru:443/announce
 https://hcbt.pp.ua/announce
 https://hcbt.pp.ua:443/announce
+https://http1.torrust-tracker-demo.com:443/announce
 https://inferno.demonoid.is/announce
 https://inferno.demonoid.is:443/announce
 https://ipv6.tracker.m-team.cc:443/announce
@@ -2019,6 +2019,7 @@ https://tracker.tvgc.win:443/announce
 https://tracker.vectahosting.eu/announce
 https://tracker.vectahosting.eu:443/announce
 https://tracker.yemekyedim.com:443/announce
+https://tracker.yggleak.top:443/announce
 https://tracker.zhuqiy.com:443/announce
 https://tracker1.520.jp/announce
 https://tracker1.520.jp:443/announce
@@ -2430,7 +2431,6 @@ udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://212.8.249.30:6969/announce
 udp://217.30.10.77:6969/announce
-udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
@@ -2458,7 +2458,6 @@ udp://5.255.124.190:6969/announce
 udp://5.75.253.124:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
-udp://51.15.41.46:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
 udp://51.222.82.36:6969/announce
@@ -2624,7 +2623,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
