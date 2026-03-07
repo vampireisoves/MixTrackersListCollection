@@ -206,7 +206,6 @@
 185.121.168.96
 185.130.47.2
 185.189.13.108
-185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -424,8 +423,8 @@
 34.66.57.33
 34.66.57.33:1337
 34.66.57.33:7070
+34.66.57.33:80
 34.66.57.33:8000
-34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -777,6 +776,7 @@ http://192.9.228.30:6699/announce
 http://193.31.26.113:6969/announce
 http://193.37.214.12:6969/announce
 http://198.251.84.144/announce
+http://200.170.110.114:6969/announce
 http://200.232.254.1:6969/announce
 http://201.42.214.55:6969/announce
 http://201.43.209.254:6969/announce
@@ -805,6 +805,7 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
+http://34.66.57.33:1337/announce
 http://34.66.57.33:80/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
@@ -2389,6 +2390,7 @@ udp://144.126.245.19:6969/announce
 udp://144.91.88.22:6969/announce
 udp://147.45.77.75:6969/announce
 udp://148.251.53.72:6969/announce
+udp://154.40.43.165:6969/announce
 udp://156.234.201.18:80/announce
 udp://158.101.161.60:3131/announce
 udp://161.97.67.210:6969/announce
@@ -2410,6 +2412,7 @@ udp://185.189.13.108:6969/announce
 udp://185.216.179.62:25/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
+udp://185.249.198.175:1337/announce
 udp://185.44.82.25:1337/announce
 udp://187.56.163.25:6969/announce
 udp://192.95.46.115:6969/announce
@@ -2420,6 +2423,7 @@ udp://193.42.111.57:9337/announce
 udp://194.38.21.77:6969/announce
 udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
+udp://200.170.110.114:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://208.83.20.20:6969/announce
@@ -2428,12 +2432,14 @@ udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.50.255.93:3218/announce
 udp://211.75.205.188:6969/announce
+udp://211.75.205.189:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://212.8.249.30:6969/announce
 udp://217.30.10.77:6969/announce
 udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
+udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
 udp://31.38.161.123:6969/announce
 udp://34.66.57.33:1337/announce
@@ -2623,7 +2629,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2752,6 +2757,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -2775,7 +2781,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
