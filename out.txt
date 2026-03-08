@@ -196,10 +196,6 @@
 179.98.51.208
 179.98.51.248
 179.98.51.66
-18.172.170.13
-18.172.170.20
-18.172.170.21
-18.172.170.87
 18.191.163.220
 18.232.197.8
 180.112.57.159
@@ -342,6 +338,7 @@
 207.211.184.229
 207.244.226.120
 208.83.20.20
+208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -422,6 +419,9 @@
 34.52.190.155
 34.66.57.33
 34.66.57.33:1337
+34.66.57.33:7070
+34.66.57.33:80
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -607,6 +607,10 @@
 95.216.3.28
 95.217.167.10
 96.126.98.54
+99.84.215.104
+99.84.215.54
+99.84.215.82
+99.84.215.95
 a.leopard-raws.org
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 academic-p2p.appspot.com
@@ -1446,6 +1450,7 @@ http://tracker.etree.org:6969/announce
 http://tracker.etree.org:6969/announce # registered torrents
 http://tracker.ex.ua/announce
 http://tracker.ex.ua:80/announce
+http://tracker.exe.in.th:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.fansub.id:80/announce
 http://tracker.fansub.id:80/announce # duplicate of https://tracker.fansub.id:443/announce
@@ -1980,6 +1985,7 @@ https://tracker.monikadesign.uk:443/announce # registered torrents
 https://tracker.moxing.party:6969/announce
 https://tracker.nanoha.org/announce
 https://tracker.nanoha.org:443/announce
+https://tracker.nekomi.cn:443/announce
 https://tracker.netmap.top:8443/announce
 https://tracker.nitrix.me/announce
 https://tracker.nitrix.me:443/announce
@@ -2386,6 +2392,7 @@ udp://135.125.106.92:6969/announce
 udp://135.125.236.64:6969/announce
 udp://144.126.245.19:6969/announce
 udp://144.91.88.22:6969/announce
+udp://147.45.77.75:6969/announce
 udp://148.251.53.72:6969/announce
 udp://154.40.43.165:6969/announce
 udp://156.234.201.18:80/announce
@@ -2423,6 +2430,7 @@ udp://1c.premierzal.ru:6969/announce
 udp://200.170.110.114:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
+udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
@@ -2460,6 +2468,7 @@ udp://5.196.89.204:6969/announce
 udp://5.255.124.190:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
+udp://51.15.41.46:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
 udp://51.222.82.36:6969/announce
@@ -2625,6 +2634,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2753,6 +2763,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -2776,7 +2787,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
@@ -2835,6 +2845,7 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
+udp://tracker.trackton.ga:7070/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
@@ -2880,6 +2891,7 @@ udp://v2.iperson.xyz:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
+udp://wegkxfcivgx.ydns.eu:80/announce
 udp://wepzone.net:6969/announce
 udp://www.2600.com:6969/announce
 udp://www.mvgroup.org:2710/announce # registered torrents
