@@ -31,6 +31,7 @@
 116.16.45.177
 116.5.128.165
 116.5.170.2
+116.62.205.211
 116.8.90.121
 116.8.90.213
 116.8.90.235
@@ -302,7 +303,6 @@
 193.31.26.113
 193.34.92.5:80
 193.42.111.57
-193.53.245.133
 194.110.247.18
 194.195.86.132
 194.62.248.73
@@ -375,7 +375,6 @@
 212.42.38.197
 212.60.5.203
 212.8.249.30
-213.196.191.96
 216.144.239.90
 217.156.123.49
 220.200.35.117
@@ -412,10 +411,11 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.171.85.110
-3.171.85.32
-3.171.85.4
-3.171.85.48
+27.147.186.5
+3.170.185.16
+3.170.185.4
+3.170.185.50
+3.170.185.58
 31.38.161.123
 31.57.241.202
 34.170.169.34
@@ -423,6 +423,7 @@
 34.52.190.155
 34.66.57.33
 34.66.57.33:1337
+34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -439,6 +440,8 @@
 38.175.99.50
 4.tracker.devnak.win
 43.154.112.29
+43.174.246.41
+43.174.247.41
 43.250.54.137
 44.30.4.3
 44.30.4.4
@@ -528,6 +531,9 @@
 79.117.28.48
 79.117.5.107
 79.117.63.250
+79.72.43.7
+79.72.45.236
+8.210.14.3
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
@@ -595,6 +601,7 @@
 9.rarbg.com
 9.rarbg.me
 9.rarbg.to
+91.149.238.135
 91.186.213.204
 91.208.197.19
 91.216.110.53
@@ -2440,7 +2447,6 @@ udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://212.8.249.30:6969/announce
 udp://217.30.10.77:6969/announce
-udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
@@ -2617,6 +2623,7 @@ udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
+udp://ipv6.rer.lol:6969/announce
 udp://ipv6.tracker.harry.lu/announce
 udp://ipv6.tracker.harry.lu:6969/announce
 udp://jutone.com:6969/announce
@@ -2860,6 +2867,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
