@@ -28,9 +28,9 @@
 116.16.41.96
 116.16.42.86
 116.16.45.177
+116.202.177.184
 116.5.128.165
 116.5.170.2
-116.62.205.211
 116.8.90.121
 116.8.90.195
 116.8.90.213
@@ -303,6 +303,7 @@
 193.31.26.113
 193.34.92.5:80
 193.42.111.57
+193.53.245.133
 194.110.247.18
 194.195.86.132
 194.62.248.73
@@ -338,6 +339,7 @@
 207.211.184.229
 207.244.226.120
 208.83.20.20
+208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -410,11 +412,6 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-27.147.186.5
-3.171.85.110
-3.171.85.32
-3.171.85.4
-3.171.85.48
 31.38.161.123
 31.57.241.202
 34.170.169.34
@@ -422,6 +419,7 @@
 34.52.190.155
 34.66.57.33
 34.66.57.33:1337
+34.66.57.33:80
 34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
@@ -532,7 +530,6 @@
 79.117.63.250
 79.72.43.7
 79.72.45.236
-8.210.14.3
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
@@ -600,7 +597,6 @@
 9.rarbg.com
 9.rarbg.me
 9.rarbg.to
-91.149.238.135
 91.186.213.204
 91.208.197.19
 91.216.110.53
@@ -615,6 +611,10 @@
 95.216.3.28
 95.217.167.10
 96.126.98.54
+99.84.215.104
+99.84.215.54
+99.84.215.82
+99.84.215.95
 a.leopard-raws.org
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 academic-p2p.appspot.com
@@ -2767,6 +2767,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -2790,6 +2791,7 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
+udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
