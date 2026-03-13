@@ -138,6 +138,7 @@
 172.234.17.135
 172.234.17.201
 172.234.17.55
+172.245.168.134
 173.201.36.219
 176.123.1.180
 176.32.38.223
@@ -412,12 +413,17 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
+3.170.185.16
+3.170.185.4
+3.170.185.50
+3.170.185.58
 31.38.161.123
 31.57.241.202
 34.170.169.34
 34.229.89.117
 34.52.190.155
 34.66.57.33
+34.66.57.33:1337
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -446,6 +452,7 @@
 45.155.53.144
 45.9.60.30
 46.232.55.100
+46.250.235.92
 46.3.96.144
 46.59.69.118
 47.243.23.189
@@ -529,6 +536,7 @@
 80.71.224.126
 81.230.84.201
 82.221.103.244
+82.67.183.86
 82.67.44.197
 83.102.180.21
 83.146.104.30
@@ -594,7 +602,6 @@
 91.186.213.204
 91.208.197.19
 91.216.110.53
-92.5.224.143
 93.158.213.92
 93.158.213.92:1337
 94.136.190.183
@@ -605,10 +612,6 @@
 95.216.3.28
 95.217.167.10
 96.126.98.54
-99.84.215.104
-99.84.215.54
-99.84.215.82
-99.84.215.95
 a.leopard-raws.org
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 academic-p2p.appspot.com
@@ -1743,6 +1746,7 @@ http://yggtracker.i2p.rocks:80/announce
 http://z.paranoid.agency:6969/announce # duplicate of http://x.paranoid.agency:6969/announce
 https://00.mercax.com:443/announce
 https://00.xxtor.com:443/announce
+https://004430.xyz:443/announce
 https://0d.kebhana.mx:443/announce
 https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
@@ -1756,7 +1760,6 @@ https://abir0dev.github.io:443/announce
 https://academic-p2p.appspot.com/announce # malfunction
 https://alpha.torrenttracker.nl:443/announce
 https://api.ipv4online.uk:443/announce
-https://bdremux.club:443/announce
 https://bittorrent.gongt.net/announce
 https://bittorrent.gongt.net:443/announce
 https://bittracker.nekosunevr.co.uk:443/announce
@@ -2596,7 +2599,6 @@ udp://git.vulnix.sh:6969/announce # registered torrents
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://ibksturm.synology.me:6969/announce
-udp://ipv4.rer.lol:2710/announce
 udp://ipv4.rer.lol:2710/announce # duplicate of udp://bt.rer.lol:6969/announce
 udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:6969/announce
@@ -2726,6 +2728,7 @@ udp://tracker-de.ololosh.space:6969/announce # duplicate of udp://tracker.ololos
 udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker-us.silksa.co.za:6969/announce
+udp://tracker.004430.xyz:1337/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.1048576.cn:17272/announce
