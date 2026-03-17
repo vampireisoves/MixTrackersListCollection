@@ -63,6 +63,8 @@
 123.245.62.21
 123.245.62.3
 123.245.62.37
+123.245.62.39
+123.245.62.40
 123.245.62.41
 123.245.62.47
 123.245.62.50
@@ -82,6 +84,7 @@
 123.245.62.95
 123.245.62.98
 123.245.62.99
+125.106.252.27
 125.227.79.123
 130.61.158.165
 132.226.6.145
@@ -134,6 +137,7 @@
 160.251.231.187
 163.5.63.253
 167.253.78.20
+172.232.198.73
 172.234.17.135
 172.234.17.201
 172.234.17.55
@@ -306,7 +310,6 @@
 193.53.245.133
 194.110.247.18
 194.195.86.132
-194.58.34.51
 194.62.248.73
 195.16.73.95
 195.234.62.166
@@ -340,7 +343,6 @@
 207.211.184.229
 207.244.226.120
 208.83.20.20
-208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -374,6 +376,7 @@
 211.97.119.84
 211.97.119.88
 212.129.33.59
+212.192.15.134
 212.42.38.197
 212.60.5.203
 212.8.249.30
@@ -414,10 +417,12 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.170.185.16
-3.170.185.4
-3.170.185.50
-3.170.185.58
+23.92.23.177
+27.147.186.5
+3.171.85.110
+3.171.85.32
+3.171.85.4
+3.171.85.48
 31.38.161.123
 31.57.241.202
 34.170.169.34
@@ -426,7 +431,6 @@
 34.66.57.33
 34.66.57.33:1337
 34.66.57.33:7070
-34.66.57.33:80
 34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
@@ -437,6 +441,7 @@
 35.227.59.57
 37.1.205.12
 37.120.182.83
+37.221.64.218
 37.235.176.37
 37.27.188.67
 37.59.48.81
@@ -476,7 +481,6 @@
 5.39.87.82
 5.45.69.185
 5.75.253.124
-50.114.177.70
 51.159.54.68
 51.159.89.93
 51.222.82.36
@@ -486,7 +490,6 @@
 54.37.38.200
 54.39.48.3
 57.128.230.226
-58.96.106.17
 59.32.95.136
 59.32.95.248
 60-fps.org
@@ -505,6 +508,7 @@
 66.154.105.124
 67.215.246.10
 68.193.189.231
+69.197.155.114
 69.30.224.166
 69.30.233.234
 6ahddutb1ucc3cp.ru
@@ -534,9 +538,6 @@
 79.117.28.48
 79.117.5.107
 79.117.63.250
-79.72.43.7
-79.72.45.236
-8.210.14.3
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
@@ -607,12 +608,15 @@
 91.186.213.204
 91.208.197.19
 91.216.110.53
+92.5.224.143
 93.158.213.92
 93.158.213.92:1337
 94.136.190.183
 94.143.142.174
 94.23.207.177
 94.243.222.100
+95.216.3.11
+95.216.3.28
 95.217.167.10
 96.126.98.54
 a.leopard-raws.org
@@ -1208,6 +1212,7 @@ http://open.trackerlist.xyz:80/announce
 http://openbittorrent.com/announce
 http://openbittorrent.com:80/announce
 http://openbittorrent.com:80/announce # duplicate of http://tracker.openbittorrent.com:80/announce
+http://opentracker.91kf.top:16969/announce
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.com:6869/announce # duplicate of http://tracker.acgnx.se:80/announce
 http://opentracker.acgnx.com:6869/announce"
@@ -1791,6 +1796,7 @@ https://cernet-tracker.appspot.com:443/announce
 https://chihaya-heroku.120181311.xyz/announce
 https://chihaya-heroku.120181311.xyz:443/announce
 https://cny.fan:443/announce
+https://colibri.parrot.run:443/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 https://docker-tracker-production.up.railway.app/announce
@@ -2056,6 +2062,7 @@ https://voxhost.fr/announce
 https://voxhost.fr:443/announce
 https://w.wwwww.wtf/announce
 https://w.wwwww.wtf:443/announce
+https://wolf.parrot.run:443/announce
 https://wsad.run.place:443/announce
 https://www.peckservers.com:9443/announce
 https://www.wareztorrent.com/announce
@@ -2445,7 +2452,6 @@ udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
-udp://31.38.161.123:6969/announce
 udp://34.66.57.33:1337/announce
 udp://34.66.57.33:80/announce
 udp://37.120.182.83:15480/announce
@@ -2764,7 +2770,6 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
-udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -2788,6 +2793,7 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
+udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
