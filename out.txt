@@ -211,7 +211,6 @@
 185.121.168.96
 185.130.47.2
 185.189.13.108
-185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -344,7 +343,6 @@
 207.211.184.229
 207.244.226.120
 208.83.20.20
-208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -421,10 +419,10 @@
 23.175.184.30
 23.92.23.177
 27.147.186.5
-3.170.185.16
-3.170.185.4
-3.170.185.50
-3.170.185.58
+3.171.85.110
+3.171.85.32
+3.171.85.4
+3.171.85.48
 31.38.161.123
 31.57.241.202
 34.170.169.34
@@ -432,7 +430,7 @@
 34.52.190.155
 34.66.57.33
 34.66.57.33:1337
-34.66.57.33:8000
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -463,7 +461,6 @@
 45.155.53.144
 45.9.60.30
 46.232.55.100
-46.250.235.92
 46.3.96.144
 46.59.69.118
 47.243.23.189
@@ -508,7 +505,6 @@
 66.154.105.124
 67.215.246.10
 68.193.189.231
-69.197.155.114
 69.30.224.166
 69.30.233.234
 6ahddutb1ucc3cp.ru
@@ -616,8 +612,6 @@
 94.143.142.174
 94.23.207.177
 94.243.222.100
-95.216.3.11
-95.216.3.28
 95.217.167.10
 96.126.98.54
 a.leopard-raws.org
@@ -2434,7 +2428,6 @@ udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
-udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
@@ -2483,7 +2476,6 @@ udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://74.119.149.136:6969/announce
@@ -2639,6 +2631,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2866,7 +2859,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
-udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
@@ -2896,7 +2888,6 @@ udp://v2.iperson.xyz:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
-udp://wegkxfcivgx.ydns.eu:80/announce
 udp://wepzone.net:6969/announce
 udp://www.2600.com:6969/announce
 udp://www.mvgroup.org:2710/announce # registered torrents
