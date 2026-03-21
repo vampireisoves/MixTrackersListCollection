@@ -305,10 +305,8 @@
 193.31.26.113
 193.34.92.5:80
 193.42.111.57
-193.53.245.133
 194.110.247.18
 194.195.86.132
-194.58.34.51
 194.62.248.73
 195.16.73.95
 195.234.62.166
@@ -342,7 +340,6 @@
 207.211.184.229
 207.244.226.120
 208.83.20.20
-208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -376,6 +373,7 @@
 211.97.119.84
 211.97.119.88
 212.129.33.59
+212.192.15.134
 212.42.38.197
 212.60.5.203
 212.8.249.30
@@ -423,7 +421,6 @@
 34.66.57.33
 34.66.57.33:1337
 34.66.57.33:7070
-34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -433,6 +430,7 @@
 35.227.59.57
 37.1.205.12
 37.120.182.83
+37.221.64.218
 37.235.176.37
 37.27.188.67
 37.27.218.237
@@ -456,6 +454,7 @@
 45.79.231.34
 45.9.60.30
 46.232.55.100
+46.250.235.92
 46.3.96.144
 46.59.69.118
 47.243.23.189
@@ -531,7 +530,6 @@
 79.117.28.48
 79.117.5.107
 79.117.63.250
-79.72.43.7
 79.72.45.236
 8.rarbg.com
 8.rarbg.to
@@ -604,6 +602,7 @@
 91.186.213.204
 91.208.197.19
 91.216.110.53
+92.5.224.143
 93.158.213.92
 93.158.213.92:1337
 94.136.190.183
@@ -2580,7 +2579,6 @@ udp://bt.bontal.net:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
-udp://bt.okmp3.ru:2710/announce
 udp://bt.okmp3.ru:2710/announce&nbsp;
 udp://bt.rer.lol:2710/announce # duplicate of udp://bt.rer.lol:6969/announce
 udp://bt.rer.lol:6969/announce
@@ -2875,7 +2873,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
-udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
