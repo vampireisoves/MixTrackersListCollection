@@ -213,6 +213,7 @@
 185.121.168.96
 185.130.47.2
 185.189.13.108
+185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -344,7 +345,6 @@
 207.211.184.229
 207.244.226.120
 208.83.20.20
-208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -425,7 +425,6 @@
 34.52.190.155
 34.66.57.33
 34.66.57.33:1337
-34.66.57.33:7070
 34.66.57.33:80
 34.66.57.33:9696
 34.8.196.142
@@ -483,6 +482,7 @@
 51.159.89.93
 51.222.82.36
 52.58.128.163
+52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -737,7 +737,6 @@ http://144.202.33.210:6961/announce
 http://144.76.118.107:6969/announce
 http://147job.com:6969/announce
 http://151.115.49.115:1337/announce
-http://152.249.75.183:6969/announce
 http://155.248.200.105/announce
 http://156.234.201.18/announce
 http://156.234.201.18:80/announce
@@ -804,10 +803,10 @@ http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.205.187:6969/announce
 http://211.75.205.187:80/announce
-http://211.75.205.188:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:6969/announce
 http://211.75.205.189:80/announce
+http://211.75.210.221:6969/announce
 http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
@@ -815,8 +814,11 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
+http://34.66.57.33:11450/announce
+http://34.66.57.33:2701/announce
 http://34.66.57.33:443/announce
 http://34.66.57.33:6969/announce
+http://34.66.57.33:80/announce.php
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -957,7 +959,6 @@ http://atrack.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
 http://baibako.tv/announce
 http://baibako.tv/announce # registered torrents
 http://baibako.tv:80/announce
-http://bdremux.club:80/announce
 http://beertracker.ml:80/announce # registered torrents
 http://big-boss-tracker.net/announce.php
 http://big-boss-tracker.net/announce.php # registered torrents
@@ -1394,7 +1395,6 @@ http://tr.nyacat.pw:80/announce
 http://tr1.aag.moe:2095/announce
 http://tracker-udp.anirena.com:80/announce
 http://tracker-udp.gbitt.info:80/announce
-http://tracker.004430.xyz:1337/announce
 http://tracker.23794.top:6969/announce
 http://tracker.36dm.com:2710/announce # registered torrents
 http://tracker.acgnx.se/announce
@@ -1785,7 +1785,6 @@ https://abir0dev.github.io:443/announce
 https://academic-p2p.appspot.com/announce # malfunction
 https://alpha.torrenttracker.nl:443/announce
 https://api.ipv4online.uk:443/announce
-https://bdremux.club:443/announce
 https://bittorrent.gongt.net/announce
 https://bittorrent.gongt.net:443/announce
 https://bittracker.nekosunevr.co.uk:443/announce
@@ -2415,7 +2414,6 @@ udp://144.126.245.19:6969/announce
 udp://144.91.88.22:6969/announce
 udp://147.45.77.75:6969/announce
 udp://148.251.53.72:6969/announce
-udp://152.249.75.183:6969/announce
 udp://152.89.29.128:6969/announce
 udp://154.40.43.165:6969/announce
 udp://156.234.201.18:80/announce
@@ -2443,6 +2441,7 @@ udp://185.249.198.175:1337/announce
 udp://185.44.82.25:1337/announce
 udp://187.57.131.78:6969/announce
 udp://192.95.46.115:6969/announce
+udp://193.148.251.93:6969/announce
 udp://193.187.90.12:6969/announce
 udp://193.34.92.5:80/announce
 udp://193.37.214.12:6969/announce
@@ -2451,15 +2450,14 @@ udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
-udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.250.249.67:6969/announce
 udp://209.50.255.93:3218/announce
 udp://211.75.205.187:6969/announce
-udp://211.75.205.188:6969/announce
 udp://211.75.205.189:6969/announce
+udp://211.75.210.221:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://212.8.249.30:6969/announce
@@ -2503,6 +2501,7 @@ udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://74.119.149.136:6969/announce
@@ -2871,7 +2870,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
-udp://tracker.trackton.ga:7070/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
