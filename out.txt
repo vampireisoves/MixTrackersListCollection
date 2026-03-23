@@ -211,6 +211,7 @@
 185.121.168.96
 185.130.47.2
 185.189.13.108
+185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -344,6 +345,7 @@
 207.211.184.229
 207.244.226.120
 208.83.20.20
+208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -416,10 +418,10 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.170.185.16
-3.170.185.4
-3.170.185.50
-3.170.185.58
+3.161.242.100
+3.161.242.106
+3.161.242.67
+3.161.242.79
 31.38.161.123
 31.57.241.202
 34.170.169.34
@@ -428,8 +430,7 @@
 34.66.57.33
 34.66.57.33:1337
 34.66.57.33:7070
-34.66.57.33:80
-34.66.57.33:8000
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -751,7 +752,6 @@ http://163.172.209.40:80/announce
 http://163.172.29.130/announce
 http://163.172.29.130:80/announce
 http://167.235.245.209/announce
-http://167.253.78.20:8080/announce
 http://171.104.110.193:6969/announce
 http://171.104.110.21:6969/announce
 http://171.104.110.88:6969/announce
@@ -805,11 +805,9 @@ http://209.50.255.93:3218/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.205.187:6969/announce
-http://211.75.205.187:80/announce
 http://211.75.205.188:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
-http://211.75.210.221:6969/announce
 http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
@@ -817,11 +815,7 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
-http://34.66.57.33:11450/announce
-http://34.66.57.33:2701/announce
-http://34.66.57.33:6969/announce
 http://34.66.57.33:80/announce
-http://34.66.57.33:80/announce.php
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -852,7 +846,6 @@ http://45.63.111.135:2710/announce
 http://45.63.111.135:6961/announce
 http://45.63.111.135:8080/announce
 http://45.67.35.111:6969/announce
-http://45.7.231.102:80/announce
 http://46.17.46.112:8080/announce
 http://46.231.241.43:6969/announce
 http://47.243.23.189:6969/announce
@@ -1144,7 +1137,6 @@ http://irrenhaus.dyndns.dk:80/announce.php # malfunction
 http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
 http://jsb.by00/announce
-http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kaztorka.org:80/announce.php # registered torrents
 http://kinorun.com/announce.php
@@ -2450,7 +2442,6 @@ udp://185.249.198.175:1337/announce
 udp://185.44.82.25:1337/announce
 udp://187.57.131.78:6969/announce
 udp://192.95.46.115:6969/announce
-udp://193.148.251.93:6969/announce
 udp://193.187.90.12:6969/announce
 udp://193.34.92.5:80/announce
 udp://193.37.214.12:6969/announce
@@ -2465,7 +2456,6 @@ udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.50.255.93:3218/announce
 udp://211.75.205.187:6969/announce
-udp://211.75.210.221:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://212.8.249.30:6969/announce
@@ -2489,7 +2479,6 @@ udp://43.250.54.137:6969/announce
 udp://44.30.4.4:6969/announce
 udp://44.30.4.70:6969/announce
 udp://45.134.88.121:6969/announce
-udp://45.7.231.102:80/announce
 udp://45.9.60.30:6969/announce
 udp://46.138.242.240:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
@@ -2662,6 +2651,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2791,13 +2781,11 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
-udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.coppersurfer.tk:80/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.corpscorp.online:80/announce
-udp://tracker.cubonegro.org:80/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.darkness.services:6969/announce
@@ -2816,6 +2804,7 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
+udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
@@ -2891,7 +2880,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
-udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
