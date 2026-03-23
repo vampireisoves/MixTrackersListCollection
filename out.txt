@@ -53,6 +53,7 @@
 117.84.154.98
 118.163.198.106
 118.25.157.230
+119.129.101.122
 120.78.150.131
 121.199.16.229
 123.245.62.100
@@ -210,6 +211,7 @@
 185.121.168.96
 185.130.47.2
 185.189.13.108
+185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -249,6 +251,7 @@
 187.57.132.246
 187.57.132.65
 187.57.229.141
+188.138.100.213
 189.0.78.245
 189.18.127.125
 189.18.127.57
@@ -265,7 +268,6 @@
 189.62.36.41
 189.69.167.105
 189.69.167.130
-189.69.167.184
 189.69.168.180
 189.69.169.237
 189.69.169.89
@@ -310,7 +312,6 @@
 193.53.245.133
 194.110.247.18
 194.195.86.132
-194.58.34.51
 194.62.248.73
 195.16.73.95
 195.234.62.166
@@ -344,7 +345,6 @@
 207.211.184.229
 207.244.226.120
 208.83.20.20
-208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -378,7 +378,6 @@
 211.97.119.84
 211.97.119.88
 212.129.33.59
-212.192.15.134
 212.42.38.197
 212.60.5.203
 212.8.249.30
@@ -418,6 +417,10 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
+3.170.185.16
+3.170.185.4
+3.170.185.50
+3.170.185.58
 31.38.161.123
 31.57.241.202
 34.170.169.34
@@ -427,7 +430,6 @@
 34.66.57.33:1337
 34.66.57.33:7070
 34.66.57.33:80
-34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -459,7 +461,6 @@
 45.7.231.102
 45.9.60.30
 46.232.55.100
-46.250.235.92
 46.3.96.144
 46.59.69.118
 47.243.23.189
@@ -483,6 +484,7 @@
 51.222.82.36
 52.58.128.163
 54.36.179.216
+54.37.137.84
 54.37.38.200
 54.39.48.3
 57.128.230.226
@@ -535,6 +537,8 @@
 79.117.28.48
 79.117.5.107
 79.117.63.250
+79.72.43.7
+79.72.45.236
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
@@ -617,10 +621,6 @@
 95.216.3.28
 95.217.167.10
 96.126.98.54
-99.84.215.104
-99.84.215.54
-99.84.215.82
-99.84.215.95
 a.leopard-raws.org
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 academic-p2p.appspot.com
@@ -1054,6 +1054,7 @@ http://btx.anifilm.tv/announce.php
 http://btx.anifilm.tv:80/announce
 http://btx.anifilm.tv:80/announce.php
 http://btx.anifilm.tv:80/announce.php # registered torrents
+http://bughome.de:2832/announce
 http://buny.uk:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://bz.tracker.bz/announce
@@ -1675,6 +1676,7 @@ http://uatracker.net/announce.php # registered torrents
 http://uatracker.net:80/announce
 http://unknownsite.de:6969/announce
 http://uraniumhexafluori.de:1919/announce
+http://vps-c1adea63.vps.ovh.net:6969/announce
 http://vps-dd0a0715.vps.ovh.net:6969/announce
 http://vps02.net.orel.ru/announce
 http://vps02.net.orel.ru:80/announce
@@ -2003,6 +2005,7 @@ https://tracker.monikadesign.uk/announce/63ea34cb9815cd28d63fc75b2f2c5a56
 https://tracker.monikadesign.uk/announce/a46be21ab845cc0d534d06fea801f95a
 https://tracker.monikadesign.uk:443/announce # registered torrents
 https://tracker.moxing.party:6969/announce
+https://tracker.mrhei.tech:666/announce
 https://tracker.nanoha.org/announce
 https://tracker.nanoha.org:443/announce
 https://tracker.nekomi.cn:443/announce
@@ -2504,6 +2507,7 @@ udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://74.119.149.136:6969/announce
@@ -2658,7 +2662,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
