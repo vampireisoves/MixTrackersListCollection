@@ -13,6 +13,10 @@
 107.189.3.200
 107.189.4.235
 107.189.7.165
+108.138.246.116
+108.138.246.118
+108.138.246.44
+108.138.246.72
 108.53.194.223
 108.61.166.249
 109.201.134.183
@@ -91,6 +95,7 @@
 125.227.79.123
 130.61.158.165
 132.226.6.145
+132.243.174.78
 1337.abcvg.info
 135.125.202.143
 135.125.236.64
@@ -140,7 +145,6 @@
 160.251.231.187
 163.5.63.253
 167.253.78.20
-172.232.198.73
 172.233.219.123
 172.233.219.49
 172.233.219.78
@@ -272,7 +276,6 @@
 189.18.97.116
 189.18.97.201
 189.18.97.57
-189.62.36.41
 189.69.167.105
 189.69.167.130
 189.69.168.147
@@ -324,6 +327,7 @@
 195.16.73.95
 195.234.62.166
 1c.premierzal.ru
+2.57.214.218
 200.111.152.53
 200.111.152.54
 200.148.11.147
@@ -353,7 +357,6 @@
 207.211.184.229
 207.244.226.120
 208.83.20.20
-208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -390,6 +393,7 @@
 212.42.38.197
 212.60.5.203
 212.8.249.30
+216.144.227.115
 216.144.239.90
 217.156.123.49
 220.200.35.117
@@ -426,11 +430,6 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-23.92.23.177
-3.171.85.110
-3.171.85.32
-3.171.85.4
-3.171.85.48
 31.38.161.123
 34.170.169.34
 34.203.221.232
@@ -438,6 +437,7 @@
 34.66.57.33
 34.66.57.33:1337
 34.66.57.33:7070
+34.66.57.33:80
 34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
@@ -453,6 +453,7 @@
 37.27.188.67
 37.27.218.237
 37.59.48.81
+38.114.101.33
 38.175.99.50
 4.tracker.devnak.win
 43.154.112.29
@@ -469,9 +470,9 @@
 45.154.96.35
 45.155.53.144
 45.7.231.102
+45.79.231.34
 45.9.60.30
 46.232.55.100
-46.250.235.92
 46.3.96.144
 46.59.69.118
 47.102.122.163
@@ -622,6 +623,7 @@
 91.186.213.204
 91.208.197.19
 91.216.110.53
+92.5.224.143
 93.158.213.92
 93.158.213.92:1337
 94.136.190.183
@@ -2472,6 +2474,7 @@ udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://212.8.249.30:6969/announce
 udp://217.30.10.77:6969/announce
+udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.175.184.30:23333/announce
 udp://34.66.57.33:1337/announce
@@ -2509,7 +2512,6 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://74.119.149.136:6969/announce
-udp://78.40.116.12:6969/announce
 udp://8.rarbg.com:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://8.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://81.230.84.201:6969/announce
@@ -2789,6 +2791,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -2813,7 +2816,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
