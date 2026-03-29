@@ -354,7 +354,6 @@
 207.211.184.229
 207.244.226.120
 208.83.20.20
-208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -440,7 +439,6 @@
 34.52.190.155
 34.66.57.33
 34.66.57.33:1337
-34.66.57.33:7070
 34.66.57.33:80
 34.66.57.33:8000
 34.66.57.33:8826
@@ -482,7 +480,6 @@
 47.102.122.163:6961
 47.243.23.189
 47.245.28.181
-47.245.28.181:6961
 47.54.19.9
 47.54.240.69
 47.55.183.231
@@ -2641,11 +2638,13 @@ udp://git.vulnix.sh:6969/announce # registered torrents
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://ibksturm.synology.me:6969/announce
+udp://ipv4.rer.lol:2710/announce
 udp://ipv4.rer.lol:2710/announce # duplicate of udp://bt.rer.lol:6969/announce
 udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
+udp://ipv6.rer.lol:6969/announce
 udp://ipv6.tracker.harry.lu/announce
 udp://ipv6.tracker.harry.lu:6969/announce
 udp://jutone.com:6969/announce
@@ -2874,7 +2873,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
-udp://tracker.trackton.ga:7070/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
