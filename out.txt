@@ -67,7 +67,6 @@
 123.245.62.3
 123.245.62.37
 123.245.62.39
-123.245.62.40
 123.245.62.41
 123.245.62.47
 123.245.62.50
@@ -300,6 +299,7 @@
 191.23.71.193
 191.23.71.22
 191.23.94.237
+191.254.171.209
 191.254.171.95
 191.255.155.138
 191.255.155.153
@@ -430,10 +430,6 @@
 23.168.232.9
 23.175.184.30
 27.147.186.5
-3.161.242.100
-3.161.242.106
-3.161.242.67
-3.161.242.79
 31.38.161.123
 34.170.169.34
 34.203.221.232
@@ -442,7 +438,6 @@
 34.66.57.33:1337
 34.66.57.33:7070
 34.66.57.33:80
-34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -479,6 +474,7 @@
 46.3.96.144
 46.59.69.118
 47.102.122.163
+47.102.122.163:6961
 47.243.23.189
 47.245.28.181
 47.54.19.9
@@ -625,7 +621,6 @@
 9.rarbg.to
 91.186.213.204
 91.208.197.19
-91.216.110.52
 91.216.110.53
 93.158.213.92
 93.158.213.92:1337
@@ -637,6 +632,10 @@
 95.216.3.28
 95.217.167.10
 96.126.98.54
+99.84.215.104
+99.84.215.54
+99.84.215.82
+99.84.215.95
 a.leopard-raws.org
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 academic-p2p.appspot.com
@@ -2840,7 +2839,6 @@ udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leeche
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
-udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -2893,7 +2891,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
-udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
