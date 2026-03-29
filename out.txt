@@ -1,4 +1,3 @@
-0.0.0.0
 004430.xyz
 0123456789nonexistent.com
 0d.kebhana.mx
@@ -141,6 +140,7 @@
 160.251.231.187
 163.5.63.253
 167.253.78.20
+172.232.198.73
 172.233.219.123
 172.233.219.49
 172.233.219.78
@@ -387,6 +387,7 @@
 211.97.119.84
 211.97.119.88
 212.129.33.59
+212.192.15.134
 212.42.38.197
 212.60.5.203
 212.8.249.30
@@ -427,11 +428,11 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-23.92.23.177
-3.171.85.110
-3.171.85.32
-3.171.85.4
-3.171.85.48
+27.147.186.5
+3.170.185.16
+3.170.185.4
+3.170.185.50
+3.170.185.58
 31.38.161.123
 34.170.169.34
 34.203.221.232
@@ -440,7 +441,6 @@
 34.66.57.33:1337
 34.66.57.33:7070
 34.66.57.33:80
-34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -455,7 +455,6 @@
 37.27.188.67
 37.27.218.237
 37.59.48.81
-38.114.101.33
 38.175.99.50
 4.tracker.devnak.win
 43.154.112.29
@@ -474,12 +473,14 @@
 45.7.231.102
 45.9.60.30
 46.232.55.100
+46.250.235.92
 46.3.96.144
 46.59.69.118
 47.102.122.163
 47.102.122.163:6961
 47.243.23.189
 47.245.28.181
+47.245.28.181:6961
 47.54.19.9
 47.54.240.69
 47.55.183.231
@@ -499,7 +500,6 @@
 51.159.89.93
 51.222.82.36
 52.58.128.163
-52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -553,6 +553,8 @@
 79.117.28.48
 79.117.5.107
 79.117.63.250
+79.72.43.7
+79.72.45.236
 8.rarbg.com
 8.rarbg.to
 80.71.224.126
@@ -564,7 +566,6 @@
 83.146.104.30
 83.146.105.110
 83.146.81.79
-83.31.185.110
 83.31.187.170
 83.31.191.39
 83.31.193.194
@@ -624,7 +625,6 @@
 91.186.213.204
 91.208.197.19
 91.216.110.53
-92.5.224.143
 93.158.213.92
 93.158.213.92:1337
 94.136.190.183
@@ -2821,7 +2821,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
@@ -2897,7 +2896,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
-udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
