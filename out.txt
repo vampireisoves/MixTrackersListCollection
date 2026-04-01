@@ -442,6 +442,7 @@
 34.66.57.33:1337
 34.66.57.33:7070
 34.66.57.33:80
+34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -793,7 +794,6 @@ http://185.70.187.79:6969/announce
 http://187.57.14.62:6969/announce
 http://189.0.196.51:6969/announce
 http://189.110.233.96:6969/announce
-http://189.69.168.147:6969/announce
 http://191.254.171.209:6969/announce
 http://192.3.165.191:6969/announce
 http://192.9.228.30:6699/announce
@@ -864,7 +864,6 @@ http://45.63.111.135:2710/announce
 http://45.63.111.135:6961/announce
 http://45.63.111.135:8080/announce
 http://45.67.35.111:6969/announce
-http://45.7.231.102:80/announce
 http://46.17.46.112:8080/announce
 http://46.231.241.43:6969/announce
 http://47.243.23.189:6969/announce
@@ -1973,7 +1972,6 @@ https://tracker.h3o2.me:443/announce
 https://tracker.imgoingto.icu/announce
 https://tracker.imgoingto.icu:443/announce
 https://tracker.iochimari.moe:443/announce
-https://tracker.iperson.xyz:443/announce
 https://tracker.ipfsscan.io/announce
 https://tracker.ipfsscan.io:443/announce
 https://tracker.iriseden.fr/announce
@@ -2415,7 +2413,6 @@ udp.tracker.projectk.org
 udp://10.rarbg.com/announce
 udp://10.rarbg.com:6969/announce
 udp://103.122.21.50:6969/announce
-udp://103.251.166.126:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
 udp://107.175.221.194:6969/announce
@@ -2434,7 +2431,6 @@ udp://144.126.245.19:6969/announce
 udp://144.91.88.22:6969/announce
 udp://147.45.77.75:6969/announce
 udp://148.251.53.72:6969/announce
-udp://154.40.43.165:6969/announce
 udp://156.234.201.18:80/announce
 udp://158.101.161.60:3131/announce
 udp://161.97.67.210:6969/announce
@@ -2448,18 +2444,14 @@ udp://176.31.250.174:6969/announce
 udp://176.99.7.59:6969/announce
 udp://178.170.48.154:1337/announce
 udp://185.102.219.163:6969/announce
-udp://185.121.168.96:1337/announce
 udp://185.121.168.96:6969/announce
 udp://185.146.233.150:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
-udp://185.189.13.108:6969/announce
 udp://185.216.179.62:25/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
-udp://185.249.198.175:1337/announce
 udp://185.44.82.25:1337/announce
-udp://189.69.168.147:6969/announce
 udp://191.254.171.209:6969/announce
 udp://192.95.46.115:6969/announce
 udp://193.187.90.12:6969/announce
@@ -2499,7 +2491,6 @@ udp://43.154.112.29:17272/announce
 udp://43.250.54.137:6969/announce
 udp://44.30.4.4:6969/announce
 udp://45.134.88.121:6969/announce
-udp://45.7.231.102:80/announce
 udp://45.9.60.30:6969/announce
 udp://46.138.242.240:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
@@ -2525,7 +2516,6 @@ udp://8.rarbg.com:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://8.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://81.230.84.201:6969/announce
 udp://82.65.115.10:6969/announce
-udp://84.54.51.78:6969/announce
 udp://88.80.22.67:2710/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
@@ -2568,9 +2558,7 @@ udp://9.rarbg.to:2800/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.to:2830/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.to:2920/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.to:2990/announce # duplicate of udp://9.rarbg.com:2810/announce
-udp://91.186.213.204:6969/announce
 udp://91.211.5.21:6969/announce
-udp://91.216.110.53:451/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
 udp://93.158.213.92:1337/announce
@@ -2804,7 +2792,6 @@ udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.coppersurfer.tk:80/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.corpscorp.online:80/announce
-udp://tracker.cubonegro.org:80/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.darkness.services:6969/announce
@@ -2846,6 +2833,7 @@ udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leeche
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
+udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -2899,6 +2887,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
