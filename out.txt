@@ -2,6 +2,7 @@
 0123456789nonexistent.com
 0d.kebhana.mx
 101.133.155.245
+101.133.155.245:6961
 101.99.91.160
 101.99.94.187
 103.251.166.126
@@ -14,10 +15,6 @@
 107.189.3.200
 107.189.4.235
 107.189.7.165
-108.138.246.116
-108.138.246.118
-108.138.246.44
-108.138.246.72
 108.53.194.223
 108.61.166.249
 109.201.134.183
@@ -112,6 +109,10 @@
 140.235.237.23
 142.132.183.104
 142.171.85.76
+143.204.1.119
+143.204.1.129
+143.204.1.65
+143.204.1.99
 144.126.245.19
 145.223.96.109
 147.45.77.75
@@ -225,7 +226,6 @@
 185.130.47.2
 185.146.233.150
 185.189.13.108
-185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -441,8 +441,9 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:1337
 34.66.57.33:7070
+34.66.57.33:80
+34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -498,7 +499,6 @@
 51.159.89.93
 51.222.82.36
 52.58.128.163
-52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -624,6 +624,7 @@
 9.rarbg.to
 91.186.213.204
 91.208.197.19
+91.216.110.52
 91.216.110.53
 92.5.224.143
 93.158.213.92
@@ -764,7 +765,6 @@ http://163.172.209.40:80/announce
 http://163.172.29.130/announce
 http://163.172.29.130:80/announce
 http://167.235.245.209/announce
-http://167.253.78.20:8080/announce
 http://171.104.110.193:6969/announce
 http://171.104.110.21:6969/announce
 http://171.104.110.88:6969/announce
@@ -816,7 +816,6 @@ http://209.209.112.121:2710/announce
 http://209.50.255.93:3218/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
-http://211.75.205.188:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:6969/announce
 http://211.75.205.189:80/announce
@@ -1638,7 +1637,6 @@ http://tracker.yoshi210.com:6969/announce
 http://tracker.yuelili.com/announce
 http://tracker.yuelili.com:80/announce
 http://tracker.zerobytes.xyz:1337/announce
-http://tracker.zhuqiy.com:80/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker1.bt.moack.co.kr/announce
 http://tracker1.bt.moack.co.kr:80/announce
@@ -1966,7 +1964,6 @@ https://tracker.foreverpirates.co/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info/announce
 https://tracker.gbitt.info:443/announce
-https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.guguan.us.kg:443/announce
 https://tracker.h3o2.me:443/announce
@@ -2432,7 +2429,6 @@ udp://138.124.183.78:6969/announce
 udp://144.126.245.19:6969/announce
 udp://144.91.88.22:6969/announce
 udp://147.45.77.75:6969/announce
-udp://148.135.112.164:6969/announce
 udp://148.251.53.72:6969/announce
 udp://156.234.201.18:80/announce
 udp://158.101.161.60:3131/announce
@@ -2454,7 +2450,6 @@ udp://185.189.13.108:6969/announce
 udp://185.216.179.62:25/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
-udp://185.249.198.175:1337/announce
 udp://185.44.82.25:1337/announce
 udp://189.18.126.32:6969/announce
 udp://191.254.171.209:6969/announce
@@ -2468,13 +2463,11 @@ udp://1c.premierzal.ru:6969/announce
 udp://2.57.214.218:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
-udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
 udp://209.250.249.67:6969/announce
 udp://209.50.255.93:3218/announce
-udp://211.75.205.189:6969/announce
 udp://211.75.210.221:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
@@ -2514,7 +2507,6 @@ udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://74.119.149.136:6969/announce
@@ -2564,7 +2556,6 @@ udp://9.rarbg.to:2800/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.to:2830/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.to:2920/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.to:2990/announce # duplicate of udp://9.rarbg.com:2810/announce
-udp://91.186.213.204:6969/announce
 udp://91.211.5.21:6969/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
@@ -2793,6 +2784,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -2816,7 +2808,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
@@ -2840,7 +2831,6 @@ udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leeche
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
-udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -2894,6 +2884,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
