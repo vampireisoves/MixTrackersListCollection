@@ -2,6 +2,7 @@
 0123456789nonexistent.com
 0d.kebhana.mx
 101.133.155.245
+101.133.155.245:6961
 101.99.91.160
 101.99.94.187
 103.251.166.126
@@ -433,6 +434,10 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
+3.171.85.110
+3.171.85.32
+3.171.85.4
+3.171.85.48
 31.38.161.123
 34.170.169.34
 34.203.221.232
@@ -632,10 +637,6 @@
 95.216.3.28
 95.217.167.10
 96.126.98.54
-99.84.215.104
-99.84.215.54
-99.84.215.82
-99.84.215.95
 a.leopard-raws.org
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 academic-p2p.appspot.com
@@ -2487,6 +2488,7 @@ udp://37.120.182.83:54123/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.59.48.81:6969/announce
+udp://43.154.112.29:17272/announce
 udp://43.250.54.137:6969/announce
 udp://44.30.4.4:6969/announce
 udp://45.134.88.121:6969/announce
@@ -2836,6 +2838,7 @@ udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leeche
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
+udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
