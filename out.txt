@@ -434,10 +434,10 @@
 23.168.232.9
 23.175.184.30
 23.92.23.177
-3.171.85.110
-3.171.85.32
-3.171.85.4
-3.171.85.48
+3.170.185.16
+3.170.185.4
+3.170.185.50
+3.170.185.58
 31.38.161.123
 34.170.169.34
 34.203.221.232
@@ -502,6 +502,7 @@
 51.222.82.36
 52.211.139.85
 52.58.128.163
+52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -2646,7 +2647,6 @@ udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
-udp://ipv6.rer.lol:6969/announce
 udp://ipv6.tracker.harry.lu/announce
 udp://ipv6.tracker.harry.lu:6969/announce
 udp://jutone.com:6969/announce
