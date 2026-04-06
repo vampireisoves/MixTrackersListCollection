@@ -393,7 +393,6 @@
 211.97.119.84
 211.97.119.88
 212.129.33.59
-212.192.15.134
 212.42.38.197
 212.60.5.203
 212.8.249.30
@@ -434,10 +433,10 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.171.85.110
-3.171.85.32
-3.171.85.4
-3.171.85.48
+3.161.242.100
+3.161.242.106
+3.161.242.67
+3.161.242.79
 31.38.161.123
 34.170.169.34
 34.203.221.232
@@ -456,11 +455,11 @@
 35.227.59.57
 37.1.205.12
 37.120.182.83
-37.221.64.218
 37.235.176.37
 37.27.188.67
 37.27.218.237
 37.59.48.81
+38.114.103.66
 38.175.99.50
 4.tracker.devnak.win
 43.154.112.29
@@ -478,6 +477,7 @@
 45.154.96.35
 45.155.53.144
 45.7.231.102
+45.79.231.34
 45.9.60.30
 46.232.55.100
 46.250.235.92
@@ -502,8 +502,8 @@
 51.159.54.68
 51.159.89.93
 51.222.82.36
+52.211.139.85
 52.58.128.163
-52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -526,7 +526,6 @@
 66.154.105.124
 67.215.246.10
 68.193.189.231
-69.197.155.114
 69.30.224.166
 69.30.233.234
 6ahddutb1ucc3cp.ru
@@ -610,7 +609,6 @@
 83.6.230.142
 83.6.230.177
 83.6.231.132
-83.6.231.161
 83.6.231.203
 83.6.233.63
 84.54.51.78
@@ -634,8 +632,6 @@
 94.143.142.174
 94.23.207.177
 94.243.222.100
-95.216.3.11
-95.216.3.28
 95.217.167.10
 96.126.98.54
 a.leopard-raws.org
@@ -1036,6 +1032,7 @@ http://bt.nnm-club.info:2710/announce # registered torrents
 http://bt.okmp3.ru:2710/announce
 http://bt.okmp3.ru:2710/announce # fake seeds
 http://bt.poletracker.org:2710/announce
+http://bt.publicvm.com:8080/announce
 http://bt.rghost.net/announce
 http://bt.rghost.net:80/announce
 http://bt.unionpeer.org:777/announce # registered torrents
@@ -2493,7 +2490,6 @@ udp://37.120.182.83:54123/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.59.48.81:6969/announce
-udp://43.154.112.29:17272/announce
 udp://43.250.54.137:6969/announce
 udp://44.30.4.4:6969/announce
 udp://45.134.88.121:6969/announce
@@ -2844,6 +2840,7 @@ udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leeche
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
+udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -2939,6 +2936,7 @@ udp://yahor.ftp.sh:6969/announce
 udp://yahor.of.by:6969/announce
 udp://yann5.hexanyn.fr:6969/announce
 udp://yuki.bt.bontal.net:6969/announce
+udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://z.mercax.com:53/announce
 udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
 udp://zecircle.xyz:6969/announce
