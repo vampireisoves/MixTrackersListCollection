@@ -33,6 +33,7 @@
 116.16.41.96
 116.16.42.86
 116.16.45.177
+116.202.177.184
 116.5.128.165
 116.5.170.2
 116.8.90.121
@@ -227,6 +228,7 @@
 185.230.4.150
 185.243.218.213
 185.249.198.175
+185.44.65.162
 185.87.45.163
 186.10.170.119
 186.10.170.186
@@ -322,7 +324,6 @@
 193.31.26.113
 193.34.92.5:80
 193.42.111.57
-193.53.245.133
 194.110.247.18
 194.195.86.132
 194.62.248.73
@@ -392,6 +393,7 @@
 211.97.119.84
 211.97.119.88
 212.129.33.59
+212.192.15.134
 212.42.38.197
 212.60.5.203
 212.8.249.30
@@ -432,10 +434,10 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.170.185.16
-3.170.185.4
-3.170.185.50
-3.170.185.58
+3.161.242.100
+3.161.242.106
+3.161.242.67
+3.161.242.79
 31.38.161.123
 34.170.169.34
 34.203.221.232
@@ -444,6 +446,8 @@
 34.66.57.33:1337
 34.66.57.33:7070
 34.66.57.33:80
+34.66.57.33:8000
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -474,6 +478,7 @@
 45.154.96.35
 45.155.53.144
 45.7.231.102
+45.79.231.34
 45.9.60.30
 46.232.55.100
 46.250.235.92
@@ -816,7 +821,6 @@ http://209.50.255.93:3218/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.205.188:6969/announce
-http://211.75.205.188:80/announce
 http://211.75.205.189:6969/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:6969/announce
@@ -2668,6 +2672,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2898,6 +2903,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
