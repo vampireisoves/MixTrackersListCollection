@@ -2,6 +2,7 @@
 0123456789nonexistent.com
 0d.kebhana.mx
 101.133.155.245
+101.133.155.245:6961
 101.99.91.160
 101.99.94.187
 103.251.166.126
@@ -436,11 +437,6 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-23.92.23.177
-3.171.85.110
-3.171.85.32
-3.171.85.4
-3.171.85.48
 31.38.161.123
 34.170.169.34
 34.203.221.232
@@ -450,6 +446,8 @@
 34.66.57.33:7070
 34.66.57.33:80
 34.66.57.33:8000
+34.66.57.33:8826
+34.66.57.33:9696
 34.8.196.142
 34.8.38.57
 34.89.91.10
@@ -478,6 +476,7 @@
 45.154.96.35
 45.155.53.144
 45.7.231.102
+45.79.231.34
 45.9.60.30
 46.232.55.100
 46.250.235.92
@@ -504,7 +503,6 @@
 51.222.82.36
 52.211.139.85
 52.58.128.163
-52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -638,6 +636,10 @@
 95.216.3.28
 95.217.167.10
 96.126.98.54
+99.84.215.104
+99.84.215.54
+99.84.215.82
+99.84.215.95
 a.leopard-raws.org
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 academic-p2p.appspot.com
@@ -2613,6 +2615,7 @@ udp://burmese.app:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://caramelo.ddns.net:8000/announce
 udp://carr.codes:6969/announce
+udp://chihaya.toss.li:9696/announce
 udp://chouchou.top:8080/announce
 udp://coeus.torrentonline.cc:42069/announce
 udp://concen.org:6969/announce
@@ -2666,6 +2669,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2842,7 +2846,6 @@ udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leeche
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
-udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
