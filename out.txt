@@ -15,6 +15,10 @@
 107.189.3.200
 107.189.4.235
 107.189.7.165
+108.138.246.116
+108.138.246.118
+108.138.246.44
+108.138.246.72
 108.53.194.223
 108.61.166.249
 109.201.134.183
@@ -57,6 +61,7 @@
 118.163.198.106
 118.196.100.63
 118.25.157.230
+120.78.150.131
 121.199.16.229
 123.245.62.100
 123.245.62.104
@@ -216,7 +221,6 @@
 18.191.163.220
 180.112.57.159
 180.113.232.20
-180.113.232.249
 180.114.103.80
 184.105.226.26
 185.121.168.244
@@ -225,7 +229,6 @@
 185.130.47.2
 185.146.233.150
 185.189.13.108
-185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -317,7 +320,6 @@
 191.255.193.16
 191.255.193.44
 192.3.130.53
-193.124.24.22
 193.124.24.22:2710
 193.148.251.93
 193.177.162.187
@@ -439,10 +441,6 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.161.242.100
-3.161.242.106
-3.161.242.67
-3.161.242.79
 31.38.161.123
 34.170.169.34
 34.203.221.232
@@ -509,7 +507,6 @@
 51.222.82.36
 52.211.139.85
 52.58.128.163
-52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -528,6 +525,7 @@
 62.210.114.129
 62.60.157.92
 64.112.43.194
+64.226.122.118
 65.108.102.76
 66.154.105.124
 67.215.246.10
@@ -563,7 +561,6 @@
 79.117.28.48
 79.117.5.107
 79.117.63.250
-8.210.14.3
 8.rarbg.com
 8.rarbg.to
 80.211.201.193
@@ -2516,7 +2513,6 @@ udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://74.119.149.136:6969/announce
@@ -2846,6 +2842,7 @@ udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leeche
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
+udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -2930,6 +2927,7 @@ udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+udp://vito-tracker.duckdns.org:6969/announce
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://wepzone.net:6969/announce
 udp://www.2600.com:6969/announce
