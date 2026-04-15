@@ -2,7 +2,6 @@
 0123456789nonexistent.com
 0d.kebhana.mx
 101.133.155.245
-101.133.155.245:6961
 101.99.91.160
 101.99.94.187
 103.251.166.126
@@ -146,12 +145,12 @@
 163.5.63.253
 164.152.110.70
 167.253.78.20
+172.233.212.129
+172.233.212.151
+172.233.212.224
 172.233.219.123
-172.233.219.49
 172.233.219.78
-172.237.146.25
-172.237.146.38
-172.237.146.8
+172.234.31.13
 172.245.168.134
 173.201.36.219
 176.123.1.180
@@ -362,7 +361,6 @@
 204.197.163.27
 207.211.184.229
 207.241.226.111
-207.241.231.226
 207.244.226.120
 208.83.20.20
 209.141.59.16
@@ -448,9 +446,7 @@
 34.52.190.155
 34.66.57.33
 34.66.57.33:1337
-34.66.57.33:7070
 34.66.57.33:80
-34.66.57.33:8000
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -632,6 +628,9 @@
 91.186.213.204
 91.208.197.19
 91.216.110.53
+92.112.126.181
+92.112.127.61
+92.112.127.62
 93.158.213.92
 93.158.213.92:1337
 94.136.190.183
@@ -2587,6 +2586,7 @@ udp://amigacity.xyz:6969/announce
 udp://anidex.moe:6969/announce # malfunction
 udp://anna.bt.bontal.net:6969/announce
 udp://app.icon256.com:8000/announce
+udp://archive.torrentonline.cc:42069/announce
 udp://astrr.ru:6969/announce
 udp://bananas.space:6969/announce
 udp://bandito.byterunner.io:6969/announce
@@ -2682,6 +2682,7 @@ udp://node02.torrentonline.cc:42069/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
+udp://obey.torrentonline.cc:42069/announce
 udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
@@ -2876,7 +2877,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
-udp://tracker.trackton.ga:7070/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
@@ -2894,7 +2894,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
-udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
@@ -2928,6 +2927,7 @@ udp://vito-tracker.duckdns.org:6969/announce
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://wegkxfcivgx.ydns.eu:80/announce
 udp://wepzone.net:6969/announce
+udp://whybother.torrentonline.cc:42069/announce
 udp://www.2600.com:6969/announce
 udp://www.mvgroup.org:2710/announce # registered torrents
 udp://www.nartlof.com:6969/announce
