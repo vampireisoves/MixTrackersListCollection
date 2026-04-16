@@ -73,7 +73,6 @@
 123.245.62.3
 123.245.62.37
 123.245.62.39
-123.245.62.40
 123.245.62.41
 123.245.62.47
 123.245.62.50
@@ -441,11 +440,10 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-23.92.23.177
-3.170.185.16
-3.170.185.4
-3.170.185.50
-3.170.185.58
+3.161.242.100
+3.161.242.106
+3.161.242.67
+3.161.242.79
 31.38.161.123
 34.170.169.34
 34.203.221.232
@@ -453,7 +451,6 @@
 34.66.57.33
 34.66.57.33:1337
 34.66.57.33:7070
-34.66.57.33:80
 34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
@@ -485,6 +482,7 @@
 45.154.96.35
 45.155.53.144
 45.7.231.102
+45.79.231.34
 45.9.60.30
 46.232.55.100
 46.3.96.144
@@ -636,7 +634,6 @@
 9.rarbg.to
 91.186.213.204
 91.208.197.19
-91.216.110.52
 91.216.110.53
 92.112.126.181
 92.112.127.61
@@ -795,6 +792,7 @@ http://171.104.226.221:6969/announce
 http://171.104.226.25:6969/announce
 http://171.104.226.31:6969/announce
 http://171.104.226.87:6969/announce
+http://177.16.198.58:6969/announce
 http://179.100.24.134:6969/announce
 http://180.97.219.76:8070/announce
 http://185.130.47.2:6969/announce
@@ -830,6 +828,7 @@ http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.205.187:6969/announce
 http://211.75.205.188:80/announce
+http://211.75.205.189:6969/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
@@ -1311,6 +1310,7 @@ http://share.camoe.cn:8080/announce
 http://share.camoe.cn:8080/announce # duplicate of http://t.acg.rip:6699/announce
 http://share.hkg-fansub.info/announce.php
 http://share.hkg-fansub.info:80/announce
+http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce.php
@@ -2446,6 +2446,7 @@ udp://172.105.235.127:6969/announce
 udp://173.201.36.219:6969/announce
 udp://173.249.201.201:6969/announce
 udp://176.31.250.174:6969/announce
+udp://177.16.198.58:6969/announce
 udp://178.170.48.154:1337/announce
 udp://185.102.219.163:6969/announce
 udp://185.121.168.96:1337/announce
@@ -2475,11 +2476,13 @@ udp://209.141.59.25:6969/announce
 udp://209.250.249.67:6969/announce
 udp://209.50.255.93:3218/announce
 udp://211.75.205.187:6969/announce
+udp://211.75.205.189:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://217.30.10.77:6969/announce
 udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
+udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
 udp://34.66.57.33:1337/announce
 udp://34.66.57.33:80/announce
@@ -2792,7 +2795,6 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
-udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
