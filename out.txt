@@ -442,10 +442,10 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.171.85.110
-3.171.85.32
-3.171.85.4
-3.171.85.48
+3.161.242.100
+3.161.242.106
+3.161.242.67
+3.161.242.79
 31.38.161.123
 34.170.169.34
 34.203.221.232
@@ -510,6 +510,7 @@
 51.222.82.36
 52.211.139.85
 52.58.128.163
+52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -896,7 +897,6 @@ http://60-fps.org/bt:80/announce.php
 http://60-fps.org:80/bt/announce.php
 http://60-fps.org:80/bt/announce.php # registered torrents
 http://60-fps.org:80/bt:80/announce.php
-http://60.249.37.20:6969/announce
 http://60.249.37.20:80/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
@@ -1314,7 +1314,6 @@ http://share.camoe.cn:8080/announce
 http://share.camoe.cn:8080/announce # duplicate of http://t.acg.rip:6699/announce
 http://share.hkg-fansub.info/announce.php
 http://share.hkg-fansub.info:80/announce
-http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce.php
@@ -2424,7 +2423,6 @@ udp.tracker.projectk.org
 udp://10.rarbg.com/announce
 udp://10.rarbg.com:6969/announce
 udp://103.122.21.50:6969/announce
-udp://103.251.166.126:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
 udp://107.175.221.194:6969/announce
@@ -2458,7 +2456,6 @@ udp://185.121.168.96:1337/announce
 udp://185.146.233.150:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
-udp://185.189.13.108:6969/announce
 udp://185.216.179.62:25/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
@@ -2478,15 +2475,14 @@ udp://207.241.231.226:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
-udp://209.250.249.67:6969/announce
 udp://209.50.255.93:3218/announce
 udp://211.75.205.187:6969/announce
 udp://211.75.205.189:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://217.30.10.77:6969/announce
+udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
-udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
 udp://34.66.57.33:1337/announce
 udp://34.66.57.33:80/announce
@@ -2522,6 +2518,7 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://74.119.149.136:6969/announce
+udp://74.119.150.221:6969/announce
 udp://8.rarbg.com:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://8.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://81.230.84.201:6969/announce
@@ -2850,6 +2847,7 @@ udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leeche
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
+udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
