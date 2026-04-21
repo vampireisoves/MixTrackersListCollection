@@ -28,13 +28,13 @@
 110.187.215.166
 110.187.215.3
 111.90.151.241
-113.13.6.193
 113.13.6.40
 113.16.153.249
 113.16.155.111
 113.16.155.116
 113.16.155.146
 113.17.152.163
+113.17.152.249
 116.16.41.96
 116.16.42.86
 116.16.45.177
@@ -219,10 +219,6 @@
 179.98.51.208
 179.98.51.248
 179.98.51.66
-18.172.170.13
-18.172.170.20
-18.172.170.21
-18.172.170.87
 18.191.163.220
 180.112.57.159
 180.113.232.20
@@ -449,6 +445,10 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
+3.171.85.110
+3.171.85.32
+3.171.85.4
+3.171.85.48
 31.38.161.123
 34.170.169.34
 34.203.221.232
@@ -750,6 +750,7 @@ http://107.189.7.143:6969/announce
 http://11.rarbg.com:80/announce
 http://113.16.153.249:6969/announce
 http://113.16.155.116:6969/announce
+http://113.17.152.249:6969/announce
 http://116.252.176.125:6969/announce
 http://116.9.207.121:6969/announce
 http://116.9.207.164:6969/announce
@@ -846,6 +847,7 @@ http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
 http://34.66.57.33:11450/announce
+http://34.66.57.33:2701/announce
 http://34.66.57.33:2710/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
@@ -1167,6 +1169,7 @@ http://irrenhaus.dyndns.dk:80/announce.php # malfunction
 http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
 http://jsb.by00/announce
+http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kaztorka.org:80/announce.php # registered torrents
 http://kinorun.com/announce.php
@@ -2853,7 +2856,6 @@ udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leeche
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
-udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
