@@ -230,7 +230,6 @@
 185.130.47.2
 185.146.233.150
 185.189.13.108
-185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -454,7 +453,9 @@
 34.52.190.155
 34.66.57.33
 34.66.57.33:1337
+34.66.57.33:7070
 34.66.57.33:80
+34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -519,6 +520,7 @@
 51.222.82.36
 52.211.139.85
 52.58.128.163
+52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -2520,10 +2522,10 @@ udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://74.119.149.136:6969/announce
+udp://74.119.150.221:6969/announce
 udp://8.rarbg.com:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://8.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://81.230.84.201:6969/announce
@@ -2656,6 +2658,7 @@ udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
+udp://ipv6.rer.lol:6969/announce
 udp://ipv6.tracker.harry.lu/announce
 udp://ipv6.tracker.harry.lu:6969/announce
 udp://jutone.com:6969/announce
@@ -2886,6 +2889,7 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
+udp://tracker.trackton.ga:7070/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
@@ -2903,6 +2907,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
@@ -2934,6 +2939,7 @@ udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vito-tracker.duckdns.org:6969/announce
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
+udp://wegkxfcivgx.ydns.eu:80/announce
 udp://wepzone.net:6969/announce
 udp://whybother.torrentonline.cc:42069/announce
 udp://www.2600.com:6969/announce
