@@ -2,6 +2,7 @@
 0123456789nonexistent.com
 0d.kebhana.mx
 101.133.155.245
+101.133.155.245:6961
 101.99.91.160
 101.99.94.187
 103.251.166.126
@@ -117,10 +118,10 @@
 142.132.183.104
 142.171.85.76
 143.20.64.104
-143.204.1.119
-143.204.1.129
-143.204.1.65
-143.204.1.99
+143.204.204.124
+143.204.204.26
+143.204.204.28
+143.204.204.33
 144.126.245.19
 145.223.96.109
 147.45.77.75
@@ -2865,7 +2866,6 @@ udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leeche
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
-udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
