@@ -121,6 +121,10 @@
 142.132.183.104
 142.171.85.76
 143.20.64.104
+143.204.204.124
+143.204.204.26
+143.204.204.28
+143.204.204.33
 144.126.245.19
 145.223.96.109
 147.45.77.75
@@ -237,6 +241,7 @@
 185.130.47.2
 185.146.233.150
 185.189.13.108
+185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -453,10 +458,6 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.171.85.110
-3.171.85.32
-3.171.85.4
-3.171.85.48
 31.38.161.123
 34.170.169.34
 34.203.221.232
@@ -2865,7 +2866,6 @@ udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leeche
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
-udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
