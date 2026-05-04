@@ -14,6 +14,10 @@
 107.189.3.200
 107.189.4.235
 107.189.7.165
+108.138.246.116
+108.138.246.118
+108.138.246.44
+108.138.246.72
 108.53.194.223
 108.61.166.249
 109.201.134.183
@@ -79,6 +83,7 @@
 123.245.62.3
 123.245.62.37
 123.245.62.39
+123.245.62.40
 123.245.62.41
 123.245.62.47
 123.245.62.50
@@ -120,10 +125,6 @@
 142.132.183.104
 142.171.85.76
 143.20.64.104
-143.204.1.119
-143.204.1.129
-143.204.1.65
-143.204.1.99
 144.126.245.19
 145.223.96.109
 147.45.77.75
@@ -456,6 +457,7 @@
 34.52.190.155
 34.66.57.33
 34.66.57.33:1337
+34.66.57.33:80
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -844,6 +846,7 @@ http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.205.187:80/announce
 http://211.75.205.188:80/announce
+http://211.75.205.189:6969/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:6969/announce
 http://211.75.210.221:80/announce
@@ -2462,6 +2465,7 @@ udp://135.125.236.64:6969/announce
 udp://144.126.245.19:6969/announce
 udp://144.91.88.22:6969/announce
 udp://147.45.77.75:6969/announce
+udp://148.135.112.164:6969/announce
 udp://148.251.53.72:6969/announce
 udp://154.40.43.165:6969/announce
 udp://156.234.201.18:80/announce
@@ -2503,6 +2507,7 @@ udp://207.241.231.226:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
+udp://209.250.249.67:6969/announce
 udp://209.50.255.93:3218/announce
 udp://211.75.210.221:6969/announce
 udp://211.75.29.254:6969/announce
@@ -2831,6 +2836,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
