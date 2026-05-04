@@ -2,6 +2,7 @@
 0123456789nonexistent.com
 0d.kebhana.mx
 101.133.155.245
+101.133.155.245:6961
 101.99.91.160
 101.99.94.187
 103.251.166.126
@@ -456,8 +457,7 @@
 34.66.57.33
 34.66.57.33:1337
 34.66.57.33:7070
-34.66.57.33:80
-34.66.57.33:8826
+34.66.57.33:8000
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -663,6 +663,7 @@
 a.leopard-raws.org
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 academic-p2p.appspot.com
+admin.52ywp.com
 aegir.sexy
 all4nothin.net
 alltorrents.net
@@ -739,6 +740,7 @@ hdreactor.org
 hificode.in
 highteahop.top
 home.yxgz.club
+http1.torrust-tracker-demo.com
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://004430.xyz:80/announce
@@ -2151,6 +2153,7 @@ open.demonii.com
 open.demonoid.ch
 open.dstud.io
 open.free-tracker.ga
+open.ftorrent.com
 open.lolicon.eu
 open.nyaatorrents.info
 open.stealth.si
@@ -2238,6 +2241,7 @@ torrents-nn.cn
 torrents.artixlinux.org
 torrents.hikarinokiseki.com
 torrents.linuxmint.com
+torrents.tmtime.dev
 torrentsmd.com
 torrenttracker.nwc.acsalaska.net
 torrentzilla.org
@@ -2260,6 +2264,7 @@ tracker.0x7c0.com
 tracker.1h.is
 tracker.23794.top
 tracker.36dm.com
+tracker.7471.top
 tracker.aburaya.live
 tracker.acgnx.se
 tracker.alaskantf.com
@@ -2318,6 +2323,7 @@ tracker.gmi.gd
 tracker.healthcareindia.store
 tracker.hifimarket.in
 tracker.hifitechindia.com
+tracker.hismz.cn
 tracker.internetwarriors.net
 tracker.iochimari.moe
 tracker.iperson.xyz
@@ -2344,6 +2350,7 @@ tracker.moxing.party
 tracker.mywaifu.best
 tracker.nekomi.cn
 tracker.nighthawk.pw
+tracker.nyaa.vc
 tracker.nyaa2p.i2p
 tracker.ololosh.space
 tracker.open-internet.nl
@@ -2401,6 +2408,7 @@ tracker.vulnix.sh
 tracker.waaa.moe
 tracker.webtorrent.dev
 tracker.wepzone.net
+tracker.wildkat.net
 tracker.xdvdz.com
 tracker.xfapi.top
 tracker.xiaoduola.xyz
@@ -2429,8 +2437,10 @@ tracker7.dler.org
 tracker810.xyz
 trackers.mlsub.net
 ttk2.nbaonlineservice.com
+uabits.today
 uatracker.net
 udp.tracker.projectk.org
+udp1.torrust-tracker-demo.com
 udp://10.rarbg.com/announce
 udp://10.rarbg.com:6969/announce
 udp://103.122.21.50:6969/announce
@@ -2694,7 +2704,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2823,7 +2832,6 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
-udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -2925,6 +2933,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
@@ -2978,6 +2987,8 @@ udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:696
 udp://zecircle.xyz:6969/announce
 udp://zupix.online:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
 utracker.ghostchu-services.top
+vito-tracker.duckdns.org
+vito-tracker.space
 wepzone.net
 ws.peer.ooo
 ws://tracker.nighthawk.pw:4201/announce # duplicate of ws://tracker.nighthawk.pw:2052/announce
@@ -3004,6 +3015,7 @@ www.learnbits.me
 www.legittorrents.info
 www.megatorrents.kg
 www.mvgroup.org
+www.nartlof.com
 www.peckservers.com
 www.shnflac.net
 www.siambt.com
@@ -3027,6 +3039,7 @@ y.t-1.org
 yahor.of.by
 yggtracker.i2p.rocks
 yuki.bt.bontal.net
+yuptracker-eu.gaijinent.com
 z.mercax.com
 z.paranoid.agency
 zer0day.ch
