@@ -79,7 +79,6 @@
 123.245.62.3
 123.245.62.37
 123.245.62.39
-123.245.62.40
 123.245.62.41
 123.245.62.47
 123.245.62.50
@@ -344,7 +343,6 @@
 1c.premierzal.ru
 2.57.214.218
 200.111.152.53
-200.111.152.53:1337
 200.111.152.54
 200.148.11.147
 200.148.11.156
@@ -457,7 +455,6 @@
 34.66.57.33:1337
 34.66.57.33:7070
 34.66.57.33:80
-34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -492,15 +489,15 @@
 46.250.235.92
 46.3.96.144
 46.59.69.118
-46.8.9.220
-46.8.9.222
-46.8.9.223
-46.8.9.224
-46.8.9.225
-46.8.9.226
-46.8.9.227
-46.8.9.228
-46.8.9.229
+46.8.8.220
+46.8.8.222
+46.8.8.223
+46.8.8.224
+46.8.8.225
+46.8.8.226
+46.8.8.227
+46.8.8.228
+46.8.8.229
 47.243.23.189
 47.54.19.9
 47.54.240.69
@@ -522,7 +519,6 @@
 51.222.82.36
 52.211.139.85
 52.58.128.163
-52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -654,6 +650,7 @@
 92.112.127.61
 92.112.127.62
 93.158.213.92
+93.158.213.92:1337
 94.136.190.183
 94.143.142.174
 94.23.207.177
@@ -835,6 +832,7 @@ http://192.3.165.191:6969/announce
 http://192.9.228.30:6699/announce
 http://193.37.214.12:6969/announce
 http://198.251.84.144/announce
+http://200.111.152.53:1337/announce
 http://200.232.254.1:6969/announce
 http://201.42.214.55:6969/announce
 http://201.43.209.254:6969/announce
@@ -848,6 +846,7 @@ http://209.209.112.121:2710/announce
 http://209.50.255.93:3218/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
+http://211.75.205.187:80/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:6969/announce
 http://211.75.205.189:80/announce
@@ -860,6 +859,10 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
+http://34.66.57.33:1337/announce
+http://34.66.57.33:443/announce
+http://34.66.57.33:6969/announce
+http://34.66.57.33:80/announce.php
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -1178,6 +1181,7 @@ http://irrenhaus.dyndns.dk:80/announce.php # malfunction
 http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
 http://jsb.by00/announce
+http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kaztorka.org:80/announce.php # registered torrents
 http://kinorun.com/announce.php
@@ -1250,6 +1254,7 @@ http://open.touki.ru/announce.php # malfunction
 http://open.touki.ru:80/announce
 http://open.touki.ru:80/announce.php
 http://open.touki.ru:80/announce.php # registered torrents
+http://open.tracker.cl:1337/announce
 http://open.tracker.ink:6969/announce
 http://open.trackerlist.xyz/announce
 http://open.trackerlist.xyz:80/announce
@@ -1328,6 +1333,7 @@ http://share.camoe.cn:8080/announce
 http://share.camoe.cn:8080/announce # duplicate of http://t.acg.rip:6699/announce
 http://share.hkg-fansub.info/announce.php
 http://share.hkg-fansub.info:80/announce
+http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce.php
@@ -1384,6 +1390,7 @@ http://torrent.arjlover.net:2710/announce
 http://torrent.arjlover.net:2710/announce # registered torrents
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.fedoraproject.org:6969/announce # registered torrents
+http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce
 http://torrent.mp3quran.net:80/announce.php
@@ -2454,6 +2461,7 @@ udp://103.251.166.126:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
 udp://107.175.221.194:6969/announce
+udp://107.189.2.131:1337/announce
 udp://107.189.4.235:1337/announce
 udp://107.189.7.165:6969/announce
 udp://109.201.134.183:80/announce
@@ -2494,6 +2502,7 @@ udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
 udp://187.56.163.229:6969/announce
+udp://189.18.126.49:6969/announce
 udp://192.3.130.53:1337/announce
 udp://192.95.46.115:6969/announce
 udp://193.187.90.12:6969/announce
@@ -2561,6 +2570,7 @@ udp://8.rarbg.com:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://8.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://81.230.84.201:6969/announce
 udp://82.65.115.10:6969/announce
+udp://87.106.210.134:6969/announce
 udp://88.80.22.67:2710/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
@@ -2938,7 +2948,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
-udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
