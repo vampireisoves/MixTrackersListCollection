@@ -390,8 +390,11 @@
 210.61.187.209
 211.23.142.127
 211.75.205.187
+211.75.205.187:6969
 211.75.205.188
+211.75.205.188:6969
 211.75.205.189
+211.75.205.189:6969
 211.75.205.190
 211.75.205.191
 211.75.205.192
@@ -400,6 +403,7 @@
 211.75.210.123
 211.75.210.220
 211.75.210.221
+211.75.210.221:6969
 211.97.119.106
 211.97.119.123
 211.97.119.34
@@ -465,6 +469,7 @@
 34.66.57.33:7070
 34.66.57.33:80
 34.66.57.33:8000
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -497,15 +502,15 @@
 46.250.235.92
 46.3.96.144
 46.59.69.118
-46.8.8.220
-46.8.8.222
-46.8.8.223
-46.8.8.224
-46.8.8.225
-46.8.8.226
-46.8.8.227
-46.8.8.228
-46.8.8.229
+46.8.9.220
+46.8.9.222
+46.8.9.223
+46.8.9.224
+46.8.9.225
+46.8.9.226
+46.8.9.227
+46.8.9.228
+46.8.9.229
 47.243.23.189
 47.54.19.9
 47.54.240.69
@@ -536,6 +541,7 @@
 60-fps.org
 60.172.236.18
 60.249.37.20
+60.249.37.20:6969
 60.249.37.21
 61.216.165.60
 61.221.26.18
@@ -2698,6 +2704,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2875,6 +2882,7 @@ udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leeche
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
+udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
