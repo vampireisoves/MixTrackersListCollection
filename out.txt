@@ -156,12 +156,9 @@
 163.5.63.253
 164.152.110.70
 167.253.78.20
-172.233.212.129
-172.233.212.151
-172.233.212.224
-172.233.212.90
-172.234.31.13
-172.237.146.49
+172.237.146.18
+172.237.146.39
+172.237.146.46
 172.245.168.134
 173.201.36.219
 176.123.1.180
@@ -239,6 +236,7 @@
 185.146.233.150
 185.171.202.111
 185.189.13.108
+185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -455,10 +453,10 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.171.85.110
-3.171.85.32
-3.171.85.4
-3.171.85.48
+3.170.185.16
+3.170.185.4
+3.170.185.50
+3.170.185.58
 31.38.161.123
 34.170.169.34
 34.203.221.232
@@ -466,7 +464,6 @@
 34.66.57.33
 34.66.57.33:1337
 34.66.57.33:7070
-34.66.57.33:80
 34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
@@ -1892,7 +1889,6 @@ https://opentracker.xyz:443/announce
 https://prestige.minimafia.nl:443/announce
 https://private.minimafia.nl:443/announce
 https://pybittrack.retiolus.net:443/announce
-https://retracker2.x2k.ru:443/announce
 https://seeders-paradise.org/announce
 https://seeders-paradise.org:443/announce
 https://shahidrazi.online:443/announce
@@ -2563,6 +2559,7 @@ udp://6.pocketnet.app:6969/announce
 udp://60.172.236.18:6969/announce
 udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://74.119.149.136:6969/announce
@@ -2847,7 +2844,6 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
-udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -2897,6 +2893,7 @@ udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leeche
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
+udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
