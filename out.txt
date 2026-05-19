@@ -30,6 +30,7 @@
 113.13.6.40
 113.13.7.124
 113.13.7.90
+113.16.152.171
 113.16.152.94
 113.16.153.192
 113.16.153.249
@@ -344,6 +345,7 @@
 193.31.26.113
 193.34.92.5:80
 193.42.111.57
+193.53.245.133
 194.110.247.18
 194.195.86.132
 194.62.248.73
@@ -419,7 +421,6 @@
 212.42.38.197
 212.60.5.203
 212.8.249.30
-213.196.191.96
 216.110.169.204
 216.144.239.90
 217.156.123.49
@@ -459,11 +460,8 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-27.147.186.5
-3.171.85.110
-3.171.85.32
-3.171.85.4
-3.171.85.48
+23.19.10.58
+23.19.10.59
 31.38.161.123
 34.170.169.34
 34.203.221.232
@@ -683,6 +681,10 @@
 95.216.3.28
 95.217.167.10
 96.126.98.54
+99.84.234.126
+99.84.234.64
+99.84.234.84
+99.84.234.98
 a.leopard-raws.org
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 academic-p2p.appspot.com
@@ -2576,7 +2578,6 @@ udp://52.58.128.163:6969/announce
 udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.172.236.18:6969/announce
-udp://60.249.37.20:6969/announce
 udp://67.222.238.222:2010/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
@@ -2894,6 +2895,7 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
+udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
