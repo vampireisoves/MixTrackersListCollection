@@ -2,7 +2,6 @@
 0123456789nonexistent.com
 0d.kebhana.mx
 101.133.155.245
-101.133.155.245:6961
 101.99.91.160
 101.99.94.187
 103.251.166.126
@@ -14,6 +13,10 @@
 107.189.3.200
 107.189.4.235
 107.189.7.165
+108.138.246.116
+108.138.246.118
+108.138.246.44
+108.138.246.72
 108.53.194.223
 108.61.166.249
 109.201.134.183
@@ -45,6 +48,7 @@
 113.17.152.163
 113.17.152.249
 113.17.153.206
+113.17.153.227
 113.17.153.71
 116.16.41.96
 116.16.42.86
@@ -106,6 +110,7 @@
 123.245.62.98
 123.245.62.99
 125.227.79.123
+128.8.130.86
 130.61.158.165
 132.226.6.145
 132.243.174.78
@@ -344,7 +349,6 @@
 193.31.26.113
 193.34.92.5:80
 193.42.111.57
-193.53.245.133
 194.110.247.18
 194.195.86.132
 194.62.248.73
@@ -459,21 +463,15 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-23.19.10.58
-23.19.10.59
-3.171.85.110
-3.171.85.32
-3.171.85.4
-3.171.85.48
 31.38.161.123
 34.170.169.34
 34.203.221.232
-34.41.139.193
 34.52.190.155
 34.66.57.33
 34.66.57.33:1337
 34.66.57.33:7070
 34.66.57.33:80
+34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -2901,6 +2899,7 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
+udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
@@ -2980,6 +2979,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
