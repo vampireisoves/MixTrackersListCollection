@@ -14,6 +14,10 @@
 107.189.3.200
 107.189.4.235
 107.189.7.165
+108.138.246.116
+108.138.246.118
+108.138.246.44
+108.138.246.72
 108.53.194.223
 108.61.166.249
 109.201.134.183
@@ -29,13 +33,13 @@
 111.90.151.241
 113.13.6.40
 113.13.7.124
-113.13.7.244
 113.13.7.90
 113.16.152.171
 113.16.152.94
 113.16.153.192
 113.16.153.249
 113.16.153.98
+113.16.154.16
 113.16.155.111
 113.16.155.112
 113.16.155.116
@@ -397,11 +401,8 @@
 210.61.187.209
 211.23.142.127
 211.75.205.187
-211.75.205.187:6969
 211.75.205.188
-211.75.205.188:6969
 211.75.205.189
-211.75.205.189:6969
 211.75.205.190
 211.75.205.191
 211.75.205.192
@@ -410,7 +411,6 @@
 211.75.210.123
 211.75.210.220
 211.75.210.221
-211.75.210.221:6969
 211.97.119.106
 211.97.119.123
 211.97.119.34
@@ -464,10 +464,6 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.170.185.16
-3.170.185.4
-3.170.185.50
-3.170.185.58
 31.38.161.123
 34.170.169.34
 34.203.221.232
@@ -549,7 +545,6 @@
 60-fps.org
 60.172.236.18
 60.249.37.20
-60.249.37.20:6969
 60.249.37.21
 61.216.165.60
 61.221.26.18
@@ -559,7 +554,6 @@
 62.60.157.92
 64.112.43.194
 65.108.102.76
-65.109.227.206
 66.154.105.124
 67.215.246.10
 67.222.238.222
@@ -785,6 +779,7 @@ http://107.189.2.131:1337/announce
 http://107.189.31.134:6969/announce
 http://107.189.7.143:6969/announce
 http://11.rarbg.com:80/announce
+http://113.16.154.16:6969/announce
 http://113.16.155.21:6969/announce
 http://116.252.176.125:6969/announce
 http://116.9.207.121:6969/announce
@@ -868,9 +863,7 @@ http://207.246.79.17:8080/announce
 http://209.209.112.121:2710/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
-http://211.75.205.188:80/announce
 http://211.75.205.189:6969/announce
-http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
@@ -879,6 +872,7 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
+http://34.66.57.33:2710/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -1403,6 +1397,7 @@ http://torrent.arjlover.net:2710/announce
 http://torrent.arjlover.net:2710/announce # registered torrents
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.fedoraproject.org:6969/announce # registered torrents
+http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce
 http://torrent.mp3quran.net:80/announce.php
@@ -2476,12 +2471,15 @@ udp://103.122.21.50:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
 udp://107.175.221.194:6969/announce
+udp://107.189.2.131:1337/announce
 udp://107.189.4.235:1337/announce
 udp://107.189.7.165:6969/announce
 udp://109.201.134.183:80/announce
 udp://11.rarbg.com:80/announce
 udp://118.196.100.63:6969/announce
 udp://119.28.71.45:8080/announce
+udp://120.78.150.131:6969/announce
+udp://132.226.6.145:6969/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.236.64:6969/announce
 udp://144.91.88.22:6969/announce
@@ -2523,7 +2521,9 @@ udp://2.57.214.218:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://209.126.11.233:6969/announce
+udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
+udp://209.250.249.67:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://217.30.10.77:6969/announce
@@ -2572,6 +2572,8 @@ udp://8.rarbg.com:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://8.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://81.230.84.201:6969/announce
 udp://82.65.115.10:6969/announce
+udp://85.121.5.80:6969/announce
+udp://87.106.210.134:6969/announce
 udp://88.80.22.67:2710/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
@@ -2874,6 +2876,7 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
+udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
@@ -2933,6 +2936,7 @@ udp://tracker.tntvillage.scambioetico.org:2710/announce # registered torrents
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrentclaw.com:1337/announce
 udp://tracker.torrust-demo.com:6969/announce
+udp://tracker.trackarr.org:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
 udp://tracker.trackton.ga:7070/announce
