@@ -113,6 +113,7 @@
 123.245.62.98
 123.245.62.99
 125.227.79.123
+128.8.130.86
 130.61.158.165
 132.226.6.145
 132.243.174.78
@@ -346,7 +347,6 @@
 191.255.193.16
 191.255.193.44
 192.3.130.53
-193.124.24.22
 193.124.24.22:2710
 193.148.251.93
 193.177.162.187
@@ -355,7 +355,6 @@
 193.31.26.113
 193.34.92.5:80
 193.42.111.57
-193.53.245.133
 194.110.247.18
 194.195.86.132
 194.62.248.73
@@ -479,10 +478,8 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:1337
 34.66.57.33:7070
 34.66.57.33:8000
-34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -1848,6 +1845,7 @@ http://z.paranoid.agency:6969/announce # duplicate of http://x.paranoid.agency:6
 https://00.mercax.com:443/announce
 https://00.xxtor.com:443/announce
 https://004430.xyz:443/announce
+https://021912.xyz:443/announce
 https://0d.kebhana.mx:443/announce
 https://1337.abcvg.info/announce
 https://1337.abcvg.info:443/announce
@@ -1861,6 +1859,7 @@ https://abir0dev.github.io:443/announce
 https://academic-p2p.appspot.com/announce # malfunction
 https://alpha.torrenttracker.nl:443/announce
 https://api.ipv4online.uk:443/announce
+https://banananetwork.qzz.io:443/announce
 https://bittorrent.gongt.net/announce
 https://bittorrent.gongt.net:443/announce
 https://bittracker.nekosunevr.co.uk:443/announce
@@ -1919,6 +1918,7 @@ https://opentracker.i2p.rocks/announce
 https://opentracker.i2p.rocks:443/announce
 https://opentracker.xyz/announce
 https://opentracker.xyz:443/announce
+https://orgtgju.org:443/announce
 https://prestige.minimafia.nl:443/announce
 https://private.minimafia.nl:443/announce
 https://pybittrack.retiolus.net:443/announce
@@ -2750,7 +2750,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2905,7 +2904,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
@@ -2929,6 +2927,7 @@ udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leeche
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
+udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
