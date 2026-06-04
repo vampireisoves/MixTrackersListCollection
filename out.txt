@@ -253,6 +253,7 @@
 185.146.233.150
 185.171.202.111
 185.189.13.108
+185.189.13.108:6969
 185.216.179.62
 185.225.68.26
 185.230.4.150
@@ -2498,6 +2499,7 @@ udp://11.rarbg.com:80/announce
 udp://118.196.100.63:6969/announce
 udp://119.28.71.45:8080/announce
 udp://120.78.150.131:6969/announce
+udp://132.226.6.145:6969/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.236.64:6969/announce
 udp://144.91.88.22:6969/announce
@@ -2544,9 +2546,11 @@ udp://211.75.210.221:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://217.30.10.77:6969/announce
+udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
+udp://31.38.161.123:6969/announce
 udp://34.66.57.33:1337/announce
 udp://34.66.57.33:80/announce
 udp://37.120.182.83:15480/announce
@@ -2579,6 +2583,7 @@ udp://6.pocketnet.app:6969/announce
 udp://60.172.236.18:6969/announce
 udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce&nbsp;
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://74.119.149.136:6969/announce
@@ -2914,7 +2919,6 @@ udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leeche
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
-udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
