@@ -486,6 +486,8 @@
 34.66.57.33:1337
 34.66.57.33:7070
 34.66.57.33:80
+34.66.57.33:8000
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -520,15 +522,15 @@
 46.250.235.92
 46.3.96.144
 46.59.69.118
-46.8.9.220
-46.8.9.222
-46.8.9.223
-46.8.9.224
-46.8.9.225
-46.8.9.226
-46.8.9.227
-46.8.9.228
-46.8.9.229
+46.8.8.220
+46.8.8.222
+46.8.8.223
+46.8.8.224
+46.8.8.225
+46.8.8.226
+46.8.8.227
+46.8.8.228
+46.8.8.229
 47.243.23.189
 47.54.19.9
 47.54.240.69
@@ -1485,6 +1487,7 @@ http://tracker.anirena.com/b16a15d9a238d1f59178d3614b857290/announce
 http://tracker.anirena.com:80/announce
 http://tracker.anirena.com:80/announce # registered torrents
 http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
+http://tracker.auctor.tv:6969/announce
 http://tracker.baka-sub.cf/announce
 http://tracker.baka-sub.cf:80/announce
 http://tracker.baltracker.net:3390/announce # registered torrents
@@ -2557,6 +2560,7 @@ udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
+udp://31.38.161.123:6969/announce
 udp://34.66.57.33:1337/announce
 udp://34.66.57.33:80/announce
 udp://37.120.182.83:15480/announce
@@ -2746,6 +2750,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2983,6 +2988,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
