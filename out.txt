@@ -30,7 +30,6 @@
 113.13.7.124
 113.13.7.90
 113.16.152.171
-113.16.152.70
 113.16.152.94
 113.16.153.116
 113.16.153.192
@@ -55,6 +54,7 @@
 113.17.66.164
 113.17.66.235
 113.17.66.72
+113.17.67.141
 113.17.67.93
 116.16.41.96
 116.16.42.86
@@ -482,8 +482,8 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:1337
 34.66.57.33:7070
+34.66.57.33:80
 34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
@@ -2883,6 +2883,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -2930,7 +2931,6 @@ udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leeche
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
-udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
