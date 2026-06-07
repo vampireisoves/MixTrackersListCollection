@@ -164,7 +164,6 @@
 152.53.152.105
 152.67.8.255
 152.89.29.128
-154.201.75.73
 154.40.43.165
 156.234.201.18
 156.244.116.247
@@ -228,6 +227,7 @@
 177.27.223.186
 177.32.238.49
 177.68.44.127
+178.104.154.227
 178.128.94.74
 179.118.129.138
 179.118.129.194
@@ -358,7 +358,6 @@
 193.31.26.113
 193.34.92.5:80
 193.42.111.57
-193.53.245.133
 194.110.247.18
 194.195.86.132
 194.62.248.73
@@ -395,9 +394,9 @@
 204.197.163.27
 207.211.184.229
 207.241.226.111
-207.241.231.226
 207.244.226.120
 208.83.20.20
+208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -482,7 +481,7 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:1337
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -491,6 +490,7 @@
 35.227.59.57
 37.1.205.12
 37.120.182.83
+37.221.64.218
 37.235.176.37
 37.27.188.67
 37.27.218.237
@@ -516,15 +516,15 @@
 46.250.235.92
 46.3.96.144
 46.59.69.118
-46.8.9.220
-46.8.9.222
-46.8.9.223
-46.8.9.224
-46.8.9.225
-46.8.9.226
-46.8.9.227
-46.8.9.228
-46.8.9.229
+46.8.8.220
+46.8.8.222
+46.8.8.223
+46.8.8.224
+46.8.8.225
+46.8.8.226
+46.8.8.227
+46.8.8.228
+46.8.8.229
 47.243.23.189
 47.54.19.9
 47.54.240.69
@@ -666,19 +666,19 @@
 87.98.162.88
 88.80.22.67
 89.110.76.229
+89.117.57.95
 89.234.156.205
 89.234.156.205:451
 9.rarbg.com
 9.rarbg.me
 9.rarbg.to
+91.177.126.188
 91.186.213.204
 91.208.197.19
 91.216.110.53
 91.98.161.68
-92.112.126.181
 92.112.126.44
 92.112.127.61
-92.112.127.62
 93.158.213.92
 93.158.213.92:1337
 93.158.213.92:6969
@@ -1153,6 +1153,7 @@ http://datascene.net/announce.php # registered torrents
 http://datascene.net:80/announce
 http://datascene.net:80/announce.php
 http://datascene.net:80/announce.php # registered torrents
+http://de7c0e7a567e.sn.mynetname.net:59002/announce
 http://debuz.com:6969/announce
 http://deviloid.net:6969/announce # registered torrents
 http://dht.dhtclub.com:666/announce
@@ -2002,6 +2003,7 @@ https://tracker.baka.ink:443/announce
 https://tracker.bangumi.zip/announce
 https://tracker.bangumi.zip:443/announce
 https://tracker.belmult.online:443/announce
+https://tracker.bigbewbs.online:443/announce
 https://tracker.bjut.jp:443/announce
 https://tracker.bt-hash.com/announce
 https://tracker.bt-hash.com:443/announce
@@ -2554,7 +2556,6 @@ udp://211.75.210.221:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://217.30.10.77:6969/announce
-udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
@@ -2750,6 +2751,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2905,7 +2907,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
@@ -2913,6 +2914,7 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.healthcareindia.store:1337/announce # duplicate of udp://tracker.startwork.cv:1337/announce
 udp://tracker.hifitechindia.com:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.hismz.cn:6969/announce
+udp://tracker.huadongblower.xyz:8080/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.internetwarriors.net:1337/announce # duplicate of udp://open.tracker.cl:1337/announce
@@ -2957,6 +2959,7 @@ udp://tracker.tallpenguin.org:15750/announce # duplicate of udp://tracker.fatkho
 udp://tracker.tallpenguin.org:15770/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.tallpenguin.org:15800/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.tcp.exchange:6969/announce
+udp://tracker.teambelgium.net:6969/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
