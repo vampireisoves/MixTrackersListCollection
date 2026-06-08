@@ -49,10 +49,10 @@
 113.17.152.249
 113.17.152.30
 113.17.153.206
-113.17.153.22
 113.17.153.227
 113.17.153.71
 113.17.66.164
+113.17.66.205
 113.17.66.235
 113.17.66.72
 113.17.67.141
@@ -475,16 +475,18 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.170.185.16
-3.170.185.4
-3.170.185.50
-3.170.185.58
+3.171.85.110
+3.171.85.32
+3.171.85.4
+3.171.85.48
 31.38.161.123
 34.170.169.34
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:7070
+34.66.57.33:1337
+34.66.57.33:80
+34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -683,6 +685,7 @@
 92.112.126.44
 92.112.127.61
 93.158.213.92
+93.158.213.92:1337
 93.158.213.92:6969
 94.136.190.183
 94.143.142.174
@@ -2555,6 +2558,7 @@ udp://209.141.59.25:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://217.30.10.77:6969/announce
+udp://23.134.88.9:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
@@ -2881,6 +2885,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -2967,7 +2972,6 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
-udp://tracker.trackton.ga:7070/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
@@ -2985,6 +2989,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
