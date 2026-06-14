@@ -12,10 +12,6 @@
 107.189.3.200
 107.189.4.235
 107.189.7.165
-108.138.246.116
-108.138.246.118
-108.138.246.44
-108.138.246.72
 108.53.194.223
 108.61.166.249
 109.201.134.183
@@ -172,6 +168,7 @@
 152.249.214.53
 152.249.214.68
 152.249.214.74
+152.249.97.82
 152.53.152.105
 152.53.194.103
 152.67.8.255
@@ -313,7 +310,6 @@
 187.57.132.65
 187.57.229.141
 189.0.78.245
-189.18.126.213
 189.18.126.32
 189.18.126.49
 189.18.127.125
@@ -496,6 +492,10 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
+3.161.242.100
+3.161.242.106
+3.161.242.67
+3.161.242.79
 31.38.161.123
 34.170.169.34
 34.203.221.232
@@ -504,8 +504,6 @@
 34.66.57.33:1337
 34.66.57.33:7070
 34.66.57.33:80
-34.66.57.33:8000
-34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -539,15 +537,15 @@
 46.250.235.92
 46.3.96.144
 46.59.69.118
-46.8.9.220
-46.8.9.222
-46.8.9.223
-46.8.9.224
-46.8.9.225
-46.8.9.226
-46.8.9.227
-46.8.9.228
-46.8.9.229
+46.8.8.220
+46.8.8.222
+46.8.8.223
+46.8.8.224
+46.8.8.225
+46.8.8.226
+46.8.8.227
+46.8.8.228
+46.8.8.229
 47.243.23.189
 47.54.19.9
 47.54.240.69
@@ -700,7 +698,6 @@
 91.177.126.188
 91.186.213.204
 91.208.197.19
-91.216.110.52
 91.216.110.53
 91.98.161.68
 92.112.126.181
@@ -708,6 +705,7 @@
 92.112.127.61
 92.112.127.62
 93.158.213.92
+93.158.213.92:1337
 93.158.213.92:6969
 94.136.190.183
 94.143.142.174
@@ -2766,7 +2764,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2947,6 +2944,7 @@ udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leeche
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
+udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.peerfect.org:6969/announce
@@ -3005,7 +3003,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
-udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
