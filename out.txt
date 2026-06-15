@@ -71,7 +71,6 @@
 116.8.90.213
 116.8.90.235
 116.8.90.241
-116.8.90.38
 116.8.90.54
 116.8.90.79
 116.8.90.91
@@ -480,6 +479,7 @@
 222.84.21.49
 222.84.22.86
 222.84.23.141
+222.84.23.3
 23.134.124.81
 23.134.88.11
 23.134.88.9
@@ -502,7 +502,8 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:8826
+34.66.57.33:1337
+34.66.57.33:8000
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -537,15 +538,15 @@
 46.250.235.92
 46.3.96.144
 46.59.69.118
-46.8.8.220
-46.8.8.222
-46.8.8.223
-46.8.8.224
-46.8.8.225
-46.8.8.226
-46.8.8.227
-46.8.8.228
-46.8.8.229
+46.8.9.220
+46.8.9.222
+46.8.9.223
+46.8.9.224
+46.8.9.225
+46.8.9.226
+46.8.9.227
+46.8.9.228
+46.8.9.229
 47.243.23.189
 47.54.19.9
 47.54.240.69
@@ -568,6 +569,7 @@
 51.222.82.36
 52.211.139.85
 52.58.128.163
+52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -850,6 +852,7 @@ http://163.172.209.40:80/announce
 http://163.172.29.130/announce
 http://163.172.29.130:80/announce
 http://167.235.245.209/announce
+http://167.253.78.20:8080/announce
 http://171.104.110.193:6969/announce
 http://171.104.110.21:6969/announce
 http://171.104.110.88:6969/announce
@@ -900,6 +903,7 @@ http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.205.188:6969/announce
 http://211.75.205.188:80/announce
+http://211.75.205.189:6969/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:6969/announce
 http://211.75.210.221:80/announce
@@ -910,6 +914,7 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
+http://222.84.23.3:6969/announce
 http://34.66.57.33:1337/announce
 http://34.66.57.33:2701/announce
 http://34.66.57.33:2710/announce
@@ -2534,6 +2539,7 @@ udp://118.196.100.63:6969/announce
 udp://119.28.71.45:8080/announce
 udp://132.226.6.145:6969/announce
 udp://135.125.106.92:6969/announce
+udp://135.125.236.64:6969/announce
 udp://144.91.88.22:6969/announce
 udp://148.251.53.72:6969/announce
 udp://149.106.106.25:443/announce
@@ -2562,6 +2568,7 @@ udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
 udp://192.3.130.53:1337/announce
 udp://192.95.46.115:6969/announce
+udp://193.148.251.143:6969/announce
 udp://193.187.90.12:6969/announce
 udp://193.34.92.5:80/announce
 udp://193.37.214.12:6969/announce
@@ -2598,6 +2605,7 @@ udp://47.ip-51-68-199.eu:6969/announce
 udp://5.135.104.146:6969/announce
 udp://5.196.67.51:6969/announce
 udp://5.196.89.204:6969/announce
+udp://5.255.124.190:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
 udp://51.15.41.46:6969/announce
@@ -2608,8 +2616,10 @@ udp://51.68.174.87:6969/announce
 udp://51.81.222.188:6969/announce
 udp://52.211.139.85:27022/announce
 udp://52.58.128.163:6969/announce
+udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.172.236.18:6969/announce
+udp://60.249.37.20:6969/announce
 udp://60.249.37.20:80/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
@@ -2621,6 +2631,7 @@ udp://81.230.84.201:6969/announce
 udp://82.65.115.10:6969/announce
 udp://83.102.180.21:80/announce
 udp://87.106.210.134:6969/announce
+udp://88.80.22.67:2710/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
 udp://89.117.57.95:1337/announce
@@ -2767,7 +2778,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2924,6 +2934,7 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
+udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
@@ -2966,6 +2977,7 @@ udp://tracker.silksa.co.za:6969/announce
 udp://tracker.skillindia.site:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
+udp://tracker.startwork.cv:1337/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.t-1.org:6969/announce
@@ -3003,6 +3015,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
