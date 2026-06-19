@@ -418,10 +418,13 @@
 210.61.187.209
 211.23.142.127
 211.75.205.187
+211.75.205.187:6969
 211.75.205.187:80
 211.75.205.188
+211.75.205.188:6969
 211.75.205.188:80
 211.75.205.189
+211.75.205.189:6969
 211.75.205.189:80
 211.75.205.190
 211.75.205.191
@@ -431,6 +434,7 @@
 211.75.210.123
 211.75.210.220
 211.75.210.221
+211.75.210.221:6969
 211.75.210.221:80
 211.97.119.106
 211.97.119.123
@@ -484,6 +488,7 @@
 23.153.248.128
 23.153.248.2
 23.153.248.83
+23.154.104.2
 23.157.120.14
 23.163.56.66
 23.168.232.9
@@ -497,7 +502,8 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:8826
+34.66.57.33:80
+34.66.57.33:8000
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -531,15 +537,15 @@
 46.232.55.100
 46.3.96.144
 46.59.69.118
-46.8.8.220
-46.8.8.222
-46.8.8.223
-46.8.8.224
-46.8.8.225
-46.8.8.226
-46.8.8.227
-46.8.8.228
-46.8.8.229
+46.8.9.220
+46.8.9.222
+46.8.9.223
+46.8.9.224
+46.8.9.225
+46.8.9.226
+46.8.9.227
+46.8.9.228
+46.8.9.229
 47.243.23.189
 47.54.19.9
 47.54.240.69
@@ -571,6 +577,7 @@
 60-fps.org
 60.172.236.18
 60.249.37.20
+60.249.37.20:6969
 60.249.37.20:80
 60.249.37.21
 61.216.165.60
@@ -2548,6 +2555,7 @@ udp://178.170.48.154:1337/announce
 udp://185.102.219.163:6969/announce
 udp://185.121.168.96:1337/announce
 udp://185.146.233.150:6969/announce
+udp://185.171.202.111:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
 udp://185.216.179.62:25/announce
@@ -2556,6 +2564,7 @@ udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
 udp://192.3.130.53:1337/announce
 udp://192.95.46.115:6969/announce
+udp://193.148.251.93:6969/announce
 udp://193.187.90.12:6969/announce
 udp://193.34.92.5:80/announce
 udp://193.37.214.12:6969/announce
@@ -2763,7 +2772,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2897,6 +2905,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -3000,6 +3009,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
