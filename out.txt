@@ -144,6 +144,10 @@
 142.132.183.104
 142.171.85.76
 143.20.64.104
+143.204.1.119
+143.204.1.129
+143.204.1.65
+143.204.1.99
 144.126.245.19
 145.223.96.109
 147.45.74.251
@@ -156,6 +160,7 @@
 15.204.56.171
 15.204.57.168
 15.235.207.99
+150.136.120.173
 151.243.109.110
 151.243.109.163
 152.231.114.120
@@ -499,6 +504,7 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -532,15 +538,15 @@
 46.232.55.100
 46.3.96.144
 46.59.69.118
-46.8.8.220
-46.8.8.222
-46.8.8.223
-46.8.8.224
-46.8.8.225
-46.8.8.226
-46.8.8.227
-46.8.8.228
-46.8.8.229
+46.8.9.220
+46.8.9.222
+46.8.9.223
+46.8.9.224
+46.8.9.225
+46.8.9.226
+46.8.9.227
+46.8.9.228
+46.8.9.229
 47.243.23.189
 47.54.19.9
 47.54.240.69
@@ -710,10 +716,6 @@
 95.216.3.28
 95.217.167.10
 96.126.98.54
-99.84.215.104
-99.84.215.54
-99.84.215.82
-99.84.215.95
 a.leopard-raws.org
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 academic-p2p.appspot.com
@@ -2546,7 +2548,6 @@ udp://178.170.48.154:1337/announce
 udp://185.102.219.163:6969/announce
 udp://185.121.168.96:1337/announce
 udp://185.146.233.150:6969/announce
-udp://185.171.202.111:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
 udp://185.216.179.62:25/announce
@@ -2760,6 +2761,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2940,7 +2942,6 @@ udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leeche
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
-udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.peerfect.org:6969/announce
