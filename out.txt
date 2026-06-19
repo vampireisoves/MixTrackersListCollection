@@ -473,13 +473,13 @@
 222.216.139.248
 222.216.139.71
 222.216.139.72
-222.216.139.86
 222.84.20.142
 222.84.21.49
 222.84.22.86
 222.84.23.141
 222.84.23.3
 222.84.23.36
+222.84.23.76
 23.134.124.81
 23.134.88.11
 23.134.88.9
@@ -494,16 +494,15 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.171.85.110
-3.171.85.32
-3.171.85.4
-3.171.85.48
+3.161.242.100
+3.161.242.106
+3.161.242.67
+3.161.242.79
 31.38.161.123
 34.170.169.34
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:1337
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -538,15 +537,15 @@
 46.232.55.100
 46.3.96.144
 46.59.69.118
-46.8.8.220
-46.8.8.222
-46.8.8.223
-46.8.8.224
-46.8.8.225
-46.8.8.226
-46.8.8.227
-46.8.8.228
-46.8.8.229
+46.8.9.220
+46.8.9.222
+46.8.9.223
+46.8.9.224
+46.8.9.225
+46.8.9.226
+46.8.9.227
+46.8.9.228
+46.8.9.229
 47.243.23.189
 47.54.19.9
 47.54.240.69
@@ -803,7 +802,6 @@ http://00.xxtor.com:443/announce
 http://004430.xyz:80/announce
 http://0123456789nonexistent.com/announce
 http://0123456789nonexistent.com:80/announce
-http://0205.uptm.ch:6969/announce
 http://0d.kebhana.mx:443/announce
 http://10.rarbg.com:80/announce
 http://104.143.10.186:8000/announce
@@ -910,13 +908,8 @@ http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
 http://222.216.139.71:6969/announce
-http://222.84.23.36:6969/announce
 http://34.66.57.33:11450/announce
-http://34.66.57.33:1337/announce
-http://34.66.57.33:2701/announce
-http://34.66.57.33:2710/announce
 http://34.66.57.33:6969/announce
-http://34.66.57.33:80/announce
 http://34.66.57.33:80/announce.php
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
@@ -1239,7 +1232,6 @@ http://irrenhaus.dyndns.dk:80/announce.php # malfunction
 http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
 http://jsb.by00/announce
-http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kaztorka.org:80/announce.php # registered torrents
 http://kinorun.com/announce.php
@@ -1318,7 +1310,6 @@ http://open.trackerlist.xyz:80/announce
 http://openbittorrent.com/announce
 http://openbittorrent.com:80/announce
 http://openbittorrent.com:80/announce # duplicate of http://tracker.openbittorrent.com:80/announce
-http://opentracker.91kf.top:16969/announce
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.com:6869/announce # duplicate of http://tracker.acgnx.se:80/announce
 http://opentracker.acgnx.com:6869/announce"
@@ -2579,8 +2570,6 @@ udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
 udp://211.75.205.187:6969/announce
 udp://211.75.205.187:80/announce
-udp://211.75.205.188:6969/announce
-udp://211.75.205.189:80/announce
 udp://211.75.210.221:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
@@ -2602,7 +2591,6 @@ udp://47.ip-51-68-199.eu:6969/announce
 udp://5.135.104.146:6969/announce
 udp://5.196.67.51:6969/announce
 udp://5.196.89.204:6969/announce
-udp://5.255.124.190:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
 udp://51.15.41.46:6969/announce
@@ -2931,7 +2919,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
