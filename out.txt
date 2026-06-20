@@ -505,6 +505,7 @@
 34.52.190.155
 34.66.57.33
 34.66.57.33:7070
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -537,15 +538,15 @@
 46.232.55.100
 46.3.96.144
 46.59.69.118
-46.8.9.220
-46.8.9.222
-46.8.9.223
-46.8.9.224
-46.8.9.225
-46.8.9.226
-46.8.9.227
-46.8.9.228
-46.8.9.229
+46.8.8.220
+46.8.8.222
+46.8.8.223
+46.8.8.224
+46.8.8.225
+46.8.8.226
+46.8.8.227
+46.8.8.228
+46.8.8.229
 47.243.23.189
 47.54.19.9
 47.54.240.69
@@ -568,6 +569,7 @@
 51.222.82.36
 52.211.139.85
 52.58.128.163
+52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -910,6 +912,11 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
+http://34.66.57.33:11450/announce
+http://34.66.57.33:1337/announce
+http://34.66.57.33:2701/announce
+http://34.66.57.33:2710/announce
+http://34.66.57.33:443/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -1231,6 +1238,7 @@ http://irrenhaus.dyndns.dk:80/announce.php # malfunction
 http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
 http://jsb.by00/announce
+http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kaztorka.org:80/announce.php # registered torrents
 http://kinorun.com/announce.php
@@ -1379,6 +1387,7 @@ http://share.camoe.cn:8080/announce
 http://share.camoe.cn:8080/announce # duplicate of http://t.acg.rip:6699/announce
 http://share.hkg-fansub.info/announce.php
 http://share.hkg-fansub.info:80/announce
+http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce.php
@@ -1435,6 +1444,7 @@ http://torrent.arjlover.net:2710/announce
 http://torrent.arjlover.net:2710/announce # registered torrents
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.fedoraproject.org:6969/announce # registered torrents
+http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce
 http://torrent.mp3quran.net:80/announce.php
@@ -2566,6 +2576,7 @@ udp://207.241.231.226:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
 udp://211.75.205.187:80/announce
+udp://211.75.205.188:6969/announce
 udp://211.75.205.188:80/announce
 udp://211.75.210.221:6969/announce
 udp://211.75.29.254:6969/announce
@@ -2583,6 +2594,7 @@ udp://37.187.95.112:6969/announce
 udp://37.59.48.81:6969/announce
 udp://43.154.112.29:17272/announce
 udp://43.250.54.126:6969/announce
+udp://45.134.88.121:6969/announce
 udp://45.9.60.30:6969/announce
 udp://46.138.242.240:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
@@ -2760,6 +2772,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
