@@ -341,6 +341,7 @@
 189.79.12.91
 189.79.13.107
 189.79.13.111
+189.79.13.198
 190.146.242.81
 191.23.121.129
 191.23.62.111
@@ -410,6 +411,7 @@
 207.241.231.226
 207.244.226.120
 208.83.20.20
+208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -494,11 +496,16 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
+3.171.85.110
+3.171.85.32
+3.171.85.4
+3.171.85.48
 31.38.161.123
 34.170.169.34
 34.203.221.232
 34.52.190.155
 34.66.57.33
+34.66.57.33:1337
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -713,10 +720,6 @@
 95.216.3.28
 95.217.167.10
 96.126.98.54
-99.84.215.104
-99.84.215.54
-99.84.215.82
-99.84.215.95
 a.leopard-raws.org
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 academic-p2p.appspot.com
@@ -2567,6 +2570,7 @@ udp://1c.premierzal.ru:6969/announce
 udp://2.57.214.218:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
+udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
 udp://211.75.205.187:80/announce
@@ -2942,7 +2946,6 @@ udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leeche
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
-udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.peerfect.org:6969/announce
