@@ -12,10 +12,6 @@
 107.189.3.200
 107.189.4.235
 107.189.7.165
-108.138.246.116
-108.138.246.118
-108.138.246.44
-108.138.246.72
 108.53.194.223
 108.61.166.249
 109.201.134.183
@@ -425,10 +421,13 @@
 210.61.187.209
 211.23.142.127
 211.75.205.187
+211.75.205.187:6969
 211.75.205.187:80
 211.75.205.188
+211.75.205.188:6969
 211.75.205.188:80
 211.75.205.189
+211.75.205.189:6969
 211.75.205.189:80
 211.75.205.190
 211.75.205.191
@@ -438,6 +437,7 @@
 211.75.210.123
 211.75.210.220
 211.75.210.221
+211.75.210.221:6969
 211.75.210.221:80
 211.97.119.106
 211.97.119.123
@@ -502,9 +502,7 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:1337
 34.66.57.33:80
-34.66.57.33:8000
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -583,6 +581,7 @@
 60-fps.org
 60.172.236.18
 60.249.37.20
+60.249.37.20:6969
 60.249.37.20:80
 60.249.37.21
 61.216.165.60
@@ -723,6 +722,10 @@
 95.216.3.28
 95.217.167.10
 96.126.98.54
+99.84.215.104
+99.84.215.54
+99.84.215.82
+99.84.215.95
 a.leopard-raws.org
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 academic-p2p.appspot.com
@@ -2953,6 +2956,7 @@ udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.com:6969/announce
+udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.peerfect.org:6969/announce
@@ -3009,7 +3013,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
-udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
