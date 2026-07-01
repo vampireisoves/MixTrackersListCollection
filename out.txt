@@ -409,12 +409,12 @@
 201.13.51.82
 201.92.179.79
 204.197.163.27
+206.237.9.156
 207.211.184.229
 207.241.226.111
 207.241.231.226
 207.244.226.120
 208.83.20.20
-208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -508,7 +508,8 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:8826
+34.66.57.33:1337
+34.66.57.33:80
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -711,11 +712,8 @@
 91.208.197.19
 91.216.110.53
 91.98.161.68
-92.112.126.181
 92.112.126.44
-92.112.127.62
 93.158.213.92
-93.158.213.92:1337
 93.158.213.92:6969
 94.136.190.183
 94.143.142.174
@@ -2080,6 +2078,7 @@ https://tracker.ipfsscan.io/announce
 https://tracker.ipfsscan.io:443/announce
 https://tracker.iriseden.fr/announce
 https://tracker.iriseden.fr:443/announce
+https://tracker.isbigdick.cc.cd:443/announce
 https://tracker.jdx3.org:443/announce
 https://tracker.jdx3.org:443/announce # malfunction
 https://tracker.jiesen.life:8443/announce
@@ -2602,6 +2601,7 @@ udp://37.120.182.83:1984/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.59.48.81:6969/announce
+udp://43.154.112.29:17272/announce
 udp://43.250.54.126:6969/announce
 udp://45.9.60.30:6969/announce
 udp://46.138.242.240:6969/announce
@@ -2611,7 +2611,6 @@ udp://5.196.67.51:6969/announce
 udp://5.196.89.204:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
-udp://51.15.41.46:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
 udp://51.222.82.36:6969/announce
@@ -2778,7 +2777,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2910,6 +2908,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
