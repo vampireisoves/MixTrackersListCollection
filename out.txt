@@ -504,9 +504,7 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:1337
 34.66.57.33:7070
-34.66.57.33:80
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -572,7 +570,6 @@
 51.83.160.93
 52.211.139.85
 52.58.128.163
-52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -716,6 +713,7 @@
 92.112.127.61
 92.112.127.62
 93.158.213.92
+93.158.213.92:1337
 93.158.213.92:6969
 94.136.190.183
 94.143.142.174
@@ -913,7 +911,6 @@ http://209.209.112.121:2710/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.205.187:6969/announce
-http://211.75.205.188:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:6969/announce
 http://211.75.205.189:80/announce
@@ -1392,7 +1389,6 @@ http://s1124554.ha012.t.mydomain.zone:80/announce
 http://s1130638.ha016.t.mydomain.zone:80/announce
 http://s1130639.ha009.t.mydomain.zone:80/announce
 http://s1130642.ha014.t.mydomain.zone:80/announce
-http://s926723.ha016.t.mydomain.zone:80/announce
 http://secure.pow7.com/announce
 http://secure.pow7.com:80/announce
 http://secure.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
@@ -2553,7 +2549,7 @@ udp://109.201.134.183:80/announce
 udp://11.rarbg.com:80/announce
 udp://118.196.100.63:6969/announce
 udp://119.28.71.45:8080/announce
-udp://132.243.161.144:6969/announce
+udp://132.226.6.145:6969/announce
 udp://135.125.106.92:6969/announce
 udp://144.91.88.22:6969/announce
 udp://148.251.53.72:6969/announce
@@ -2761,7 +2757,6 @@ udp://fh2.cmp-gaming.com:6969/announce
 udp://files.project-cataclysm.ru:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
-udp://freedomalternative.com:6969/announce
 udp://git.vulnix.sh:6969/announce # registered torrents
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
@@ -2838,7 +2833,6 @@ udp://public-tracker.cf:6969/announce
 udp://public.demonoid.ch:6969/announce # duplicate of udp://open.demonoid.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
-udp://publictracker.xyz:6969/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qtstm32fan.ru:6969/announce
@@ -2918,7 +2912,6 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
-udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -2943,7 +2936,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
@@ -2969,6 +2961,7 @@ udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.com:6969/announce
+udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.peerfect.org:6969/announce
@@ -3013,6 +3006,7 @@ udp://tracker.trackton.ga:7070/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
+udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.vulnix.sh:6969/announce # registered torrents
 udp://tracker.wepzone.net:6969/announce
