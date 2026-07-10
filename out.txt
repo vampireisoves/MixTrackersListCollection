@@ -508,7 +508,6 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -912,7 +911,6 @@ http://211.75.205.187:6969/announce
 http://211.75.205.188:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
-http://211.75.210.221:6969/announce
 http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
@@ -1714,7 +1712,6 @@ http://tracker.trancetraffic.com:80/announce.php # registered torrents
 http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tricitytorrents.com:2710/announce # registered torrents
 http://tracker.tritan.gg:8080/announce
-http://tracker.umunu.ru:6969/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker.vraphim.com:6969/announce # registered torrents
@@ -1918,7 +1915,6 @@ https://cernet-tracker.appspot.com:443/announce
 https://chihaya-heroku.120181311.xyz/announce
 https://chihaya-heroku.120181311.xyz:443/announce
 https://cny.fan:443/announce
-https://colibri.parrot.run:443/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 https://docker-tracker-production.up.railway.app/announce
@@ -2143,7 +2139,6 @@ https://tracker.pterclub.com:443/announce
 https://tracker.publictorrent.net/announce
 https://tracker.publictorrent.net:443/announce
 https://tracker.puvvadi.net:443/announce
-https://tracker.qingwa.pro:443/announce
 https://tracker.qingwapt.org:443/announce
 https://tracker.qingwapt.org:443/announce # registered torrents
 https://tracker.quix.cf/announce
@@ -2197,7 +2192,6 @@ https://voxhost.fr/announce
 https://voxhost.fr:443/announce
 https://w.wwwww.wtf/announce
 https://w.wwwww.wtf:443/announce
-https://wolf.parrot.run:443/announce
 https://wsad.run.place:443/announce
 https://www.peckservers.com:9443/announce
 https://www.wareztorrent.com/announce
@@ -2590,7 +2584,6 @@ udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
 udp://211.75.205.187:6969/announce
-udp://211.75.205.188:6969/announce
 udp://211.75.205.188:80/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
@@ -2637,7 +2630,6 @@ udp://82.65.115.10:6969/announce
 udp://83.102.180.21:80/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
-udp://89.127.235.120:6969/announce
 udp://89.234.156.205:451/announce
 udp://89.36.216.8:6969/announce
 udp://9.rarbg.com:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
@@ -2779,7 +2771,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2791,9 +2782,7 @@ udp://navegador.click:6969/announce
 udp://new-line.net:6969/announce
 udp://node01.madtia.cc:42069/announce
 udp://node01.torrentonline.cc:42069/announce
-udp://node01.trackerstatus.live:42069/announce
 udp://node02.madtia.cc:42069/announce
-udp://node02.torrentonline.cc:42069/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
@@ -2959,6 +2948,7 @@ udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.com:6969/announce
+udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.peerfect.org:6969/announce
