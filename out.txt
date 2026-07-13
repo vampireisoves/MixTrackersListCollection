@@ -67,6 +67,7 @@
 116.202.177.184
 116.5.128.165
 116.5.170.2
+116.62.205.211
 116.8.90.121
 116.8.90.213
 116.8.90.235
@@ -386,7 +387,6 @@
 200.111.152.53
 200.111.152.54
 200.111.84.93
-200.111.84.93:1337
 200.148.11.147
 200.148.11.156
 200.148.11.61
@@ -418,6 +418,7 @@
 207.241.231.226
 207.244.226.120
 208.83.20.20
+208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -512,8 +513,6 @@
 34.52.190.155
 34.66.57.33
 34.66.57.33:1337
-34.66.57.33:80
-34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -530,6 +529,8 @@
 38.175.99.50
 4.tracker.devnak.win
 43.154.112.29
+43.174.246.104
+43.174.247.104
 43.250.54.126
 43.250.54.137
 44.30.4.3
@@ -721,6 +722,7 @@
 91.98.161.68
 92.112.126.44
 93.158.213.92
+93.158.213.92:1337
 93.158.213.92:6969
 94.136.190.183
 94.143.142.174
@@ -2041,6 +2043,7 @@ https://tracker.4.babico.name.tr:443/announce
 https://tracker.7471.top:443/announce
 https://tracker.aburaya.live:443/announce
 https://tracker.acgnx.se:443/announce # registered torrents
+https://tracker.adgk.net:443/announce
 https://tracker.alaskantf.com:443/announce
 https://tracker.anibt.net:443/announce
 https://tracker.baka.ink/announce
@@ -2787,7 +2790,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
@@ -2916,7 +2918,6 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
-udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
