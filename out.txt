@@ -12,10 +12,6 @@
 107.189.3.200
 107.189.4.235
 107.189.7.165
-108.138.246.116
-108.138.246.118
-108.138.246.44
-108.138.246.72
 108.53.194.223
 108.61.166.249
 109.201.134.183
@@ -389,7 +385,6 @@
 200.111.152.53
 200.111.152.54
 200.111.84.93
-200.111.84.93:1337
 200.148.11.147
 200.148.11.156
 200.148.11.61
@@ -506,13 +501,16 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
+3.171.85.110
+3.171.85.32
+3.171.85.4
+3.171.85.48
 31.38.161.123
 34.170.169.34
 34.203.221.232
 34.52.190.155
 34.66.57.33
 34.66.57.33:1337
-34.66.57.33:8000
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -548,15 +546,15 @@
 46.232.55.100
 46.3.96.144
 46.59.69.118
-46.8.8.220
-46.8.8.222
-46.8.8.223
-46.8.8.224
-46.8.8.225
-46.8.8.226
-46.8.8.227
-46.8.8.228
-46.8.8.229
+46.8.9.220
+46.8.9.222
+46.8.9.223
+46.8.9.224
+46.8.9.225
+46.8.9.226
+46.8.9.227
+46.8.9.228
+46.8.9.229
 47.243.23.189
 47.54.19.9
 47.54.240.69
@@ -720,6 +718,7 @@
 92.112.127.61
 92.112.127.62
 93.158.213.92
+93.158.213.92:1337
 93.158.213.92:6969
 94.136.190.183
 94.143.142.174
@@ -881,7 +880,6 @@ http://171.104.226.31:6969/announce
 http://171.104.226.87:6969/announce
 http://177.139.44.203:6969/announce
 http://179.100.24.134:6969/announce
-http://179.146.54.238:6969/announce
 http://180.97.219.76:8070/announce
 http://185.130.47.2:6969/announce
 http://185.148.3.231/announce
@@ -926,12 +924,8 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
-http://34.66.57.33:11450/announce
-http://34.66.57.33:2701/announce
 http://34.66.57.33:2710/announce
-http://34.66.57.33:443/announce
 http://34.66.57.33:6969/announce
-http://34.66.57.33:80/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -983,7 +977,6 @@ http://60-fps.org/bt:80/announce.php
 http://60-fps.org:80/bt/announce.php
 http://60-fps.org:80/bt/announce.php # registered torrents
 http://60-fps.org:80/bt:80/announce.php
-http://60.249.37.20:6969/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
 http://61.216.166.123:6969/announce
@@ -1403,7 +1396,6 @@ http://share.camoe.cn:8080/announce
 http://share.camoe.cn:8080/announce # duplicate of http://t.acg.rip:6699/announce
 http://share.hkg-fansub.info/announce.php
 http://share.hkg-fansub.info:80/announce
-http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce.php
@@ -1553,7 +1545,6 @@ http://tracker.computel.fr:80/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.corpscorp.online/announce
 http://tracker.corpscorp.online:80/announce
-http://tracker.cubonegro.org:80/announce
 http://tracker.ddunlimited.net:6969/announce
 http://tracker.ddunlimited.net:6969/announce # registered torrents
 http://tracker.dhitechnical.com:6969/announce
@@ -2085,7 +2076,6 @@ https://tracker.ipfsscan.io/announce
 https://tracker.ipfsscan.io:443/announce
 https://tracker.iriseden.fr/announce
 https://tracker.iriseden.fr:443/announce
-https://tracker.isbigdick.cc.cd:443/announce
 https://tracker.jdx3.org:443/announce
 https://tracker.jdx3.org:443/announce # malfunction
 https://tracker.jiesen.life:8443/announce
@@ -2548,7 +2538,6 @@ udp://109.201.134.183:80/announce
 udp://11.rarbg.com:80/announce
 udp://119.28.71.45:8080/announce
 udp://132.226.6.145:6969/announce
-udp://132.243.161.144:6969/announce
 udp://135.125.106.92:6969/announce
 udp://144.91.88.22:6969/announce
 udp://148.251.53.72:6969/announce
@@ -2566,7 +2555,6 @@ udp://173.249.201.201:6969/announce
 udp://176.31.250.174:6969/announce
 udp://177.139.44.203:6969/announce
 udp://178.170.48.154:1337/announce
-udp://179.146.54.238:6969/announce
 udp://180.131.145.175:6969/announce
 udp://185.102.219.163:6969/announce
 udp://185.121.168.96:1337/announce
@@ -2586,15 +2574,12 @@ udp://193.37.214.12:6969/announce
 udp://194.38.21.77:6969/announce
 udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
-udp://200.111.84.93:1337/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
-udp://211.75.205.187:6969/announce
 udp://211.75.205.187:80/announce
-udp://211.75.205.188:80/announce
 udp://211.75.205.189:6969/announce
 udp://211.75.210.221:80/announce
 udp://211.75.29.254:6969/announce
@@ -2878,7 +2863,6 @@ udp://torrentclub.online:54123/announce
 udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://torrents.artixlinux.org:6969/announce # registered torrents
-udp://torrents.tmtime.dev:6969/announce
 udp://torrentvpn.club:6990/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.btube3.com:2010/announce
@@ -2932,6 +2916,7 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
+udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
@@ -2957,6 +2942,7 @@ udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.com:6969/announce
+udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.peerfect.org:6969/announce
@@ -3000,7 +2986,6 @@ udp://tracker.trackerfix.com:82/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
-udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.vulnix.sh:6969/announce # registered torrents
 udp://tracker.wepzone.net:6969/announce
@@ -3013,7 +2998,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
-udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
