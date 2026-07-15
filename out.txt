@@ -502,10 +502,6 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.170.185.16
-3.170.185.4
-3.170.185.50
-3.170.185.58
 31.38.161.123
 34.170.169.34
 34.203.221.232
@@ -578,6 +574,7 @@
 51.83.160.93
 52.211.139.85
 52.58.128.163
+52.58.128.163:6969
 54.36.110.62
 54.36.179.216
 54.37.38.200
@@ -718,6 +715,7 @@
 92.112.127.61
 92.112.127.62
 93.158.213.92
+93.158.213.92:1337
 93.158.213.92:6969
 94.136.190.183
 94.143.142.174
@@ -730,6 +728,10 @@
 95.216.3.28
 95.217.167.10
 96.126.98.54
+99.84.215.104
+99.84.215.54
+99.84.215.82
+99.84.215.95
 a.leopard-raws.org
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 academic-p2p.appspot.com
@@ -2955,6 +2957,7 @@ udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.com:6969/announce
+udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.peerfect.org:6969/announce
