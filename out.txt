@@ -389,7 +389,6 @@
 200.111.152.53
 200.111.152.54
 200.111.84.93
-200.111.84.93:1337
 200.148.11.147
 200.148.11.156
 200.148.11.61
@@ -422,7 +421,6 @@
 207.241.231.226
 207.244.226.120
 208.83.20.20
-208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -512,6 +510,7 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
+34.66.57.33:8000
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -2710,7 +2709,6 @@ udp://bt.bontal.net:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
-udp://bt.okmp3.ru:2710/announce
 udp://bt.okmp3.ru:2710/announce&nbsp;
 udp://bt.rer.lol:2710/announce # duplicate of udp://bt.rer.lol:6969/announce
 udp://bt.rer.lol:6969/announce
@@ -2945,7 +2943,6 @@ udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.com:6969/announce
-udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.peerfect.org:6969/announce
@@ -3002,6 +2999,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
