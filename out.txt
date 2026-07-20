@@ -173,7 +173,6 @@
 152.53.194.103
 152.67.8.255
 152.89.29.128
-154.201.75.73
 154.212.206.56
 154.40.43.165
 156.234.201.18
@@ -256,6 +255,10 @@
 179.98.51.248
 179.98.51.66
 18.191.163.220
+18.238.109.103
+18.238.109.127
+18.238.109.13
+18.238.109.55
 180.112.57.159
 180.113.232.20
 180.114.103.80
@@ -365,7 +368,6 @@
 191.255.193.16
 191.255.193.44
 192.3.130.53
-193.124.24.22
 193.124.24.22:2710
 193.148.251.143
 193.148.251.93
@@ -416,7 +418,6 @@
 207.241.231.226
 207.244.226.120
 208.83.20.20
-208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -501,18 +502,11 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.171.85.110
-3.171.85.32
-3.171.85.4
-3.171.85.48
 31.38.161.123
 34.170.169.34
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:7070
-34.66.57.33:80
-34.66.57.33:8000
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -579,8 +573,6 @@
 51.83.160.93
 52.211.139.85
 52.58.128.163
-52.58.128.163:6969
-54.36.110.62
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -1633,6 +1625,7 @@ http://tracker.noobsubs.net/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.novaopcj.eu.org:6969/announce
 http://tracker.nucozer-tracker.ml:2710/announce
+http://tracker.nyaa.vc:6969/announce
 http://tracker.nyaa2p.i2p:80/announce
 http://tracker.nyacat.pw:7000/announce
 http://tracker.nyacat.pw:7000/announce.php
@@ -2616,7 +2609,6 @@ udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.172.236.18:6969/announce
-udp://60.249.37.20:6969/announce
 udp://65.109.28.17:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2810/announce
@@ -2893,7 +2885,6 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
-udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -2982,11 +2973,9 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
-udp://tracker.trackton.ga:7070/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
-udp://tracker.uw0.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.vulnix.sh:6969/announce # registered torrents
 udp://tracker.wepzone.net:6969/announce
@@ -2999,7 +2988,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
-udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
