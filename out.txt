@@ -1,5 +1,6 @@
 004430.xyz
 0123456789nonexistent.com
+021912.xyz
 0d.kebhana.mx
 101.99.91.160
 101.99.94.187
@@ -146,10 +147,6 @@
 142.132.183.104
 142.171.85.76
 143.20.64.104
-143.204.1.119
-143.204.1.129
-143.204.1.65
-143.204.1.99
 144.126.245.19
 145.223.96.109
 147.45.74.251
@@ -507,12 +504,15 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
+3.170.185.16
+3.170.185.4
+3.170.185.50
+3.170.185.58
 31.38.161.123
 34.170.169.34
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:1337
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -548,15 +548,15 @@
 46.232.55.100
 46.3.96.144
 46.59.69.118
-46.8.9.220
-46.8.9.222
-46.8.9.223
-46.8.9.224
-46.8.9.225
-46.8.9.226
-46.8.9.227
-46.8.9.228
-46.8.9.229
+46.8.8.220
+46.8.8.222
+46.8.8.223
+46.8.8.224
+46.8.8.225
+46.8.8.226
+46.8.8.227
+46.8.8.228
+46.8.8.229
 47.243.23.189
 47.54.19.9
 47.54.240.69
@@ -580,7 +580,6 @@
 51.83.160.93
 52.211.139.85
 52.58.128.163
-52.58.128.163:6969
 54.36.110.62
 54.36.179.216
 54.37.38.200
@@ -745,10 +744,12 @@ all4nothin.net
 alltorrents.net
 amigacity.xyz
 anidex.moe
+anime-tracker.aruku.kro.kr
 announce.partis.si
 api.ipv4online.uk
 atrack.pow7.com
 baibako.tv
+banananetwork.qzz.io
 bandito.byterunner.io
 beertracker.ml
 big-boss-tracker.net
@@ -817,6 +818,7 @@ hdreactor.org
 hificode.in
 highteahop.top
 home.yxgz.club
+ht.therarbg.to
 http1.torrust-tracker-demo.com
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
@@ -2224,6 +2226,7 @@ kaztorka.org
 kinorun.com
 leet-tracker.moe
 lucke.fenesisu.moe
+mail.segso.net
 martin-gebhardt.eu
 masters-tb.com
 mediaclub.tv
@@ -2264,6 +2267,7 @@ opentracker.r4sas.i2p
 opentracker.simp.i2p
 opentracker.skank.i2p
 opentrackr.org
+orgtgju.org
 p2p.0g.cx
 p2p.publictracker.xyz
 p4p.arenabg.com
@@ -2364,6 +2368,7 @@ tracker.acgnx.se
 tracker.alaskantf.com
 tracker.ali213.net
 tracker.anirena.com
+tracker.aruku.ovh
 tracker.auctor.tv
 tracker.baltracker.net
 tracker.belmult.online
@@ -2420,6 +2425,7 @@ tracker.healthcareindia.store
 tracker.hifimarket.in
 tracker.hifitechindia.com
 tracker.hismz.cn
+tracker.ilibr.org
 tracker.internetwarriors.net
 tracker.iochimari.moe
 tracker.iperson.xyz
@@ -2437,6 +2443,7 @@ tracker.lilithraws.org
 tracker.linkomanija.org
 tracker.lintk.me
 tracker.linvk.com
+tracker.manager.v6.navy
 tracker.minglong.org
 tracker.mininova.org
 tracker.moeblog.cn
@@ -2445,6 +2452,7 @@ tracker.monikadesign.uk
 tracker.moxing.party
 tracker.mywaifu.best
 tracker.nekomi.cn
+tracker.nexusstream.eu
 tracker.nighthawk.pw
 tracker.nyaa.vc
 tracker.nyaa2p.i2p
@@ -2452,7 +2460,9 @@ tracker.ololosh.space
 tracker.open-internet.nl
 tracker.openbittorrent.com
 tracker.opentorrent.top
+tracker.opentrackr.com
 tracker.opentrackr.org
+tracker.openwebtorrent.com
 tracker.peerfect.org
 tracker.pirateparty.gr
 tracker.playground.ru
@@ -2480,6 +2490,7 @@ tracker.tallpenguin.org
 tracker.tambovnet.org
 tracker.tamersunion.org
 tracker.tasvideos.org
+tracker.teambelgium.net
 tracker.theempire.bz
 tracker.theoks.net
 tracker.therarbg.to
@@ -2513,6 +2524,7 @@ tracker.xiaoduola.xyz
 tracker.yemekyedim.com
 tracker.yume-hatsuyuki.moe
 tracker.zhuqiy.com
+tracker.zhuqiy.dgj055.icu
 tracker.zhuqiy.top
 tracker.zupix.online
 tracker1.520.jp
@@ -2939,7 +2951,6 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
-udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
