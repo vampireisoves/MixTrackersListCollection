@@ -390,6 +390,7 @@
 200.111.152.53
 200.111.152.54
 200.111.84.93
+200.111.84.93:1337
 200.148.11.147
 200.148.11.156
 200.148.11.61
@@ -511,8 +512,7 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:7070
-34.66.57.33:8826
+34.66.57.33:1337
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -529,6 +529,8 @@
 38.175.99.50
 4.tracker.devnak.win
 43.154.112.29
+43.174.246.104
+43.174.247.104
 43.250.54.126
 43.250.54.137
 44.30.4.3
@@ -717,12 +719,9 @@
 91.208.197.19
 91.216.110.53
 91.98.161.68
-92.112.126.181
 92.112.126.44
 92.112.127.61
-92.112.127.62
 93.158.213.92
-93.158.213.92:1337
 93.158.213.92:6969
 94.136.190.183
 94.143.142.174
@@ -1882,6 +1881,7 @@ http://xtremewrestlingtorrents.net:80/announce
 http://xtremewrestlingtorrents.net:80/announce.php
 http://xtremewrestlingtorrents.net:80/announce.php # registered torrents
 http://y.paranoid.agency:6969/announce # duplicate of http://x.paranoid.agency:6969/announce
+http://ydlkccp.dscloud.me:6969/announce
 http://yggtracker.i2p.rocks:80/announce
 http://z.paranoid.agency:6969/announce # duplicate of http://x.paranoid.agency:6969/announce
 https://00.mercax.com:443/announce
@@ -2792,7 +2792,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
@@ -2940,6 +2939,7 @@ udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoal
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.filemail.com:6969/announce
+udp://tracker.fileparadise.in:1337/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
@@ -2965,7 +2965,6 @@ udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.com:6969/announce
-udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.peerfect.org:6969/announce
@@ -3006,7 +3005,6 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
-udp://tracker.trackton.ga:7070/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
