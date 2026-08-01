@@ -279,6 +279,7 @@
 185.243.218.213
 185.249.198.175
 185.87.45.163
+185.87.45.163:6969
 186.10.170.119
 186.10.170.186
 186.10.170.23
@@ -388,7 +389,6 @@
 200.111.152.53
 200.111.152.54
 200.111.84.93
-200.111.84.93:1337
 200.148.11.147
 200.148.11.156
 200.148.11.61
@@ -420,7 +420,6 @@
 207.241.231.226
 207.244.226.120
 208.83.20.20
-208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -504,10 +503,10 @@
 23.168.232.9
 23.175.184.30
 27.147.186.5
-3.170.185.16
-3.170.185.4
-3.170.185.50
-3.170.185.58
+3.161.242.100
+3.161.242.106
+3.161.242.67
+3.161.242.79
 31.38.161.123
 31.59.141.120
 34.170.169.34
@@ -720,6 +719,7 @@
 91.177.126.188
 91.186.213.204
 91.208.197.19
+91.216.110.52
 91.216.110.53
 91.98.161.68
 92.112.126.181
@@ -2600,6 +2600,7 @@ udp://185.181.60.67:80/announce
 udp://185.216.179.62:25/announce
 udp://185.230.4.150:1337/announce
 udp://185.44.82.25:1337/announce
+udp://185.87.45.163:6969/announce
 udp://192.95.46.115:6969/announce
 udp://193.187.90.12:6969/announce
 udp://193.34.92.5:80/announce
@@ -2640,6 +2641,7 @@ udp://5.196.67.51:6969/announce
 udp://5.196.89.204:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
+udp://51.15.41.46:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
 udp://51.222.82.36:6969/announce
@@ -2981,7 +2983,6 @@ udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.com:6969/announce
-udp://tracker.opentrackr.org:1337
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
 udp://tracker.peerfect.org:6969/announce
@@ -2998,6 +2999,7 @@ udp://tracker.sbsub.com:2710/announce # duplicate of udp://retracker.lanta-net.r
 udp://tracker.sharebro.in:6969/announce
 udp://tracker.sharebro.in:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.skillindia.site:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
