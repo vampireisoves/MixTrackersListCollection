@@ -13,6 +13,10 @@
 107.189.3.200
 107.189.4.235
 107.189.7.165
+108.138.246.116
+108.138.246.118
+108.138.246.44
+108.138.246.72
 108.53.194.223
 108.61.166.249
 109.201.134.183
@@ -191,6 +195,7 @@
 172.245.168.134
 173.201.36.219
 176.123.1.180
+176.172.42.174
 176.32.38.223
 176.56.6.77
 176.56.7.89
@@ -418,7 +423,6 @@
 207.241.231.226
 207.244.226.120
 208.83.20.20
-208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -501,17 +505,15 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.170.185.16
-3.170.185.4
-3.170.185.50
-3.170.185.58
+27.147.186.5
 31.38.161.123
 31.59.141.120
 34.170.169.34
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:80
+34.66.57.33:1337
+34.66.57.33:8000
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -561,6 +563,7 @@
 47.54.19.9
 47.54.240.69
 47.55.183.231
+47.76.201.250
 49.13.133.10
 4olv65sj4ifeak26wqiifr3q2vjv5d44x733ncqhtd7cmjwoinpa.b32.i2p
 5.102.159.190
@@ -580,7 +583,7 @@
 51.83.160.93
 52.211.139.85
 52.58.128.163
-52.58.128.163:6969
+54.36.110.62
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -712,6 +715,7 @@
 9.rarbg.com
 9.rarbg.me
 9.rarbg.to
+90.112.95.164
 91.177.126.188
 91.186.213.204
 91.208.197.19
@@ -729,7 +733,6 @@
 94.243.222.100
 94.250.253.220
 94.72.140.51
-95.133.166.209
 95.179.232.193
 95.216.3.11
 95.216.3.28
@@ -2094,7 +2097,6 @@ https://tracker.ipfsscan.io/announce
 https://tracker.ipfsscan.io:443/announce
 https://tracker.iriseden.fr/announce
 https://tracker.iriseden.fr:443/announce
-https://tracker.isbigdick.cc.cd:443/announce
 https://tracker.jdx3.org:443/announce
 https://tracker.jdx3.org:443/announce # malfunction
 https://tracker.jiesen.life:8443/announce
@@ -2930,9 +2932,9 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
-udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
+udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.coppersurfer.tk:80/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.corpscorp.online:80/announce
@@ -3036,6 +3038,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
