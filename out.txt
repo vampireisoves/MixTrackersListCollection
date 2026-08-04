@@ -280,6 +280,7 @@
 185.243.218.213
 185.249.198.175
 185.87.45.163
+185.87.45.163:6969
 186.10.170.119
 186.10.170.186
 186.10.170.23
@@ -513,7 +514,7 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:7070
+34.66.57.33:1337
 34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
@@ -728,7 +729,6 @@
 92.112.127.61
 92.112.127.62
 93.158.213.92
-93.158.213.92:1337
 93.158.213.92:6969
 94.136.190.183
 94.23.207.177
@@ -852,7 +852,6 @@ http://116.9.207.226:6969/announce
 http://119.28.71.45:8080/announce
 http://129.146.193.240:6699/announce
 http://13.115.115.32:6969/announce
-http://132.243.161.144:6969/announce
 http://1337.abcvg.info/announce
 http://1337.abcvg.info/announce+108
 http://1337.abcvg.info:80/announce
@@ -943,14 +942,6 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
-http://34.66.57.33:11450/announce
-http://34.66.57.33:1337/announce
-http://34.66.57.33:2701/announce
-http://34.66.57.33:2710/announce
-http://34.66.57.33:443/announce
-http://34.66.57.33:6969/announce
-http://34.66.57.33:80/announce
-http://34.66.57.33:80/announce.php
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -1273,7 +1264,6 @@ http://irrenhaus.dyndns.dk:80/announce.php # malfunction
 http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
 http://jsb.by00/announce
-http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kaztorka.org:80/announce.php # registered torrents
 http://kinorun.com/announce.php
@@ -1421,7 +1411,6 @@ http://share.camoe.cn:8080/announce
 http://share.camoe.cn:8080/announce # duplicate of http://t.acg.rip:6699/announce
 http://share.hkg-fansub.info/announce.php
 http://share.hkg-fansub.info:80/announce
-http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce.php
@@ -1479,7 +1468,6 @@ http://torrent.arjlover.net:2710/announce
 http://torrent.arjlover.net:2710/announce # registered torrents
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.fedoraproject.org:6969/announce # registered torrents
-http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce
 http://torrent.mp3quran.net:80/announce.php
@@ -2585,7 +2573,6 @@ udp://152.53.194.103:1984/announce
 udp://152.53.194.103:54123/announce
 udp://156.234.201.18:80/announce
 udp://158.101.161.60:3131/announce
-udp://159.146.99.45:6969/announce
 udp://161.97.67.210:6969/announce
 udp://163.172.29.130:80/announce
 udp://164.152.110.70:6969/announce
@@ -2594,11 +2581,9 @@ udp://172.105.235.127:6969/announce
 udp://173.249.201.201:6969/announce
 udp://176.31.250.174:6969/announce
 udp://177.112.215.160:6969/announce
-udp://177.172.61.26:6969/announce
 udp://178.170.48.154:1337/announce
 udp://180.131.145.175:6969/announce
 udp://185.102.219.163:6969/announce
-udp://185.121.168.96:1337/announce
 udp://185.121.168.96:6969/announce
 udp://185.171.202.111:6969/announce
 udp://185.181.60.155:80/announce
@@ -2619,7 +2604,6 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
-udp://209.141.59.25:6969/announce
 udp://211.75.205.187:80/announce
 udp://211.75.205.188:80/announce
 udp://211.75.210.221:6969/announce
@@ -2655,7 +2639,6 @@ udp://51.222.82.36:6969/announce
 udp://51.68.174.87:6969/announce
 udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
-udp://54.36.179.216:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.172.236.18:6969/announce
 udp://60.249.37.20:6969/announce
@@ -2776,7 +2759,6 @@ udp://dht.bt251.com:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://ds32244.seedhost.eu:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-udp://edgev.duckdns.org:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
@@ -3029,7 +3011,6 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
-udp://tracker.trackton.ga:7070/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
