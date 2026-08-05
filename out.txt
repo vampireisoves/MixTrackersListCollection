@@ -421,6 +421,7 @@
 207.241.231.226
 207.244.226.120
 208.83.20.20
+208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -513,7 +514,6 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:1337
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -892,7 +892,6 @@ http://171.104.226.25:6969/announce
 http://171.104.226.31:6969/announce
 http://171.104.226.87:6969/announce
 http://177.112.215.160:6969/announce
-http://177.172.61.26:6969/announce
 http://179.100.24.134:6969/announce
 http://180.97.219.76:8070/announce
 http://185.126.65.92:6969/announce
@@ -928,7 +927,6 @@ http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.205.187:6969/announce
 http://211.75.205.187:80/announce
-http://211.75.205.188:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:6969/announce
@@ -1334,7 +1332,6 @@ http://open.touki.ru/announce.php # malfunction
 http://open.touki.ru:80/announce
 http://open.touki.ru:80/announce.php
 http://open.touki.ru:80/announce.php # registered torrents
-http://open.tracker.cl:1337/announce
 http://open.tracker.ink:6969/announce
 http://open.trackerlist.xyz/announce
 http://open.trackerlist.xyz:80/announce
@@ -1505,7 +1502,6 @@ http://tr.bangumi.moe:6969/announce # registered torrents
 http://tr.bangumi.moe:80/announce
 http://tr.cili001.com70/announce
 http://tr.cili001.com:8070/announce
-http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
@@ -2609,7 +2605,6 @@ udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
 udp://211.75.205.187:6969/announce
 udp://211.75.205.187:80/announce
-udp://211.75.205.188:80/announce
 udp://211.75.210.221:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
