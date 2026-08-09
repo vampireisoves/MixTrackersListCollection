@@ -397,7 +397,6 @@
 200.111.152.53
 200.111.152.54
 200.111.84.93
-200.111.84.93:1337
 200.148.11.147
 200.148.11.156
 200.148.11.61
@@ -512,10 +511,10 @@
 23.168.232.9
 23.175.184.30
 27.147.186.5
-3.171.85.110
-3.171.85.32
-3.171.85.4
-3.171.85.48
+3.170.185.16
+3.170.185.4
+3.170.185.50
+3.170.185.58
 31.38.161.123
 31.56.179.159
 31.59.141.120
@@ -737,6 +736,7 @@
 92.112.127.61
 92.112.127.62
 93.158.213.92
+93.158.213.92:1337
 93.158.213.92:6969
 94.136.190.183
 94.23.207.177
@@ -1979,6 +1979,7 @@ https://php-bobcat.wasmer.app:443/announce
 https://prestige.minimafia.nl:443/announce
 https://private.minimafia.nl:443/announce
 https://pybittrack.retiolus.net:443/announce
+https://retracker.x2k.ru:443/announce
 https://seeders-paradise.org/announce
 https://seeders-paradise.org:443/announce
 https://staticfile-bobcat.wasmer.app:443/announce
@@ -2099,7 +2100,6 @@ https://tracker.ipfsscan.io/announce
 https://tracker.ipfsscan.io:443/announce
 https://tracker.iriseden.fr/announce
 https://tracker.iriseden.fr:443/announce
-https://tracker.isbigdick.cc.cd:443/announce
 https://tracker.jdx3.org:443/announce
 https://tracker.jdx3.org:443/announce # malfunction
 https://tracker.jiesen.life:8443/announce
