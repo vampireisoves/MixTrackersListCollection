@@ -145,6 +145,10 @@
 140.235.237.23
 142.132.183.104
 142.171.85.76
+143.204.1.119
+143.204.1.129
+143.204.1.65
+143.204.1.99
 143.246.43.3
 144.126.245.19
 145.223.96.109
@@ -512,10 +516,6 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.161.242.100
-3.161.242.106
-3.161.242.67
-3.161.242.79
 31.38.161.123
 31.56.179.159
 31.59.141.120
@@ -523,6 +523,8 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
+34.66.57.33:7070
+34.66.57.33:80
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -540,7 +542,6 @@
 38.180.157.12
 4.tracker.devnak.win
 43.154.112.29
-43.174.246.104
 43.174.247.104
 43.250.54.126
 43.250.54.137
@@ -592,7 +593,6 @@
 51.83.160.93
 52.211.139.85
 52.58.128.163
-52.58.128.163:6969
 54.36.110.62
 54.36.179.216
 54.37.38.200
@@ -2944,6 +2944,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cn.nyaa.net:6969/announce
@@ -3037,6 +3038,7 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
+udp://tracker.trackton.ga:7070/announce
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
