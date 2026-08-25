@@ -445,10 +445,8 @@
 211.23.142.127
 211.75.205.187
 211.75.205.187:6969
-211.75.205.187:80
 211.75.205.188
 211.75.205.188:6969
-211.75.205.188:80
 211.75.205.189
 211.75.205.190
 211.75.205.191
@@ -459,7 +457,6 @@
 211.75.210.220
 211.75.210.221
 211.75.210.221:6969
-211.75.210.221:80
 211.97.119.106
 211.97.119.123
 211.97.119.34
@@ -526,6 +523,7 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
+34.66.57.33:80
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -2107,6 +2105,7 @@ https://tracker.ipfsscan.io/announce
 https://tracker.ipfsscan.io:443/announce
 https://tracker.iriseden.fr/announce
 https://tracker.iriseden.fr:443/announce
+https://tracker.isbigdick.cc.cd:443/announce
 https://tracker.jdx3.org:443/announce
 https://tracker.jdx3.org:443/announce # malfunction
 https://tracker.jiesen.life:8443/announce
@@ -2606,7 +2605,6 @@ udp://180.131.145.175:6969/announce
 udp://185.102.219.163:6969/announce
 udp://185.121.168.96:1337/announce
 udp://185.121.168.96:6969/announce
-udp://185.171.202.111:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
 udp://185.216.179.62:25/announce
@@ -2664,6 +2662,7 @@ udp://52.211.139.85:27022/announce
 udp://52.58.128.163:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://60.172.236.18:6969/announce
+udp://60.249.37.20:6969/announce
 udp://65.109.28.17:6969/announce
 udp://65.109.28.33:6969/announce
 udp://67.222.238.222:2010/announce
@@ -2944,6 +2943,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cn.nyaa.net:6969/announce
