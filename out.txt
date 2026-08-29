@@ -145,6 +145,10 @@
 140.235.237.23
 142.132.183.104
 142.171.85.76
+143.204.1.119
+143.204.1.129
+143.204.1.65
+143.204.1.99
 143.246.43.3
 144.126.245.19
 145.223.96.109
@@ -186,6 +190,9 @@
 163.5.63.253
 164.152.110.70
 167.253.78.20
+172.237.146.18
+172.237.146.39
+172.237.146.46
 172.245.168.134
 173.201.36.219
 176.123.1.180
@@ -512,10 +519,6 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.161.242.100
-3.161.242.106
-3.161.242.67
-3.161.242.79
 31.38.161.123
 31.56.179.159
 31.59.141.120
@@ -2647,7 +2650,6 @@ udp://5.196.67.51:6969/announce
 udp://5.196.89.204:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
-udp://51.15.41.46:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
 udp://51.222.82.36:6969/announce
@@ -3010,7 +3012,6 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
-udp://tracker.t-1.org:6969/announce
 udp://tracker.tallpenguin.org:15710/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.tallpenguin.org:15730/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.tallpenguin.org:15750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
