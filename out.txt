@@ -145,6 +145,10 @@
 140.235.237.23
 142.132.183.104
 142.171.85.76
+143.204.1.119
+143.204.1.129
+143.204.1.65
+143.204.1.99
 143.246.43.3
 144.126.245.19
 145.223.96.109
@@ -432,7 +436,6 @@
 207.241.231.226
 207.244.226.120
 208.83.20.20
-208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -522,6 +525,8 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
+34.66.57.33:1337
+34.66.57.33:8000
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -540,6 +545,8 @@
 38.28.210.235
 4.tracker.devnak.win
 43.154.112.29
+43.174.246.104
+43.174.247.104
 43.250.54.126
 43.250.54.137
 44.30.4.3
@@ -558,15 +565,15 @@
 46.232.55.100
 46.3.96.144
 46.59.69.118
-46.8.9.220
-46.8.9.222
-46.8.9.223
-46.8.9.224
-46.8.9.225
-46.8.9.226
-46.8.9.227
-46.8.9.228
-46.8.9.229
+46.8.8.220
+46.8.8.222
+46.8.8.223
+46.8.8.224
+46.8.8.225
+46.8.8.226
+46.8.8.227
+46.8.8.228
+46.8.8.229
 47.243.23.189
 47.54.19.9
 47.54.240.69
@@ -591,10 +598,6 @@
 51.83.160.93
 52.211.139.85
 52.58.128.163
-52.85.132.103
-52.85.132.22
-52.85.132.45
-52.85.132.66
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -3020,6 +3023,7 @@ udp://tracker.tallpenguin.org:15800/announce # duplicate of udp://tracker.fatkho
 udp://tracker.tcp.exchange:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.theoks.net:6969/announce
+udp://tracker.therarbg.to:1337/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.tnl.one:8000/announce
@@ -3046,6 +3050,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
