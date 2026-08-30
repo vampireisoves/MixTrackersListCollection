@@ -514,10 +514,10 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.170.185.16
-3.170.185.4
-3.170.185.50
-3.170.185.58
+3.171.85.110
+3.171.85.32
+3.171.85.4
+3.171.85.48
 31.38.161.123
 31.56.179.159
 31.59.141.120
@@ -525,6 +525,7 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -732,7 +733,6 @@
 91.177.126.188
 91.186.213.204
 91.208.197.19
-91.216.110.52
 91.216.110.53
 91.98.161.68
 92.112.126.181
@@ -938,7 +938,6 @@ http://207.246.79.17:8080/announce
 http://209.209.112.121:2710/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
-http://211.75.205.187:6969/announce
 http://211.75.205.187:80/announce
 http://211.75.205.188:6969/announce
 http://211.75.205.188:80/announce
@@ -2624,10 +2623,8 @@ udp://207.241.231.226:6969/announce
 udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
-udp://211.75.205.187:6969/announce
 udp://211.75.205.187:80/announce
 udp://211.75.205.188:6969/announce
-udp://211.75.210.221:80/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://217.30.10.77:6969/announce
@@ -2717,7 +2714,6 @@ udp://9.rarbg.to:2920/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.to:2990/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://91.177.126.188:6969/announce
 udp://91.211.5.21:6969/announce
-udp://91.216.110.53:451/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
 udp://93.158.213.92:1337/announce
@@ -2818,6 +2814,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
