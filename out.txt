@@ -528,6 +528,7 @@
 34.52.190.155
 34.66.57.33
 34.66.57.33:80
+34.66.57.33:8000
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -735,7 +736,6 @@
 91.177.126.188
 91.186.213.204
 91.208.197.19
-91.216.110.52
 91.216.110.53
 91.98.161.68
 92.112.126.181
@@ -2593,7 +2593,6 @@ udp://148.251.53.72:6969/announce
 udp://149.106.106.25:443/announce
 udp://15.235.207.99:8081/announce
 udp://151.242.104.187:80/announce
-udp://152.243.213.247:6969/announce
 udp://152.53.194.103:1984/announce
 udp://152.53.194.103:54123/announce
 udp://156.234.201.18:80/announce
@@ -2648,6 +2647,7 @@ udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.59.48.81:6969/announce
 udp://37.60.249.217:6969/announce
+udp://43.154.112.29:17272/announce
 udp://43.250.54.126:6969/announce
 udp://45.9.60.30:6969/announce
 udp://46.138.242.240:6969/announce
@@ -3055,6 +3055,7 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
