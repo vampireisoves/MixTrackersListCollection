@@ -516,6 +516,10 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
+3.170.185.16
+3.170.185.4
+3.170.185.50
+3.170.185.58
 31.38.161.123
 31.56.179.159
 31.59.141.120
@@ -523,6 +527,7 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
+34.66.57.33:9696
 34.8.196.142
 34.8.38.57
 34.89.91.10
@@ -728,7 +733,6 @@
 91.177.126.188
 91.186.213.204
 91.208.197.19
-91.216.110.52
 91.216.110.53
 91.98.161.68
 92.112.126.181
@@ -749,10 +753,6 @@
 95.217.80.20
 95.217.80.22
 96.126.98.54
-99.84.234.126
-99.84.234.64
-99.84.234.84
-99.84.234.98
 a.leopard-raws.org
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 academic-p2p.appspot.com
@@ -2752,6 +2752,7 @@ udp://camera.lei001.com:6969/announce
 udp://caramelo.ddns.net:8000/announce
 udp://carr.codes:6969/announce
 udp://cerf.cs.umd.edu:8000/announce
+udp://chihaya.toss.li:9696/announce
 udp://chouchou.top:8080/announce
 udp://coeus.torrentonline.cc:42069/announce
 udp://concen.org:6969/announce
