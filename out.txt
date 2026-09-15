@@ -13,10 +13,6 @@
 107.189.3.200
 107.189.4.235
 107.189.7.165
-108.138.246.116
-108.138.246.118
-108.138.246.44
-108.138.246.72
 108.165.191.38
 108.53.194.223
 108.61.166.249
@@ -125,6 +121,7 @@
 123.245.62.84
 123.245.62.88
 123.245.62.90
+123.245.62.91
 123.245.62.95
 123.245.62.98
 123.245.62.99
@@ -525,6 +522,10 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
+3.170.185.16
+3.170.185.4
+3.170.185.50
+3.170.185.58
 31.38.161.123
 31.56.179.159
 31.59.141.120
@@ -532,8 +533,7 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:80
-34.66.57.33:8826
+34.66.57.33:1337
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -603,6 +603,7 @@
 51.83.160.93
 52.211.139.85
 52.58.128.163
+52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -736,7 +737,6 @@
 9.rarbg.com
 9.rarbg.me
 9.rarbg.to
-90.18.225.168
 90.226.147.124
 91.177.126.188
 91.186.213.204
@@ -745,7 +745,9 @@
 91.216.110.53
 91.98.161.68
 92.112.126.44
+92.112.127.61
 92.112.127.62
+92.157.9.239
 93.158.213.92
 93.158.213.92:1337
 93.158.213.92:6969
@@ -1290,7 +1292,6 @@ http://irrenhaus.dyndns.dk:80/announce.php # malfunction
 http://joczo.duckdns.org:6969/announce
 http://jp.moeweb.pw:6969/announce
 http://jsb.by00/announce
-http://jvavav.com:80/announce
 http://jvavav.com:80/announce # duplicate of http://tracker.bittor.pw:1337/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kaztorka.org:80/announce.php # registered torrents
@@ -1499,7 +1500,6 @@ http://torrent.arjlover.net:2710/announce
 http://torrent.arjlover.net:2710/announce # registered torrents
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.fedoraproject.org:6969/announce # registered torrents
-http://torrent.hificode.in:6969/announce
 http://torrent.hificode.in:6969/announce # duplicate of http://tracker.bittor.pw:1337/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce
@@ -2672,11 +2672,8 @@ udp://200.168.117.238:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://209.126.11.233:6969/announce
-udp://209.141.59.25:6969/announce
-udp://211.75.205.187:6969/announce
 udp://211.75.205.187:80/announce
 udp://211.75.205.188:6969/announce
-udp://211.75.205.188:80/announce
 udp://211.75.210.221:6969/announce
 udp://211.75.210.221:80/announce
 udp://211.75.29.254:6969/announce
@@ -2698,6 +2695,7 @@ udp://37.187.95.112:6969/announce
 udp://37.59.48.81:6969/announce
 udp://37.60.249.217:6969/announce
 udp://38.180.157.12:2715/announce
+udp://43.154.112.29:17272/announce
 udp://43.250.54.126:6969/announce
 udp://45.38.170.167:6969/announce
 udp://45.9.60.30:6969/announce
@@ -2881,7 +2879,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
@@ -3010,7 +3007,6 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
-udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cn.nyaa.net:6969/announce
