@@ -121,6 +121,7 @@
 123.245.62.84
 123.245.62.88
 123.245.62.90
+123.245.62.91
 123.245.62.95
 123.245.62.98
 123.245.62.99
@@ -189,6 +190,9 @@
 163.5.63.253
 164.152.110.70
 167.253.78.20
+172.237.146.18
+172.237.146.39
+172.237.146.46
 172.245.168.134
 173.201.36.219
 176.123.1.180
@@ -473,6 +477,7 @@
 212.42.38.197
 212.60.5.203
 212.8.249.30
+213.165.53.174
 216.110.169.204
 216.144.239.90
 217.156.123.49
@@ -517,10 +522,11 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-3.170.185.16
-3.170.185.4
-3.170.185.50
-3.170.185.58
+27.147.182.71
+3.171.85.110
+3.171.85.32
+3.171.85.4
+3.171.85.48
 31.38.161.123
 31.56.179.159
 31.59.141.120
@@ -528,7 +534,8 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:8000
+34.66.57.33:1337
+34.66.57.33:8826
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -598,7 +605,6 @@
 51.83.160.93
 52.211.139.85
 52.58.128.163
-52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -738,6 +744,7 @@
 91.216.110.53
 91.98.161.68
 92.112.126.44
+92.112.127.62
 93.158.213.92
 93.158.213.92:1337
 93.158.213.92:6969
@@ -2863,6 +2870,7 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://matsurifubuki.xyz:8826/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
@@ -3103,7 +3111,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
-udp://tracker1.absentmusing.com:8000/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
