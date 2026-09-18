@@ -121,7 +121,6 @@
 123.245.62.84
 123.245.62.88
 123.245.62.90
-123.245.62.91
 123.245.62.95
 123.245.62.98
 123.245.62.99
@@ -438,7 +437,6 @@
 207.241.231.226
 207.244.226.120
 208.83.20.20
-208.83.20.20:6969
 209.141.59.16
 209.141.59.25
 209.250.249.67
@@ -522,7 +520,6 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
-27.147.182.71
 31.38.161.123
 31.56.179.159
 31.59.141.120
@@ -530,8 +527,7 @@
 34.203.221.232
 34.52.190.155
 34.66.57.33
-34.66.57.33:80
-34.66.57.33:8826
+34.66.57.33:1337
 34.66.57.33:9696
 34.8.196.142
 34.8.38.57
@@ -745,7 +741,6 @@
 91.216.110.53
 91.98.161.68
 92.112.126.44
-92.112.127.62
 93.158.213.92
 93.158.213.92:1337
 93.158.213.92:6969
@@ -2874,7 +2869,6 @@ udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://matsurifubuki.xyz:8826/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
@@ -3003,7 +2997,6 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
-udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cn.nyaa.net:6969/announce
