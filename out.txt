@@ -522,6 +522,10 @@
 23.163.56.66
 23.168.232.9
 23.175.184.30
+3.170.185.16
+3.170.185.4
+3.170.185.50
+3.170.185.58
 31.38.161.123
 31.56.179.159
 31.59.141.120
@@ -598,10 +602,7 @@
 51.83.160.93
 52.211.139.85
 52.58.128.163
-52.85.132.103
-52.85.132.22
-52.85.132.45
-52.85.132.66
+52.58.128.163:6969
 54.36.179.216
 54.37.38.200
 54.39.48.3
@@ -944,7 +945,6 @@ http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.205.187:6969/announce
 http://211.75.205.187:80/announce
-http://211.75.205.188:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:6969/announce
@@ -1290,7 +1290,6 @@ http://kinorun.com/announce.php
 http://kinorun.com/announce.php # registered torrents
 http://kinorun.com:80/announce
 http://kinorun.com:80/announce.php
-http://kolanopentracker.airdns.org:3392/announce
 http://laxclax.ddns.net00/announce
 http://li1406-230.members.linode.com:6969/announce
 http://li2021-95.members.linode.com:6969/announce
@@ -2688,6 +2687,7 @@ udp://37.187.95.112:6969/announce
 udp://37.59.48.81:6969/announce
 udp://37.60.249.217:6969/announce
 udp://38.180.157.12:2715/announce
+udp://43.154.112.29:17272/announce
 udp://43.250.54.126:6969/announce
 udp://45.137.199.107:6969/announce
 udp://45.38.170.167:6969/announce
@@ -2765,7 +2765,6 @@ udp://9.rarbg.to:2990/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://90.226.147.124:6969/announce
 udp://91.177.126.188:6969/announce
 udp://91.211.5.21:6969/announce
-udp://91.216.110.53:451/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
 udp://93.158.213.92:1337/announce
